@@ -86,7 +86,7 @@ df_teams = pd.read_sql("SELECT * FROM tab_teams", con=db_connection)
 df_teams = df_teams.reset_index()
 
 countries = pd.read_sql("SELECT * FROM tab_countries", con=db_connection)
-countries = countries.reset_index()
+#countries = countries.reset_index()
 
 logging.info("Empezando a obtener los datos de los jugadores")
 player_column_names = ["player_name", "player_birth", "player_age", "player_height", "player_pref_foot", "player_position", "player_sing_date", "player_end_contract", "player_market_value", "player_img", "player_country", 'id_team', 'id_country']
@@ -117,17 +117,15 @@ for index, row in df_teams.iterrows():
         player_img = player.find("td", {"class": "posrela"}).find("table").find("tr").find("td").find("img").get("data-src")
         player_country = player.find_all("td", {"class": "zentriert"})[2].find("img").get("title")
         logging.info("Jugador {} - {} - {}".format(player_name, player_position, player_end_contract))
-        id_country = countries.loc[countries['country_name'] == player_country]['id_country']
-        print(id_country)
+        id_country = countries.loc[countries['country_name'] == player_country]['id_country'].values[0]
+        
         df_players.loc[len(df_players)] = [player_name, player_birth, player_age, player_height, player_foot, player_position, player_sing_date, player_end_contract, player_market_value, player_img, player_country, id_team, id_country]
-        break
-    break
-#for column in df_players :
- #   df_players.loc[( (df_players[column] == "") | (df_players[column] == "-")), column] = np.nan
+
+for column in df_players :
+   df_players.loc[( (df_players[column] == " ") | (df_players[column] == "-")), column] = np.nan
 
 df_players['player_birth'] = df_players['player_birth'].astype('datetime64[ns]')
 df_players['player_sing_date'] = df_players['player_sing_date'].astype('datetime64[ns]')
 df_players['player_end_contract'] = df_players['player_end_contract'].astype('datetime64[ns]')
-print(df_players)
+
 player_saved = df_players.to_sql("tab_players", con=db_connection, if_exists="append", index=False, chunksize=1000)
-print(player.prettify())
