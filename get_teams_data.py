@@ -30,7 +30,7 @@ logging.info("Empezando a obtener los datos de los equipos")
 def remove_accents(text):
     return unicodedata.normalize('NFD', text).encode('ascii', 'ignore').decode("utf-8")
 
-"""
+
 comps_url = [
     'https://www.transfermarkt.es/laliga/startseite/wettbewerb/ES1',
     'https://www.transfermarkt.es/premier-league/startseite/wettbewerb/GB1',
@@ -81,7 +81,7 @@ for index, row in df_teams.iterrows():
 countries_saved = df_countries.to_sql("tab_countries", con=db_connection, if_exists="append", index=False, chunksize=1000)
 logging.info("Total paises guardados: {}".format(countries_saved))
 
-"""
+
 df_teams = pd.read_sql("SELECT * FROM tab_teams", con=db_connection)
 df_teams = df_teams.reset_index()
 
