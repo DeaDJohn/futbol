@@ -53,8 +53,8 @@ for comp_url in comps_url:
         team_profile = "https://www.transfermarkt.es" + team.find_all("td", {"class": "hauptlink"})[0].find("a").get("href").replace('startseite','kader') + "/plus/1"
         df_teams.loc[len(df_teams)] = [team_name, team_image, team_profile]
 print(df_teams)
-teams_saved = df_teams.to_sql("tab_teams", con=db_connection, if_exists="append", index=False, chunksize=1000)
-logging.info("Total equipos guardados: {}".format(teams_saved))
+#teams_saved = df_teams.to_sql("tab_teams", con=db_connection, if_exists="append", index=False, chunksize=1000)
+#logging.info("Total equipos guardados: {}".format(teams_saved))
 
 
 df_teams = pd.read_sql("SELECT * FROM tab_teams", con=db_connection)
@@ -78,8 +78,8 @@ for index, row in df_teams.iterrows():
             logging.info("País encontrado {}".format(player_country))
             player_country_img = player_image_element.get("src").replace("verysmall", "head")
             df_countries.loc[len(df_countries)] = [player_country, player_country_img]
-countries_saved = df_countries.to_sql("tab_countries", con=db_connection, if_exists="append", index=False, chunksize=1000)
-logging.info("Total paises guardados: {}".format(countries_saved))
+#countries_saved = df_countries.to_sql("tab_countries", con=db_connection, if_exists="append", index=False, chunksize=1000)
+#logging.info("Total paises guardados: {}".format(countries_saved))
 
 
 df_teams = pd.read_sql("SELECT * FROM tab_teams", con=db_connection)
@@ -128,4 +128,4 @@ df_players['player_birth'] = df_players['player_birth'].astype('datetime64[ns]')
 df_players['player_sing_date'] = df_players['player_sing_date'].astype('datetime64[ns]')
 df_players['player_end_contract'] = df_players['player_end_contract'].astype('datetime64[ns]')
 
-player_saved = df_players.to_sql("tab_players", con=db_connection, if_exists="append", index=False, chunksize=1000)
+#player_saved = df_players.to_sql("tab_players", con=db_connection, if_exists="append", index=False, chunksize=1000)

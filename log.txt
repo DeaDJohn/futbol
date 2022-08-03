@@ -3100,3 +3100,1862 @@
 2022-07-28 18:58:46,347 root            INFO     Jugador Mounaim El Idrissy - Delantero centro - 30/06/2023
 2022-07-28 18:58:46,355 root            INFO     Jugador Gaetan Courtet - Delantero centro - 30/06/2023
 2022-07-28 18:58:46,363 root            INFO     Jugador Bevic Moussiti-Oko - Delantero centro - 30/06/2023
+2022-08-03 17:56:48,966 root            INFO     Engine(mysql+pymysql://root:***@localhost:3307/futbol_bd)
+2022-08-03 17:56:48,967 root            INFO     Empezando a obtener los datos de los equipos
+2022-08-03 17:57:13,161 root            INFO     Engine(mysql+pymysql://root:***@localhost:3307/futbol_bd)
+2022-08-03 17:57:13,161 root            INFO     Empezando a obtener los datos de los equipos
+2022-08-03 17:57:17,032 root            INFO     Empezando a obtener los datos de los paises
+2022-08-03 17:57:17,033 root            INFO     Equipo Real Madrid CF
+2022-08-03 17:57:19,081 root            INFO     País encontrado Bélgica
+2022-08-03 17:57:19,082 root            INFO     País encontrado Ucrania
+2022-08-03 17:57:19,084 root            INFO     País encontrado Brasil
+2022-08-03 17:57:19,085 root            INFO     País encontrado Austria
+2022-08-03 17:57:19,087 root            INFO     País encontrado Alemania
+2022-08-03 17:57:19,088 root            INFO     País encontrado España
+2022-08-03 17:57:19,090 root            INFO     País encontrado Francia
+2022-08-03 17:57:19,092 root            INFO     País encontrado Uruguay
+2022-08-03 17:57:19,094 root            INFO     País encontrado Croacia
+2022-08-03 17:57:19,097 root            INFO     País encontrado República Dominicana
+2022-08-03 17:57:19,098 root            INFO     Equipo FC Barcelona
+2022-08-03 17:57:19,426 root            INFO     País encontrado Dinamarca
+2022-08-03 17:57:19,428 root            INFO     País encontrado Estados Unidos
+2022-08-03 17:57:19,430 root            INFO     País encontrado Países Bajos
+2022-08-03 17:57:19,431 root            INFO     País encontrado Costa de Marfil
+2022-08-03 17:57:19,433 root            INFO     País encontrado Bosnia y Herzegovina
+2022-08-03 17:57:19,435 root            INFO     País encontrado Marruecos
+2022-08-03 17:57:19,437 root            INFO     País encontrado Polonia
+2022-08-03 17:57:19,439 root            INFO     País encontrado Gabón
+2022-08-03 17:57:19,441 root            INFO     Equipo Atlético de Madrid
+2022-08-03 17:57:21,048 root            INFO     País encontrado Eslovenia
+2022-08-03 17:57:21,050 root            INFO     País encontrado Montenegro
+2022-08-03 17:57:21,051 root            INFO     País encontrado Mozambique
+2022-08-03 17:57:21,053 root            INFO     País encontrado Argentina
+2022-08-03 17:57:21,054 root            INFO     País encontrado Colombia
+2022-08-03 17:57:21,056 root            INFO     País encontrado República Centroafricana
+2022-08-03 17:57:21,059 root            INFO     País encontrado Portugal
+2022-08-03 17:57:21,062 root            INFO     Equipo Villarreal CF
+2022-08-03 17:57:22,824 root            INFO     País encontrado Argelia
+2022-08-03 17:57:22,826 root            INFO     País encontrado Ecuador
+2022-08-03 17:57:22,829 root            INFO     País encontrado Nigeria
+2022-08-03 17:57:22,831 root            INFO     País encontrado Senegal
+2022-08-03 17:57:22,833 root            INFO     Equipo Real Sociedad
+2022-08-03 17:57:24,917 root            INFO     País encontrado Australia
+2022-08-03 17:57:24,924 root            INFO     País encontrado Japón
+2022-08-03 17:57:24,927 root            INFO     País encontrado Suecia
+2022-08-03 17:57:24,931 root            INFO     Equipo Sevilla FC
+2022-08-03 17:57:26,883 root            INFO     País encontrado Serbia
+2022-08-03 17:57:26,886 root            INFO     País encontrado México
+2022-08-03 17:57:26,889 root            INFO     Equipo Valencia CF
+2022-08-03 17:57:28,376 root            INFO     País encontrado Georgia
+2022-08-03 17:57:28,378 root            INFO     País encontrado Guinea
+2022-08-03 17:57:28,380 root            INFO     País encontrado Suiza
+2022-08-03 17:57:28,382 root            INFO     País encontrado Guadalupe
+2022-08-03 17:57:28,384 root            INFO     País encontrado Nueva Caledonia
+2022-08-03 17:57:28,387 root            INFO     Equipo Real Betis Balompié
+2022-08-03 17:57:30,156 root            INFO     País encontrado Chile
+2022-08-03 17:57:30,158 root            INFO     País encontrado Italia
+2022-08-03 17:57:30,163 root            INFO     Equipo Athletic Club
+2022-08-03 17:57:31,939 root            INFO     País encontrado Ghana
+2022-08-03 17:57:31,941 root            INFO     Equipo Getafe CF
+2022-08-03 17:57:33,816 root            INFO     País encontrado Togo
+2022-08-03 17:57:33,819 root            INFO     País encontrado República Checa
+2022-08-03 17:57:33,821 root            INFO     País encontrado Turquía
+2022-08-03 17:57:33,823 root            INFO     Equipo RCD Espanyol
+2022-08-03 17:57:35,785 root            INFO     País encontrado Albania
+2022-08-03 17:57:35,788 root            INFO     País encontrado China
+2022-08-03 17:57:35,790 root            INFO     Equipo CA Osasuna
+2022-08-03 17:57:37,478 root            INFO     Equipo RC Celta de Vigo
+2022-08-03 17:57:39,201 root            INFO     País encontrado Perú
+2022-08-03 17:57:39,205 root            INFO     Equipo UD Almería
+2022-08-03 17:57:41,334 root            INFO     País encontrado Guinea Ecuatorial
+2022-08-03 17:57:41,336 root            INFO     País encontrado Guinea-Bissau
+2022-08-03 17:57:41,338 root            INFO     País encontrado Eslovaquia
+2022-08-03 17:57:41,341 root            INFO     País encontrado Inglaterra
+2022-08-03 17:57:41,343 root            INFO     Equipo RCD Mallorca
+2022-08-03 17:57:43,153 root            INFO     País encontrado Corea del Sur
+2022-08-03 17:57:43,155 root            INFO     País encontrado Kosovo
+2022-08-03 17:57:43,158 root            INFO     Equipo Elche CF
+2022-08-03 17:57:44,868 root            INFO     Equipo Cádiz CF
+2022-08-03 17:57:47,178 root            INFO     País encontrado Paraguay
+2022-08-03 17:57:47,182 root            INFO     País encontrado Honduras
+2022-08-03 17:57:47,185 root            INFO     Equipo Rayo Vallecano
+2022-08-03 17:57:49,064 root            INFO     País encontrado Macedonia del Norte
+2022-08-03 17:57:49,068 root            INFO     País encontrado Cabo Verde
+2022-08-03 17:57:49,071 root            INFO     Equipo Real Valladolid CF
+2022-08-03 17:57:51,260 root            INFO     País encontrado Israel
+2022-08-03 17:57:51,263 root            INFO     Equipo Girona FC
+2022-08-03 17:57:52,740 root            INFO     País encontrado Malí
+2022-08-03 17:57:52,744 root            INFO     País encontrado Venezuela
+2022-08-03 17:57:52,748 root            INFO     Equipo Manchester City
+2022-08-03 17:57:54,471 root            INFO     País encontrado Burkina Faso
+2022-08-03 17:57:54,475 root            INFO     País encontrado Noruega
+2022-08-03 17:57:54,476 root            INFO     Equipo Liverpool FC
+2022-08-03 17:57:56,100 root            INFO     País encontrado Irlanda
+2022-08-03 17:57:56,103 root            INFO     País encontrado Camerún
+2022-08-03 17:57:56,105 root            INFO     País encontrado Escocia
+2022-08-03 17:57:56,107 root            INFO     País encontrado Grecia
+2022-08-03 17:57:56,111 root            INFO     País encontrado Egipto
+2022-08-03 17:57:56,113 root            INFO     Equipo Chelsea FC
+2022-08-03 17:57:58,561 root            INFO     País encontrado Gales
+2022-08-03 17:57:58,566 root            INFO     Equipo Tottenham Hotspur
+2022-08-03 17:58:00,045 root            INFO     Equipo Manchester United
+2022-08-03 17:58:02,026 root            INFO     País encontrado Túnez
+2022-08-03 17:58:02,029 root            INFO     Equipo Arsenal FC
+2022-08-03 17:58:04,009 root            INFO     País encontrado Islandia
+2022-08-03 17:58:04,015 root            INFO     Equipo Leicester City
+2022-08-03 17:58:05,826 root            INFO     País encontrado Irlanda del Norte
+2022-08-03 17:58:05,830 root            INFO     País encontrado Zambia
+2022-08-03 17:58:05,832 root            INFO     Equipo Aston Villa
+2022-08-03 17:58:07,938 root            INFO     País encontrado Zimbabue
+2022-08-03 17:58:07,940 root            INFO     País encontrado Jamaica
+2022-08-03 17:58:07,943 root            INFO     Equipo West Ham United
+2022-08-03 17:58:09,280 root            INFO     Equipo Everton FC
+2022-08-03 17:58:10,844 root            INFO     Equipo Wolverhampton Wanderers
+2022-08-03 17:58:12,347 root            INFO     Equipo Newcastle United
+2022-08-03 17:58:14,254 root            INFO     País encontrado Nueva Zelanda
+2022-08-03 17:58:14,258 root            INFO     Equipo Brighton & Hove Albion
+2022-08-03 17:58:17,865 root            INFO     País encontrado Rumania
+2022-08-03 17:58:17,867 root            INFO     Equipo Leeds United
+2022-08-03 17:58:20,035 root            INFO     País encontrado Angola
+2022-08-03 17:58:20,037 root            INFO     Equipo Brentford FC
+2022-08-03 17:58:22,181 root            INFO     País encontrado Granada
+2022-08-03 17:58:22,184 root            INFO     País encontrado Irán
+2022-08-03 17:58:22,188 root            INFO     País encontrado RD del Congo
+2022-08-03 17:58:22,192 root            INFO     Equipo Crystal Palace
+2022-08-03 17:58:23,859 root            INFO     Equipo Southampton FC
+2022-08-03 17:58:25,686 root            INFO     Equipo Fulham FC
+2022-08-03 17:58:27,714 root            INFO     Equipo Nottingham Forest
+2022-08-03 17:58:29,554 root            INFO     País encontrado Canadá
+2022-08-03 17:58:29,558 root            INFO     País encontrado Montserrat
+2022-08-03 17:58:29,559 root            INFO     Equipo AFC Bournemouth
+2022-08-03 17:58:31,703 root            INFO     Equipo Inter de Milán
+2022-08-03 17:58:33,229 root            INFO     País encontrado Armenia
+2022-08-03 17:58:33,231 root            INFO     Equipo Juventus de Turín
+2022-08-03 17:58:35,559 root            INFO     Equipo AC Milan
+2022-08-03 17:58:37,452 root            INFO     Equipo SSC Nápoles
+2022-08-03 17:58:39,466 root            INFO     Equipo AS Roma
+2022-08-03 17:58:41,341 root            INFO     País encontrado Gambia
+2022-08-03 17:58:41,345 root            INFO     País encontrado Uzbekistán
+2022-08-03 17:58:41,346 root            INFO     Equipo Atalanta de Bérgamo
+2022-08-03 17:58:44,469 root            INFO     País encontrado Rusia
+2022-08-03 17:58:44,472 root            INFO     Equipo SS Lazio
+2022-08-03 17:58:46,790 root            INFO     País encontrado Lituania
+2022-08-03 17:58:46,794 root            INFO     País encontrado Surinam
+2022-08-03 17:58:46,798 root            INFO     Equipo Fiorentina
+2022-08-03 17:58:49,958 root            INFO     Equipo US Sassuolo
+2022-08-03 17:58:51,855 root            INFO     País encontrado Martinica
+2022-08-03 17:58:51,857 root            INFO     Equipo Hellas Verona
+2022-08-03 17:58:53,669 root            INFO     Equipo Bolonia
+2022-08-03 17:58:55,373 root            INFO     Equipo Torino FC
+2022-08-03 17:58:57,434 root            INFO     País encontrado Hungría
+2022-08-03 17:58:57,437 root            INFO     País encontrado Moldavia
+2022-08-03 17:58:57,438 root            INFO     Equipo Udinese
+2022-08-03 17:58:59,138 root            INFO     Equipo AC Monza
+2022-08-03 17:59:01,182 root            INFO     País encontrado Bulgaria
+2022-08-03 17:59:01,188 root            INFO     Equipo FC Empoli
+2022-08-03 17:59:02,863 root            INFO     Equipo UC Sampdoria
+2022-08-03 17:59:05,244 root            INFO     Equipo Spezia
+2022-08-03 17:59:08,370 root            INFO     Equipo US Salernitana 1919
+2022-08-03 17:59:10,639 root            INFO     País encontrado Chipre
+2022-08-03 17:59:10,643 root            INFO     Equipo US Lecce
+2022-08-03 17:59:13,048 root            INFO     País encontrado Finlandia
+2022-08-03 17:59:13,051 root            INFO     Equipo US Cremonese
+2022-08-03 17:59:15,633 root            INFO     Equipo Bayern Múnich
+2022-08-03 17:59:17,378 root            INFO     Equipo Borussia Dortmund
+2022-08-03 17:59:19,009 root            INFO     Equipo RB Leipzig
+2022-08-03 17:59:20,904 root            INFO     Equipo Bayer 04 Leverkusen
+2022-08-03 17:59:22,468 root            INFO     Equipo Eintracht Fráncfort​​
+2022-08-03 17:59:24,713 root            INFO     Equipo VfL Wolfsburgo
+2022-08-03 17:59:27,327 root            INFO     Equipo TSG 1899 Hoffenheim
+2022-08-03 17:59:29,144 root            INFO     Equipo Borussia Mönchengladbach
+2022-08-03 17:59:31,403 root            INFO     País encontrado Luxemburgo
+2022-08-03 17:59:31,405 root            INFO     Equipo VfB Stuttgart
+2022-08-03 17:59:33,666 root            INFO     Equipo SC Friburgo
+2022-08-03 17:59:36,017 root            INFO     Equipo Hertha Berlín
+2022-08-03 17:59:38,631 root            INFO     Equipo 1.FSV Mainz 05
+2022-08-03 17:59:41,068 root            INFO     Equipo FC Augsburgo
+2022-08-03 17:59:43,431 root            INFO     Equipo 1.FC Unión Berlín
+2022-08-03 17:59:45,724 root            INFO     Equipo FC Colonia
+2022-08-03 17:59:48,223 root            INFO     Equipo FC Schalke 04
+2022-08-03 17:59:50,546 root            INFO     Equipo SV Werder Bremen
+2022-08-03 17:59:52,572 root            INFO     Equipo VfL Bochum
+2022-08-03 17:59:54,534 root            INFO     País encontrado Costa Rica
+2022-08-03 17:59:54,537 root            INFO     País encontrado Filipinas
+2022-08-03 17:59:54,539 root            INFO     País encontrado Congo
+2022-08-03 17:59:54,540 root            INFO     Equipo París Saint-Germain FC
+2022-08-03 17:59:57,621 root            INFO     Equipo AS Mónaco
+2022-08-03 18:00:00,024 root            INFO     Equipo Olympique de Lyon
+2022-08-03 18:00:02,159 root            INFO     País encontrado Guayana Francesa
+2022-08-03 18:00:02,165 root            INFO     Equipo Olympique de Marsella
+2022-08-03 18:00:04,332 root            INFO     Equipo Stade Rennais FC
+2022-08-03 18:00:06,379 root            INFO     Equipo OGC Niza
+2022-08-03 18:00:08,702 root            INFO     Equipo LOSC Lille Métropole
+2022-08-03 18:00:10,901 root            INFO     Equipo RC Lens
+2022-08-03 18:00:12,531 root            INFO     Equipo Racing Club de Estrasburgo
+2022-08-03 18:00:14,518 root            INFO     País encontrado Haití
+2022-08-03 18:00:14,522 root            INFO     País encontrado Comoras
+2022-08-03 18:00:14,524 root            INFO     País encontrado Sudáfrica
+2022-08-03 18:00:14,525 root            INFO     Equipo Montpellier HSC
+2022-08-03 18:00:17,147 root            INFO     Equipo Stade Reims
+2022-08-03 18:00:23,235 root            INFO     Equipo FC Nantes
+2022-08-03 18:00:25,837 root            INFO     Equipo Stade Brestois 29
+2022-08-03 18:00:27,775 root            INFO     País encontrado Benín
+2022-08-03 18:00:27,777 root            INFO     Equipo FC Lorient
+2022-08-03 18:00:30,290 root            INFO     Equipo Angers SCO
+2022-08-03 18:00:32,527 root            INFO     Equipo ESTAC Troyes
+2022-08-03 18:00:34,093 root            INFO     Equipo Toulouse FC
+2022-08-03 18:00:36,939 root            INFO     Equipo Clermont Foot 63
+2022-08-03 18:00:39,171 root            INFO     Equipo AJ Auxerre
+2022-08-03 18:00:40,645 root            INFO     Equipo AC Ajaccio
+2022-08-03 18:00:43,186 root            INFO     Empezando a obtener los datos de los jugadores
+2022-08-03 18:00:43,187 root            INFO     Equipo Real Madrid CF
+2022-08-03 18:00:45,628 root            INFO     Jugador Thibaut Courtois - Portero - 30/06/2026
+2022-08-03 18:00:45,630 root            INFO     Jugador Andriy Lunin - Portero - 30/06/2024
+2022-08-03 18:00:45,633 root            INFO     Jugador Eder Militao - Defensa central - 30/06/2025
+2022-08-03 18:00:45,635 root            INFO     Jugador David Alaba - Defensa central - 30/06/2026
+2022-08-03 18:00:45,638 root            INFO     Jugador Antonio Rudiger - Defensa central - 30/06/2026
+2022-08-03 18:00:45,640 root            INFO     Jugador Nacho Fernandez - Defensa central - 30/06/2023
+2022-08-03 18:00:45,643 root            INFO     Jugador Jesus Vallejo - Defensa central - 30/06/2025
+2022-08-03 18:00:45,645 root            INFO     Jugador Ferland Mendy - Lateral izquierdo - 30/06/2025
+2022-08-03 18:00:45,648 root            INFO     Jugador Daniel Carvajal - Lateral derecho - 30/06/2025
+2022-08-03 18:00:45,651 root            INFO     Jugador Alvaro Odriozola - Lateral derecho - 30/06/2024
+2022-08-03 18:00:45,654 root            INFO     Jugador Aurelien Tchouameni - Pivote - 30/06/2028
+2022-08-03 18:00:45,656 root            INFO     Jugador Casemiro - Pivote - 30/06/2025
+2022-08-03 18:00:45,659 root            INFO     Jugador Federico Valverde - Mediocentro - 30/06/2027
+2022-08-03 18:00:45,662 root            INFO     Jugador Eduardo Camavinga - Mediocentro - 30/06/2027
+2022-08-03 18:00:45,664 root            INFO     Jugador Toni Kroos - Mediocentro - 30/06/2023
+2022-08-03 18:00:45,667 root            INFO     Jugador Dani Ceballos - Mediocentro - 30/06/2023
+2022-08-03 18:00:45,670 root            INFO     Jugador Luka Modric - Mediocentro - 30/06/2023
+2022-08-03 18:00:45,673 root            INFO     Jugador Reinier - Mediocentro ofensivo - 30/06/2026
+2022-08-03 18:00:45,675 root            INFO     Jugador Vinicius Junior - Extremo izquierdo - 30/06/2024
+2022-08-03 18:00:45,678 root            INFO     Jugador Eden Hazard - Extremo izquierdo - 30/06/2024
+2022-08-03 18:00:45,681 root            INFO     Jugador Rodrygo - Extremo derecho - 30/06/2025
+2022-08-03 18:00:45,684 root            INFO     Jugador Marco Asensio - Extremo derecho - 30/06/2023
+2022-08-03 18:00:45,687 root            INFO     Jugador Lucas Vazquez - Extremo derecho - 30/06/2024
+2022-08-03 18:00:45,689 root            INFO     Jugador Karim Benzema - Delantero centro - 30/06/2023
+2022-08-03 18:00:45,692 root            INFO     Jugador Mariano Diaz - Delantero centro - 30/06/2023
+2022-08-03 18:00:45,694 root            INFO     Equipo FC Barcelona
+2022-08-03 18:00:47,701 root            INFO     Jugador Marc-Andre ter Stegen - Portero - 30/06/2025
+2022-08-03 18:00:47,703 root            INFO     Jugador Inaki Pena - Portero - 30/06/2023
+2022-08-03 18:00:47,706 root            INFO     Jugador Neto - Portero - 30/06/2023
+2022-08-03 18:00:47,708 root            INFO     Jugador Jules Kounde - Defensa central - 30/06/2027
+2022-08-03 18:00:47,711 root            INFO     Jugador Ronald Araujo - Defensa central - 30/06/2026
+2022-08-03 18:00:47,713 root            INFO     Jugador Andreas Christensen - Defensa central - 30/06/2026
+2022-08-03 18:00:47,716 root            INFO     Jugador Eric Garcia - Defensa central - 30/06/2026
+2022-08-03 18:00:47,718 root            INFO     Jugador Gerard Pique - Defensa central - 30/06/2024
+2022-08-03 18:00:47,721 root            INFO     Jugador Samuel Umtiti - Defensa central - 30/06/2026
+2022-08-03 18:00:47,724 root            INFO     Jugador Jordi Alba - Lateral izquierdo - 30/06/2024
+2022-08-03 18:00:47,726 root            INFO     Jugador Sergino Dest - Lateral derecho - 30/06/2025
+2022-08-03 18:00:47,729 root            INFO     Jugador Sergio Busquets - Pivote - 30/06/2023
+2022-08-03 18:00:47,732 root            INFO     Jugador Pedri - Mediocentro - 30/06/2026
+2022-08-03 18:00:47,734 root            INFO     Jugador Frenkie de Jong - Mediocentro - 30/06/2026
+2022-08-03 18:00:47,737 root            INFO     Jugador Gavi - Mediocentro - 30/06/2023
+2022-08-03 18:00:47,739 root            INFO     Jugador Franck Kessie - Mediocentro - 30/06/2026
+2022-08-03 18:00:47,742 root            INFO     Jugador Nico Gonzalez - Mediocentro - 30/06/2024
+2022-08-03 18:00:47,744 root            INFO     Jugador Miralem Pjanic - Mediocentro - 30/06/2024
+2022-08-03 18:00:47,747 root            INFO     Jugador Riqui Puig - Mediocentro - 30/06/2023
+2022-08-03 18:00:47,749 root            INFO     Jugador Sergi Roberto - Mediocentro - 30/06/2023
+2022-08-03 18:00:47,752 root            INFO     Jugador Alex Collado - Mediocentro ofensivo - 30/06/2023
+2022-08-03 18:00:47,754 root            INFO     Jugador Ansu Fati - Extremo izquierdo - 30/06/2027
+2022-08-03 18:00:47,757 root            INFO     Jugador Ferran Torres - Extremo izquierdo - 30/06/2027
+2022-08-03 18:00:47,759 root            INFO     Jugador Ez Abde - Extremo izquierdo - 30/06/2024
+2022-08-03 18:00:47,762 root            INFO     Jugador Raphinha - Extremo derecho - 30/06/2027
+2022-08-03 18:00:47,764 root            INFO     Jugador Ousmane Dembele - Extremo derecho - 30/06/2024
+2022-08-03 18:00:47,767 root            INFO     Jugador Robert Lewandowski - Delantero centro - 30/06/2026
+2022-08-03 18:00:47,769 root            INFO     Jugador Memphis Depay - Delantero centro - 30/06/2023
+2022-08-03 18:00:47,772 root            INFO     Jugador Pierre-Emerick Aubameyang - Delantero centro - 30/06/2025
+2022-08-03 18:00:47,774 root            INFO     Jugador Martin Braithwaite - Delantero centro - 30/06/2024
+2022-08-03 18:00:47,776 root            INFO     Equipo Atlético de Madrid
+2022-08-03 18:00:49,918 root            INFO     Jugador Jan Oblak - Portero - 30/06/2023
+2022-08-03 18:00:49,920 root            INFO     Jugador Ivo Grbic - Portero - 30/06/2024
+2022-08-03 18:00:49,923 root            INFO     Jugador Jose Maria Gimenez - Defensa central - 30/06/2025
+2022-08-03 18:00:49,926 root            INFO     Jugador Mario Hermoso - Defensa central - 30/06/2024
+2022-08-03 18:00:49,928 root            INFO     Jugador Stefan Savic - Defensa central - 30/06/2024
+2022-08-03 18:00:49,931 root            INFO     Jugador Felipe - Defensa central - 30/06/2023
+2022-08-03 18:00:49,933 root            INFO     Jugador Renan Lodi - Lateral izquierdo - 30/06/2025
+2022-08-03 18:00:49,936 root            INFO     Jugador Reinildo Mandava - Lateral izquierdo - 30/06/2025
+2022-08-03 18:00:49,938 root            INFO     Jugador Nahuel Molina - Lateral derecho - 30/06/2027
+2022-08-03 18:00:49,941 root            INFO     Jugador Santiago Arias - Lateral derecho - 30/06/2023
+2022-08-03 18:00:49,943 root            INFO     Jugador Geoffrey Kondogbia - Pivote - 30/06/2024
+2022-08-03 18:00:49,946 root            INFO     Jugador Axel Witsel - Pivote - 30/06/2023
+2022-08-03 18:00:49,948 root            INFO     Jugador Marcos Llorente - Mediocentro - 30/06/2027
+2022-08-03 18:00:49,950 root            INFO     Jugador Rodrigo de Paul - Mediocentro - 30/06/2026
+2022-08-03 18:00:49,953 root            INFO     Jugador Koke - Mediocentro - 30/06/2024
+2022-08-03 18:00:49,955 root            INFO     Jugador Saul Niguez - Mediocentro - 30/06/2026
+2022-08-03 18:00:49,958 root            INFO     Jugador Daniel Wass - Mediocentro - 30/06/2023
+2022-08-03 18:00:49,960 root            INFO     Jugador Thomas Lemar - Mediocentro ofensivo - 30/06/2023
+2022-08-03 18:00:49,963 root            INFO     Jugador Yannick Carrasco - Extremo izquierdo - 30/06/2024
+2022-08-03 18:00:49,965 root            INFO     Jugador Marcos Paulo - Extremo izquierdo - 30/06/2026
+2022-08-03 18:00:49,968 root            INFO     Jugador Joao Felix - Mediapunta - 30/06/2026
+2022-08-03 18:00:49,970 root            INFO     Jugador Angel Correa - Mediapunta - 30/06/2026
+2022-08-03 18:00:49,973 root            INFO     Jugador Antoine Griezmann - Mediapunta - 30/06/2023
+2022-08-03 18:00:49,975 root            INFO     Jugador Matheus Cunha - Delantero centro - 30/06/2026
+2022-08-03 18:00:49,978 root            INFO     Jugador Alvaro Morata - Delantero centro - 30/06/2024
+2022-08-03 18:00:49,979 root            INFO     Equipo Villarreal CF
+2022-08-03 18:00:52,047 root            INFO     Jugador Geronimo Rulli - Portero - 30/06/2024
+2022-08-03 18:00:52,050 root            INFO     Jugador Pepe Reina - Portero - 30/06/2023
+2022-08-03 18:00:52,053 root            INFO     Jugador Pau Torres - Defensa central - 30/06/2024
+2022-08-03 18:00:52,056 root            INFO     Jugador Jorge Cuenca - Defensa central - 30/06/2025
+2022-08-03 18:00:52,059 root            INFO     Jugador Aissa Mandi - Defensa central - 30/06/2025
+2022-08-03 18:00:52,061 root            INFO     Jugador Raul Albiol - Defensa central - 30/06/2023
+2022-08-03 18:00:52,064 root            INFO     Jugador Pervis Estupinan - Lateral izquierdo - 30/06/2027
+2022-08-03 18:00:52,067 root            INFO     Jugador Alfonso Pedraza - Lateral izquierdo - 30/06/2026
+2022-08-03 18:00:52,069 root            INFO     Jugador Alberto Moreno - Lateral izquierdo - 30/06/2024
+2022-08-03 18:00:52,072 root            INFO     Jugador Juan Foyth - Lateral derecho - 30/06/2026
+2022-08-03 18:00:52,074 root            INFO     Jugador Kiko Femenia - Lateral derecho - 30/06/2025
+2022-08-03 18:00:52,077 root            INFO     Jugador Francis Coquelin - Pivote - 30/06/2024
+2022-08-03 18:00:52,079 root            INFO     Jugador Etienne Capoue - Pivote - 30/06/2024
+2022-08-03 18:00:52,082 root            INFO     Jugador Manu Trigueros - Mediocentro - 30/06/2025
+2022-08-03 18:00:52,085 root            INFO     Jugador Dani Parejo - Mediocentro - 30/06/2024
+2022-08-03 18:00:52,087 root            INFO     Jugador Manu Morlanes - Mediocentro - 30/06/2026
+2022-08-03 18:00:52,090 root            INFO     Jugador Alex Baena - Extremo izquierdo - 30/06/2025
+2022-08-03 18:00:52,092 root            INFO     Jugador Javi Ontiveros - Extremo izquierdo - 30/06/2024
+2022-08-03 18:00:52,095 root            INFO     Jugador Yeremy Pino - Extremo derecho - 30/06/2027
+2022-08-03 18:00:52,098 root            INFO     Jugador Samuel Chukwueze - Extremo derecho - 30/06/2024
+2022-08-03 18:00:52,100 root            INFO     Jugador Arnaut Danjuma - Delantero centro - 30/06/2026
+2022-08-03 18:00:52,103 root            INFO     Jugador Gerard Moreno - Delantero centro - 30/06/2027
+2022-08-03 18:00:52,105 root            INFO     Jugador Boulaye Dia - Delantero centro - 30/06/2026
+2022-08-03 18:00:52,108 root            INFO     Jugador Paco Alcacer - Delantero centro - 30/06/2025
+2022-08-03 18:00:52,110 root            INFO     Jugador Jose Luis Morales - Delantero centro - 30/06/2024
+2022-08-03 18:00:52,112 root            INFO     Equipo Real Sociedad
+2022-08-03 18:00:53,891 root            INFO     Jugador Alex Remiro - Portero - 30/06/2027
+2022-08-03 18:00:53,895 root            INFO     Jugador Mathew Ryan - Portero - 30/06/2023
+2022-08-03 18:00:53,900 root            INFO     Jugador Andoni Zubiaurre - Portero - 30/06/2024
+2022-08-03 18:00:53,906 root            INFO     Jugador Robin Le Normand - Defensa central - 30/06/2026
+2022-08-03 18:00:53,910 root            INFO     Jugador Aritz Elustondo - Defensa central - 30/06/2024
+2022-08-03 18:00:53,915 root            INFO     Jugador Igor Zubeldia - Defensa central - 30/06/2024
+2022-08-03 18:00:53,920 root            INFO     Jugador Jon Pacheco - Defensa central - 30/06/2027
+2022-08-03 18:00:53,925 root            INFO     Jugador Aihen Munoz - Lateral izquierdo - 30/06/2024
+2022-08-03 18:00:53,929 root            INFO     Jugador Diego Rico - Lateral izquierdo - 30/06/2023
+2022-08-03 18:00:53,934 root            INFO     Jugador Andoni Gorosabel - Lateral derecho - 30/06/2024
+2022-08-03 18:00:53,938 root            INFO     Jugador Alex Sola - Lateral derecho - 30/06/2026
+2022-08-03 18:00:53,941 root            INFO     Jugador Martin Zubimendi - Pivote - 30/06/2025
+2022-08-03 18:00:53,944 root            INFO     Jugador Asier Illarramendi - Pivote - 30/06/2023
+2022-08-03 18:00:53,948 root            INFO     Jugador Mikel Merino - Mediocentro - 30/06/2025
+2022-08-03 18:00:53,951 root            INFO     Jugador Ander Guevara - Mediocentro - 30/06/2024
+2022-08-03 18:00:53,954 root            INFO     Jugador Benat Turrientes - Mediocentro - 30/06/2027
+2022-08-03 18:00:53,957 root            INFO     Jugador David Silva - Mediocentro ofensivo - 30/06/2023
+2022-08-03 18:00:53,960 root            INFO     Jugador Mikel Oyarzabal - Extremo izquierdo - 30/06/2024
+2022-08-03 18:00:53,964 root            INFO     Jugador Ander Barrenetxea - Extremo izquierdo - 30/06/2027
+2022-08-03 18:00:53,968 root            INFO     Jugador Martin Merquelanz - Extremo izquierdo - 30/06/2025
+2022-08-03 18:00:53,972 root            INFO     Jugador Brais Mendez - Extremo derecho - 30/06/2028
+2022-08-03 18:00:53,976 root            INFO     Jugador Takefusa Kubo - Extremo derecho - 30/06/2027
+2022-08-03 18:00:53,980 root            INFO     Jugador Alexander Isak - Delantero centro - 30/06/2026
+2022-08-03 18:00:53,984 root            INFO     Jugador Mohamed-Ali Cho - Delantero centro - 30/06/2027
+2022-08-03 18:00:53,988 root            INFO     Jugador Carlos Fernandez - Delantero centro - 30/06/2026
+2022-08-03 18:00:53,990 root            INFO     Equipo Sevilla FC
+2022-08-03 18:00:55,923 root            INFO     Jugador Bono - Portero - 30/06/2025
+2022-08-03 18:00:55,926 root            INFO     Jugador Marko Dmitrovic - Portero - 30/06/2025
+2022-08-03 18:00:55,929 root            INFO     Jugador Marcao - Defensa central - 30/06/2027
+2022-08-03 18:00:55,931 root            INFO     Jugador Karim Rekik - Defensa central - 30/06/2025
+2022-08-03 18:00:55,934 root            INFO     Jugador Marcos Acuna - Lateral izquierdo - 30/06/2025
+2022-08-03 18:00:55,936 root            INFO     Jugador Gonzalo Montiel - Lateral derecho - 30/06/2026
+2022-08-03 18:00:55,939 root            INFO     Jugador Jesus Navas - Lateral derecho - 30/06/2024
+2022-08-03 18:00:55,941 root            INFO     Jugador Thomas Delaney - Pivote - 30/06/2025
+2022-08-03 18:00:55,944 root            INFO     Jugador Nemanja Gudelj - Pivote - 30/06/2023
+2022-08-03 18:00:55,946 root            INFO     Jugador Fernando - Pivote - 30/06/2024
+2022-08-03 18:00:55,949 root            INFO     Jugador Joan Jordan - Mediocentro - 30/06/2027
+2022-08-03 18:00:55,951 root            INFO     Jugador Oliver Torres - Mediocentro - 30/06/2024
+2022-08-03 18:00:55,954 root            INFO     Jugador Ivan Rakitic - Mediocentro - 30/06/2024
+2022-08-03 18:00:55,956 root            INFO     Jugador Papu Gomez - Mediocentro ofensivo - 30/06/2024
+2022-08-03 18:00:55,959 root            INFO     Jugador Lucas Ocampos - Extremo izquierdo - 30/06/2024
+2022-08-03 18:00:55,963 root            INFO     Jugador Tecatito - Extremo derecho - 30/06/2025
+2022-08-03 18:00:55,965 root            INFO     Jugador Erik Lamela - Extremo derecho - 30/06/2024
+2022-08-03 18:00:55,968 root            INFO     Jugador Suso - Extremo derecho - 30/06/2025
+2022-08-03 18:00:55,971 root            INFO     Jugador Rony Lopes - Extremo derecho - 30/06/2024
+2022-08-03 18:00:55,973 root            INFO     Jugador Youssef En-Nesyri - Delantero centro - 30/06/2025
+2022-08-03 18:00:55,976 root            INFO     Jugador Rafa Mir - Delantero centro - 30/06/2027
+2022-08-03 18:00:55,978 root            INFO     Jugador Munir El Haddadi - Delantero centro - 30/06/2023
+2022-08-03 18:00:55,981 root            INFO     Jugador Ivan Romero - Delantero centro - 30/06/2024
+2022-08-03 18:00:55,983 root            INFO     Equipo Valencia CF
+2022-08-03 18:00:58,146 root            INFO     Jugador Giorgi Mamardashvili - Portero - 30/06/2024
+2022-08-03 18:00:58,149 root            INFO     Jugador Jasper Cillessen - Portero - 30/06/2023
+2022-08-03 18:00:58,151 root            INFO     Jugador Jaume Domenech - Portero - 30/06/2023
+2022-08-03 18:00:58,154 root            INFO     Jugador Cristian Rivero - Portero - 30/06/2024
+2022-08-03 18:00:58,157 root            INFO     Jugador Gabriel Paulista - Defensa central - 30/06/2024
+2022-08-03 18:00:58,159 root            INFO     Jugador Mouctar Diakhaby - Defensa central - 30/06/2023
+2022-08-03 18:00:58,162 root            INFO     Jugador Eray Comert - Defensa central - 30/06/2026
+2022-08-03 18:00:58,165 root            INFO     Jugador Cristhian Mosquera - Defensa central - 30/06/2025
+2022-08-03 18:00:58,167 root            INFO     Jugador Jose Gaya - Lateral izquierdo - 30/06/2023
+2022-08-03 18:00:58,170 root            INFO     Jugador Jesus Vazquez - Lateral izquierdo - 30/06/2025
+2022-08-03 18:00:58,173 root            INFO     Jugador Toni Lato - Lateral izquierdo - 30/06/2023
+2022-08-03 18:00:58,175 root            INFO     Jugador Thierry Correia - Lateral derecho - 30/06/2026
+2022-08-03 18:00:58,178 root            INFO     Jugador Dimitri Foulquier - Lateral derecho - 30/06/2025
+2022-08-03 18:00:58,181 root            INFO     Jugador Hugo Guillamon - Pivote - 30/06/2023
+2022-08-03 18:00:58,183 root            INFO     Jugador Uros Racic - Pivote - 30/06/2024
+2022-08-03 18:00:58,186 root            INFO     Jugador Carlos Soler - Mediocentro - 30/06/2023
+2022-08-03 18:00:58,189 root            INFO     Jugador Yunus Musah - Mediocentro - 30/06/2026
+2022-08-03 18:00:58,192 root            INFO     Jugador Koba Koindredi - Mediocentro - 30/06/2025
+2022-08-03 18:00:58,194 root            INFO     Jugador Goncalo Guedes - Extremo izquierdo - 30/06/2024
+2022-08-03 18:00:58,197 root            INFO     Jugador Samuel Lino - Extremo izquierdo - 30/06/2023
+2022-08-03 18:00:58,200 root            INFO     Jugador Samu Castillejo - Extremo derecho - 30/06/2025
+2022-08-03 18:00:58,202 root            INFO     Jugador Manu Vallejo - Mediapunta - 30/06/2024
+2022-08-03 18:00:58,205 root            INFO     Jugador Maxi Gomez - Delantero centro - 30/06/2024
+2022-08-03 18:00:58,208 root            INFO     Jugador Hugo Duro - Delantero centro - 30/06/2026
+2022-08-03 18:00:58,211 root            INFO     Jugador Marcos Andre - Delantero centro - 30/06/2026
+2022-08-03 18:00:58,213 root            INFO     Equipo Real Betis Balompié
+2022-08-03 18:01:00,107 root            INFO     Jugador Rui Silva - Portero - 30/06/2026
+2022-08-03 18:01:00,111 root            INFO     Jugador Dani Martin - Portero - 30/06/2024
+2022-08-03 18:01:00,114 root            INFO     Jugador Claudio Bravo - Portero - 30/06/2023
+2022-08-03 18:01:00,117 root            INFO     Jugador Luiz Felipe - Defensa central - 30/06/2027
+2022-08-03 18:01:00,120 root            INFO     Jugador Edgar Gonzalez - Defensa central - 30/06/2025
+2022-08-03 18:01:00,123 root            INFO     Jugador Marc Bartra - Defensa central - 30/06/2023
+2022-08-03 18:01:00,125 root            INFO     Jugador German Pezzella - Defensa central - 30/06/2025
+2022-08-03 18:01:00,128 root            INFO     Jugador Victor Ruiz - Defensa central - 30/06/2023
+2022-08-03 18:01:00,131 root            INFO     Jugador Alex Moreno - Lateral izquierdo - 30/06/2025
+2022-08-03 18:01:00,134 root            INFO     Jugador Juan Miranda - Lateral izquierdo - 30/06/2024
+2022-08-03 18:01:00,136 root            INFO     Jugador Youssouf Sabaly - Lateral derecho - 30/06/2026
+2022-08-03 18:01:00,139 root            INFO     Jugador Martin Montoya - Lateral derecho - 30/06/2024
+2022-08-03 18:01:00,142 root            INFO     Jugador Guido Rodriguez - Pivote - 30/06/2024
+2022-08-03 18:01:00,145 root            INFO     Jugador William Carvalho - Pivote - 30/06/2023
+2022-08-03 18:01:00,147 root            INFO     Jugador Paul Akouokou - Pivote - 30/06/2024
+2022-08-03 18:01:00,150 root            INFO     Jugador Andres Guardado - Mediocentro - 30/06/2023
+2022-08-03 18:01:00,153 root            INFO     Jugador Victor Camarasa - Mediocentro - 30/06/2023
+2022-08-03 18:01:00,155 root            INFO     Jugador Nabil Fekir - Mediocentro ofensivo - 30/06/2026
+2022-08-03 18:01:00,158 root            INFO     Jugador Sergio Canales - Mediocentro ofensivo - 30/06/2026
+2022-08-03 18:01:00,160 root            INFO     Jugador Rodri Sanchez - Mediocentro ofensivo - 30/06/2026
+2022-08-03 18:01:00,163 root            INFO     Jugador Juanmi - Extremo izquierdo - 30/06/2024
+2022-08-03 18:01:00,166 root            INFO     Jugador Luiz Henrique - Extremo derecho - 30/06/2028
+2022-08-03 18:01:00,168 root            INFO     Jugador Aitor Ruibal - Extremo derecho - 30/06/2025
+2022-08-03 18:01:00,171 root            INFO     Jugador Rober Gonzalez - Extremo derecho - 30/06/2024
+2022-08-03 18:01:00,174 root            INFO     Jugador Joaquin - Extremo derecho - 30/06/2023
+2022-08-03 18:01:00,176 root            INFO     Jugador Borja Iglesias - Delantero centro - 30/06/2026
+2022-08-03 18:01:00,179 root            INFO     Jugador Willian Jose - Delantero centro - 30/06/2026
+2022-08-03 18:01:00,182 root            INFO     Jugador Loren Moron - Delantero centro - 30/06/2024
+2022-08-03 18:01:00,184 root            INFO     Equipo Athletic Club
+2022-08-03 18:01:02,225 root            INFO     Jugador Unai Simon - Portero - 30/06/2025
+2022-08-03 18:01:02,228 root            INFO     Jugador Julen Agirrezabala - Portero - 30/06/2025
+2022-08-03 18:01:02,231 root            INFO     Jugador Inigo Martinez - Defensa central - 30/06/2023
+2022-08-03 18:01:02,234 root            INFO     Jugador Yeray Alvarez - Defensa central - 30/06/2026
+2022-08-03 18:01:02,237 root            INFO     Jugador Dani Vivian - Defensa central - 30/06/2026
+2022-08-03 18:01:02,239 root            INFO     Jugador Yuri Berchiche - Lateral izquierdo - 30/06/2024
+2022-08-03 18:01:02,242 root            INFO     Jugador Mikel Balenziaga - Lateral izquierdo - 30/06/2023
+2022-08-03 18:01:02,245 root            INFO     Jugador Inigo Lekue - Lateral derecho - 30/06/2023
+2022-08-03 18:01:02,248 root            INFO     Jugador Ander Capa - Lateral derecho - 30/06/2024
+2022-08-03 18:01:02,250 root            INFO     Jugador Oscar de Marcos - Lateral derecho - 30/06/2023
+2022-08-03 18:01:02,253 root            INFO     Jugador Alex Petxa - Lateral derecho - -
+2022-08-03 18:01:02,256 root            INFO     Jugador Mikel Vesga - Pivote - 30/06/2024
+2022-08-03 18:01:02,259 root            INFO     Jugador Peru Nolaskoain - Pivote - 30/06/2024
+2022-08-03 18:01:02,262 root            INFO     Jugador Unai Vencedor - Mediocentro - 30/06/2027
+2022-08-03 18:01:02,265 root            INFO     Jugador Oier Zarraga - Mediocentro - 30/06/2023
+2022-08-03 18:01:02,267 root            INFO     Jugador Dani Garcia - Mediocentro - 30/06/2024
+2022-08-03 18:01:02,270 root            INFO     Jugador Iker Muniain - Extremo izquierdo - 30/06/2024
+2022-08-03 18:01:02,273 root            INFO     Jugador Jon Morcillo - Extremo izquierdo - 30/06/2023
+2022-08-03 18:01:02,275 root            INFO     Jugador Nico Serrano - Extremo izquierdo - 30/06/2024
+2022-08-03 18:01:02,278 root            INFO     Jugador Alex Berenguer - Extremo derecho - 30/06/2024
+2022-08-03 18:01:02,281 root            INFO     Jugador Nico Williams - Extremo derecho - 30/06/2024
+2022-08-03 18:01:02,283 root            INFO     Jugador Oihan Sancet - Mediapunta - 30/06/2024
+2022-08-03 18:01:02,286 root            INFO     Jugador Inaki Williams - Delantero centro - 30/06/2028
+2022-08-03 18:01:02,289 root            INFO     Jugador Asier Villalibre - Delantero centro - 30/06/2023
+2022-08-03 18:01:02,291 root            INFO     Jugador Raul Garcia - Delantero centro - 30/06/2023
+2022-08-03 18:01:02,294 root            INFO     Jugador Gorka Guruzeta - Delantero centro - 30/06/2024
+2022-08-03 18:01:02,296 root            INFO     Equipo Getafe CF
+2022-08-03 18:01:03,608 root            INFO     Jugador David Soria - Portero - 30/06/2023
+2022-08-03 18:01:03,611 root            INFO     Jugador Diego Conde - Portero - 30/06/2024
+2022-08-03 18:01:03,614 root            INFO     Jugador Djene - Defensa central - 30/06/2023
+2022-08-03 18:01:03,616 root            INFO     Jugador Domingos Duarte - Defensa central - 30/06/2026
+2022-08-03 18:01:03,619 root            INFO     Jugador Stefan Mitrovic - Defensa central - 30/06/2024
+2022-08-03 18:01:03,622 root            INFO     Jugador Gaston Alvarez - Defensa central - 30/06/2023
+2022-08-03 18:01:03,624 root            INFO     Jugador Fabrizio Angileri - Lateral izquierdo - 30/06/2026
+2022-08-03 18:01:03,627 root            INFO     Jugador Juan Iglesias - Lateral derecho - 30/06/2026
+2022-08-03 18:01:03,630 root            INFO     Jugador Damian Suarez - Lateral derecho - 30/06/2023
+2022-08-03 18:01:03,633 root            INFO     Jugador Nemanja Maksimovic - Pivote - 30/06/2024
+2022-08-03 18:01:03,635 root            INFO     Jugador Mauro Arambarri - Mediocentro - 30/06/2023
+2022-08-03 18:01:03,638 root            INFO     Jugador Carles Alena - Mediocentro - 30/06/2026
+2022-08-03 18:01:03,641 root            INFO     Jugador Luis Milla - Mediocentro - 30/06/2027
+2022-08-03 18:01:03,644 root            INFO     Jugador Jaime Seoane - Mediocentro - 30/06/2025
+2022-08-03 18:01:03,646 root            INFO     Jugador Jakub Jankto - Interior izquierdo - 30/06/2026
+2022-08-03 18:01:03,649 root            INFO     Jugador Portu - Extremo derecho - 30/06/2023
+2022-08-03 18:01:03,652 root            INFO     Jugador Enes Unal - Delantero centro - 30/06/2025
+2022-08-03 18:01:03,654 root            INFO     Jugador Borja Mayoral - Delantero centro - 30/06/2027
+2022-08-03 18:01:03,657 root            INFO     Jugador Jaime Mata - Delantero centro - 30/06/2024
+2022-08-03 18:01:03,659 root            INFO     Equipo RCD Espanyol
+2022-08-03 18:01:05,551 root            INFO     Jugador Benjamin Lecomte - Portero - 30/06/2023
+2022-08-03 18:01:05,554 root            INFO     Jugador Joan Garcia - Portero - 30/06/2025
+2022-08-03 18:01:05,556 root            INFO     Jugador Leandro Cabrera - Defensa central - 30/06/2024
+2022-08-03 18:01:05,559 root            INFO     Jugador Sergi Gomez - Defensa central - 30/06/2024
+2022-08-03 18:01:05,561 root            INFO     Jugador Fernando Calero - Defensa central - 30/06/2024
+2022-08-03 18:01:05,564 root            INFO     Jugador Adria Pedrosa - Lateral izquierdo - 30/06/2023
+2022-08-03 18:01:05,566 root            INFO     Jugador Brian Olivan - Lateral izquierdo - 30/06/2025
+2022-08-03 18:01:05,569 root            INFO     Jugador Oscar Gil - Lateral derecho - 30/06/2024
+2022-08-03 18:01:05,571 root            INFO     Jugador Aleix Vidal - Lateral derecho - 30/06/2023
+2022-08-03 18:01:05,574 root            INFO     Jugador Vinicius Souza - Pivote - 30/06/2023
+2022-08-03 18:01:05,576 root            INFO     Jugador Sergi Darder - Mediocentro - 30/06/2023
+2022-08-03 18:01:05,579 root            INFO     Jugador Tonny Vilhena - Mediocentro - 30/06/2026
+2022-08-03 18:01:05,582 root            INFO     Jugador Keidi Bare - Mediocentro - 30/06/2024
+2022-08-03 18:01:05,584 root            INFO     Jugador Pol Lozano - Mediocentro - 30/06/2023
+2022-08-03 18:01:05,587 root            INFO     Jugador Javi Puado - Extremo izquierdo - 30/06/2025
+2022-08-03 18:01:05,589 root            INFO     Jugador Nico Melamed - Extremo izquierdo - 30/06/2024
+2022-08-03 18:01:05,592 root            INFO     Jugador Matias Vargas - Extremo izquierdo - 30/06/2024
+2022-08-03 18:01:05,595 root            INFO     Jugador Lei Wu - Extremo izquierdo - 30/06/2024
+2022-08-03 18:01:05,597 root            INFO     Jugador Adrian Embarba - Extremo derecho - 30/06/2024
+2022-08-03 18:01:05,600 root            INFO     Jugador Raul de Tomas - Delantero centro - 30/06/2026
+2022-08-03 18:01:05,603 root            INFO     Jugador Joselu - Delantero centro - 30/06/2025
+2022-08-03 18:01:05,605 root            INFO     Jugador Landry Dimata - Delantero centro - 30/06/2024
+2022-08-03 18:01:05,608 root            INFO     Jugador Juan Camilo Becerra - Delantero centro - 30/06/2023
+2022-08-03 18:01:05,611 root            INFO     Equipo CA Osasuna
+2022-08-03 18:01:07,718 root            INFO     Jugador Sergio Herrera - Portero - -
+2022-08-03 18:01:07,721 root            INFO     Jugador Aitor Fernandez - Portero - 30/06/2025
+2022-08-03 18:01:07,723 root            INFO     Jugador Juan Perez - Portero - 30/06/2024
+2022-08-03 18:01:07,726 root            INFO     Jugador David Garcia - Defensa central - 30/06/2026
+2022-08-03 18:01:07,728 root            INFO     Jugador Unai Garcia - Defensa central - 30/06/2023
+2022-08-03 18:01:07,731 root            INFO     Jugador Aridane Hernandez - Defensa central - 30/06/2023
+2022-08-03 18:01:07,733 root            INFO     Jugador Manu Sanchez - Lateral izquierdo - 30/06/2023
+2022-08-03 18:01:07,736 root            INFO     Jugador Juan Cruz - Lateral izquierdo - 30/06/2024
+2022-08-03 18:01:07,738 root            INFO     Jugador Nacho Vidal - Lateral derecho - 30/06/2025
+2022-08-03 18:01:07,741 root            INFO     Jugador Ruben Pena - Lateral derecho - 30/06/2025
+2022-08-03 18:01:07,743 root            INFO     Jugador Jesus Areso - Lateral derecho - 30/06/2026
+2022-08-03 18:01:07,746 root            INFO     Jugador Lucas Torro - Pivote - 30/06/2027
+2022-08-03 18:01:07,748 root            INFO     Jugador Jon Moncayola - Mediocentro - 30/06/2031
+2022-08-03 18:01:07,751 root            INFO     Jugador Darko Brasanac - Mediocentro - 30/06/2023
+2022-08-03 18:01:07,753 root            INFO     Jugador Pablo Ibanez - Mediocentro - 30/06/2024
+2022-08-03 18:01:07,756 root            INFO     Jugador Roberto Torres - Mediocentro ofensivo - 30/06/2023
+2022-08-03 18:01:07,758 root            INFO     Jugador Javi Martinez - Mediocentro ofensivo - 30/06/2026
+2022-08-03 18:01:07,761 root            INFO     Jugador Ruben Garcia - Extremo izquierdo - 30/06/2024
+2022-08-03 18:01:07,763 root            INFO     Jugador Moi Gomez - Extremo izquierdo - 30/06/2027
+2022-08-03 18:01:07,766 root            INFO     Jugador Kike Saverio - Extremo izquierdo - 30/06/2023
+2022-08-03 18:01:07,769 root            INFO     Jugador Kike Barja - Extremo derecho - 30/06/2026
+2022-08-03 18:01:07,771 root            INFO     Jugador Rober Ibanez - Extremo derecho - 30/06/2023
+2022-08-03 18:01:07,774 root            INFO     Jugador Chimy Avila - Delantero centro - 30/06/2026
+2022-08-03 18:01:07,776 root            INFO     Jugador Ante Budimir - Delantero centro - 30/06/2025
+2022-08-03 18:01:07,779 root            INFO     Jugador Kike Garcia - Delantero centro - 30/06/2024
+2022-08-03 18:01:07,781 root            INFO     Jugador Barbero - Delantero centro - 30/06/2023
+2022-08-03 18:01:07,783 root            INFO     Equipo RC Celta de Vigo
+2022-08-03 18:01:09,611 root            INFO     Jugador Agustin Marchesin - Portero - 30/06/2025
+2022-08-03 18:01:09,614 root            INFO     Jugador Ivan Villar - Portero - 30/06/2023
+2022-08-03 18:01:09,617 root            INFO     Jugador Unai Nunez - Defensa central - 30/06/2023
+2022-08-03 18:01:09,619 root            INFO     Jugador Joseph Aidoo - Defensa central - 30/06/2026
+2022-08-03 18:01:09,622 root            INFO     Jugador Oscar Mingueza - Defensa central - 30/06/2026
+2022-08-03 18:01:09,624 root            INFO     Jugador Carlos Dominguez - Defensa central - 30/06/2026
+2022-08-03 18:01:09,627 root            INFO     Jugador Javi Galan - Lateral izquierdo - 30/06/2026
+2022-08-03 18:01:09,629 root            INFO     Jugador Hugo Mallo - Lateral derecho - 30/06/2023
+2022-08-03 18:01:09,632 root            INFO     Jugador Kevin Vazquez - Lateral derecho - 30/06/2023
+2022-08-03 18:01:09,634 root            INFO     Jugador Sergio Carreira - Lateral derecho - 30/06/2025
+2022-08-03 18:01:09,637 root            INFO     Jugador Renato Tapia - Pivote - 30/06/2024
+2022-08-03 18:01:09,639 root            INFO     Jugador Fran Beltran - Mediocentro - 30/06/2026
+2022-08-03 18:01:09,642 root            INFO     Jugador Williot Swedberg - Mediocentro - 30/06/2027
+2022-08-03 18:01:09,645 root            INFO     Jugador Luca de la Torre - Mediocentro - 30/06/2026
+2022-08-03 18:01:09,647 root            INFO     Jugador Denis Suarez - Mediocentro ofensivo - 30/06/2024
+2022-08-03 18:01:09,650 root            INFO     Jugador Oscar Rodriguez - Mediocentro ofensivo - 30/06/2023
+2022-08-03 18:01:09,652 root            INFO     Jugador Miguel Baeza - Mediocentro ofensivo - 30/06/2025
+2022-08-03 18:01:09,655 root            INFO     Jugador Franco Cervi - Extremo izquierdo - 30/06/2024
+2022-08-03 18:01:09,657 root            INFO     Jugador Augusto Solari - Extremo derecho - 30/06/2023
+2022-08-03 18:01:09,660 root            INFO     Jugador Iago Aspas - Delantero centro - 30/06/2025
+2022-08-03 18:01:09,662 root            INFO     Jugador Santi Mina - Delantero centro - 30/06/2024
+2022-08-03 18:01:09,664 root            INFO     Equipo UD Almería
+2022-08-03 18:01:11,970 root            INFO     Jugador Fernando Martinez - Portero - 30/06/2023
+2022-08-03 18:01:11,973 root            INFO     Jugador Dragan Rosic - Portero - 30/06/2024
+2022-08-03 18:01:11,975 root            INFO     Jugador Kaiky - Defensa central - 30/06/2028
+2022-08-03 18:01:11,978 root            INFO     Jugador Rodrigo Ely - Defensa central - 30/06/2024
+2022-08-03 18:01:11,981 root            INFO     Jugador Chumi - Defensa central - 30/06/2025
+2022-08-03 18:01:11,983 root            INFO     Jugador Srdjan Babic - Defensa central - 30/06/2026
+2022-08-03 18:01:11,986 root            INFO     Jugador Nikola Maras - Defensa central - 30/06/2024
+2022-08-03 18:01:11,989 root            INFO     Jugador Ivan Martos - Defensa central - 30/06/2024
+2022-08-03 18:01:11,992 root            INFO     Jugador Sergio Akieme - Lateral izquierdo - 30/06/2026
+2022-08-03 18:01:11,995 root            INFO     Jugador Alex Centelles - Lateral izquierdo - 30/06/2026
+2022-08-03 18:01:11,997 root            INFO     Jugador Jonathan Silva - Lateral izquierdo - 30/06/2024
+2022-08-03 18:01:12,000 root            INFO     Jugador Arnau Sola - Lateral izquierdo - 30/06/2027
+2022-08-03 18:01:12,003 root            INFO     Jugador Alejandro Pozo - Lateral derecho - 30/06/2027
+2022-08-03 18:01:12,006 root            INFO     Jugador Houboulang Mendes - Lateral derecho - 30/06/2026
+2022-08-03 18:01:12,009 root            INFO     Jugador Juanjo Nieto - Lateral derecho - 30/06/2023
+2022-08-03 18:01:12,012 root            INFO     Jugador Samu Costa - Pivote - 30/06/2026
+2022-08-03 18:01:12,014 root            INFO     Jugador Inigo Eguaras - Pivote - 30/06/2024
+2022-08-03 18:01:12,017 root            INFO     Jugador Martin Svidersky - Pivote - 30/06/2027
+2022-08-03 18:01:12,020 root            INFO     Jugador Lucas Robertone - Mediocentro - 30/06/2025
+2022-08-03 18:01:12,023 root            INFO     Jugador Arnau Puigmal - Mediocentro - 30/06/2026
+2022-08-03 18:01:12,025 root            INFO     Jugador Cesar de la Hoz - Mediocentro - 30/06/2023
+2022-08-03 18:01:12,028 root            INFO     Jugador Gui Guedes - Mediocentro - 30/06/2028
+2022-08-03 18:01:12,031 root            INFO     Jugador Largie Ramazani - Extremo izquierdo - 30/06/2025
+2022-08-03 18:01:12,034 root            INFO     Jugador Jose Carlos Lazo - Extremo izquierdo - 30/06/2027
+2022-08-03 18:01:12,036 root            INFO     Jugador Francisco Portillo - Extremo derecho - 30/06/2023
+2022-08-03 18:01:12,039 root            INFO     Jugador Curro Sanchez - Extremo derecho - 30/06/2024
+2022-08-03 18:01:12,042 root            INFO     Jugador Arvin Appiah - Extremo derecho - 30/06/2024
+2022-08-03 18:01:12,044 root            INFO     Jugador Umar Sadiq - Delantero centro - 30/06/2025
+2022-08-03 18:01:12,047 root            INFO     Jugador Marko Milovanovic - Delantero centro - 30/06/2028
+2022-08-03 18:01:12,050 root            INFO     Jugador Dyego Sousa - Delantero centro - 30/06/2024
+2022-08-03 18:01:12,053 root            INFO     Jugador Jordi Escobar - Delantero centro - 30/06/2024
+2022-08-03 18:01:12,055 root            INFO     Equipo RCD Mallorca
+2022-08-03 18:01:13,762 root            INFO     Jugador Predrag Rajkovic - Portero - 30/06/2026
+2022-08-03 18:01:13,765 root            INFO     Jugador Dominik Greif - Portero - 30/06/2026
+2022-08-03 18:01:13,768 root            INFO     Jugador Leo Roman - Portero - 30/06/2026
+2022-08-03 18:01:13,770 root            INFO     Jugador Martin Valjent - Defensa central - 30/06/2025
+2022-08-03 18:01:13,773 root            INFO     Jugador Antonio Raillo - Defensa central - 30/06/2024
+2022-08-03 18:01:13,776 root            INFO     Jugador Franco Russo - Defensa central - 30/06/2024
+2022-08-03 18:01:13,778 root            INFO     Jugador Jose Copete - Defensa central - 30/06/2026
+2022-08-03 18:01:13,781 root            INFO     Jugador Jaume Costa - Lateral izquierdo - 30/06/2023
+2022-08-03 18:01:13,784 root            INFO     Jugador Braian Cufre - Lateral izquierdo - 30/06/2024
+2022-08-03 18:01:13,787 root            INFO     Jugador Pablo Maffeo - Lateral derecho - 30/06/2026
+2022-08-03 18:01:13,789 root            INFO     Jugador Giovanni Gonzalez - Lateral derecho - 30/06/2024
+2022-08-03 18:01:13,792 root            INFO     Jugador Rodrigo Battaglia - Pivote - 30/06/2024
+2022-08-03 18:01:13,795 root            INFO     Jugador Iddrisu Baba - Mediocentro - 30/06/2024
+2022-08-03 18:01:13,798 root            INFO     Jugador Inigo Ruiz de Galarreta - Mediocentro - 30/06/2023
+2022-08-03 18:01:13,800 root            INFO     Jugador Antonio Sanchez - Mediocentro - 30/06/2024
+2022-08-03 18:01:13,803 root            INFO     Jugador Clement Grenier - Mediocentro - 30/06/2024
+2022-08-03 18:01:13,806 root            INFO     Jugador Kang-in Lee - Mediocentro ofensivo - 30/06/2025
+2022-08-03 18:01:13,809 root            INFO     Jugador Dani Rodriguez - Mediocentro ofensivo - 30/06/2024
+2022-08-03 18:01:13,811 root            INFO     Jugador Amath Ndiaye - Extremo izquierdo - 30/06/2025
+2022-08-03 18:01:13,814 root            INFO     Jugador Lago Junior - Extremo izquierdo - 30/06/2023
+2022-08-03 18:01:13,816 root            INFO     Jugador Jordi Mboula - Extremo derecho - 30/06/2024
+2022-08-03 18:01:13,819 root            INFO     Jugador Vedat Muriqi - Delantero centro - 30/06/2027
+2022-08-03 18:01:13,821 root            INFO     Jugador Angel Rodriguez - Delantero centro - 30/06/2023
+2022-08-03 18:01:13,824 root            INFO     Jugador Abdon Prats - Delantero centro - 30/06/2024
+2022-08-03 18:01:13,827 root            INFO     Jugador Matthew Hoppe - Delantero centro - 30/06/2025
+2022-08-03 18:01:13,829 root            INFO     Jugador Alex Alegria - Delantero centro - 30/06/2024
+2022-08-03 18:01:13,831 root            INFO     Equipo Elche CF
+2022-08-03 18:01:15,275 root            INFO     Jugador Edgar Badia - Portero - 30/06/2023
+2022-08-03 18:01:15,277 root            INFO     Jugador Axel Werner - Portero - 30/06/2023
+2022-08-03 18:01:15,280 root            INFO     Jugador Enzo Roco - Defensa central - 30/06/2023
+2022-08-03 18:01:15,283 root            INFO     Jugador Diego Gonzalez - Defensa central - 30/06/2024
+2022-08-03 18:01:15,285 root            INFO     Jugador Pedro Bigas - Defensa central - 30/06/2023
+2022-08-03 18:01:15,288 root            INFO     Jugador Josema - Defensa central - 30/06/2023
+2022-08-03 18:01:15,290 root            INFO     Jugador Gonzalo Verdu - Defensa central - 30/06/2023
+2022-08-03 18:01:15,293 root            INFO     Jugador Johan Mojica - Lateral izquierdo - 30/06/2024
+2022-08-03 18:01:15,295 root            INFO     Jugador Carlos Clerc - Lateral izquierdo - 30/06/2024
+2022-08-03 18:01:15,298 root            INFO     Jugador Helibelton Palacios - Lateral derecho - 30/06/2023
+2022-08-03 18:01:15,300 root            INFO     Jugador Omar Mascarell - Pivote - 30/06/2025
+2022-08-03 18:01:15,303 root            INFO     Jugador Gerard Gumbau - Pivote - 30/06/2023
+2022-08-03 18:01:15,306 root            INFO     Jugador Raul Guti - Mediocentro - 30/06/2025
+2022-08-03 18:01:15,308 root            INFO     Jugador Javier Pastore - Mediocentro ofensivo - 30/06/2023
+2022-08-03 18:01:15,311 root            INFO     Jugador Pere Milla - Extremo izquierdo - 30/06/2025
+2022-08-03 18:01:15,313 root            INFO     Jugador Tete Morente - Extremo izquierdo - 30/06/2024
+2022-08-03 18:01:15,316 root            INFO     Jugador Fidel - Extremo izquierdo - 30/06/2024
+2022-08-03 18:01:15,318 root            INFO     Jugador Josan - Extremo derecho - 30/06/2023
+2022-08-03 18:01:15,321 root            INFO     Jugador Lucas Boye - Delantero centro - 30/06/2024
+2022-08-03 18:01:15,324 root            INFO     Jugador Ezequiel Ponce - Delantero centro - 30/06/2026
+2022-08-03 18:01:15,326 root            INFO     Jugador Mourad El Ghezouani - Delantero centro - 30/06/2023
+2022-08-03 18:01:15,328 root            INFO     Equipo Cádiz CF
+2022-08-03 18:01:17,520 root            INFO     Jugador Jeremias Ledesma - Portero - 30/06/2025
+2022-08-03 18:01:17,523 root            INFO     Jugador David Gil - Portero - 30/06/2025
+2022-08-03 18:01:17,526 root            INFO     Jugador Fali - Defensa central - 30/06/2024
+2022-08-03 18:01:17,528 root            INFO     Jugador Victor Chust - Defensa central - 30/06/2026
+2022-08-03 18:01:17,531 root            INFO     Jugador Juan Cala - Defensa central - 30/06/2024
+2022-08-03 18:01:17,533 root            INFO     Jugador Luis Hernandez - Defensa central - 30/06/2023
+2022-08-03 18:01:17,536 root            INFO     Jugador Alfonso Espino - Lateral izquierdo - 30/06/2023
+2022-08-03 18:01:17,539 root            INFO     Jugador Santiago Arzamendia - Lateral izquierdo - 30/06/2025
+2022-08-03 18:01:17,541 root            INFO     Jugador Joseba Zaldua - Lateral derecho - 30/06/2025
+2022-08-03 18:01:17,544 root            INFO     Jugador Iza Carcelen - Lateral derecho - 30/06/2023
+2022-08-03 18:01:17,546 root            INFO     Jugador Raul Parra - Lateral derecho - 30/06/2024
+2022-08-03 18:01:17,549 root            INFO     Jugador Tomas Alarcon - Pivote - 30/06/2025
+2022-08-03 18:01:17,551 root            INFO     Jugador Jon Ander Garrido - Pivote - 30/06/2023
+2022-08-03 18:01:17,554 root            INFO     Jugador Jose Mari - Pivote - 30/06/2024
+2022-08-03 18:01:17,557 root            INFO     Jugador Ruben Alcaraz - Mediocentro - 30/06/2024
+2022-08-03 18:01:17,559 root            INFO     Jugador Martin Calderon - Mediocentro - 30/06/2024
+2022-08-03 18:01:17,562 root            INFO     Jugador Alex Fernandez - Mediocentro ofensivo - 30/06/2025
+2022-08-03 18:01:17,564 root            INFO     Jugador Jorge Pombo - Mediocentro ofensivo - 30/06/2023
+2022-08-03 18:01:17,567 root            INFO     Jugador Awer Mabil - Extremo izquierdo - 30/06/2026
+2022-08-03 18:01:17,570 root            INFO     Jugador Alberto Perea - Extremo izquierdo - 30/06/2023
+2022-08-03 18:01:17,572 root            INFO     Jugador Ivan Chapela - Extremo izquierdo - 30/06/2024
+2022-08-03 18:01:17,575 root            INFO     Jugador Ivan Alejo - Extremo derecho - 30/06/2025
+2022-08-03 18:01:17,577 root            INFO     Jugador Choco Lozano - Delantero centro - 30/06/2023
+2022-08-03 18:01:17,580 root            INFO     Jugador Lucas Perez - Delantero centro - 30/06/2023
+2022-08-03 18:01:17,583 root            INFO     Jugador Ruben Sobrino - Delantero centro - 30/06/2024
+2022-08-03 18:01:17,585 root            INFO     Jugador Alvaro Negredo - Delantero centro - 30/06/2023
+2022-08-03 18:01:17,588 root            INFO     Jugador Alvaro Gimenez - Delantero centro - 30/06/2023
+2022-08-03 18:01:17,590 root            INFO     Jugador Milutin Osmajic - Delantero centro - 30/06/2024
+2022-08-03 18:01:17,592 root            INFO     Equipo Rayo Vallecano
+2022-08-03 18:01:20,423 root            INFO     Jugador Stole Dimitrievski - Portero - 30/06/2024
+2022-08-03 18:01:20,426 root            INFO     Jugador Miguel Angel Morro - Portero - 30/06/2023
+2022-08-03 18:01:20,429 root            INFO     Jugador Diego Lopez - Portero - 30/06/2023
+2022-08-03 18:01:20,431 root            INFO     Jugador Alejandro Catena - Defensa central - 30/06/2023
+2022-08-03 18:01:20,434 root            INFO     Jugador Florian Lejeune - Defensa central - 30/06/2023
+2022-08-03 18:01:20,436 root            INFO     Jugador Esteban Saveljich - Defensa central - 30/06/2023
+2022-08-03 18:01:20,439 root            INFO     Jugador Mario Suarez - Defensa central - 30/06/2023
+2022-08-03 18:01:20,441 root            INFO     Jugador Fran Garcia - Lateral izquierdo - 30/06/2025
+2022-08-03 18:01:20,444 root            INFO     Jugador Ivan Balliu - Lateral derecho - 30/06/2025
+2022-08-03 18:01:20,447 root            INFO     Jugador Mario Hernandez - Lateral derecho - 30/06/2023
+2022-08-03 18:01:20,449 root            INFO     Jugador Santi Comesana - Mediocentro - 30/06/2023
+2022-08-03 18:01:20,452 root            INFO     Jugador Unai Lopez - Mediocentro - 30/06/2024
+2022-08-03 18:01:20,454 root            INFO     Jugador Oscar Valentin - Mediocentro - 30/06/2025
+2022-08-03 18:01:20,457 root            INFO     Jugador Pathe Ciss - Mediocentro - 30/06/2025
+2022-08-03 18:01:20,459 root            INFO     Jugador Randy Nteka - Mediocentro ofensivo - 30/06/2026
+2022-08-03 18:01:20,462 root            INFO     Jugador Oscar Trejo - Mediocentro ofensivo - 30/06/2023
+2022-08-03 18:01:20,465 root            INFO     Jugador Jose Pozo - Mediocentro ofensivo - 30/06/2024
+2022-08-03 18:01:20,467 root            INFO     Jugador Alvaro Garcia - Extremo izquierdo - 30/06/2026
+2022-08-03 18:01:20,470 root            INFO     Jugador Bebe - Extremo izquierdo - 30/06/2025
+2022-08-03 18:01:20,472 root            INFO     Jugador Isi Palazon - Extremo derecho - 30/06/2025
+2022-08-03 18:01:20,475 root            INFO     Jugador Salvi Sanchez - Extremo derecho - 30/06/2024
+2022-08-03 18:01:20,477 root            INFO     Jugador Lass Bangoura - Extremo derecho - 30/06/2023
+2022-08-03 18:01:20,480 root            INFO     Jugador Sergio Camello - Delantero centro - 30/06/2023
+2022-08-03 18:01:20,482 root            INFO     Jugador Radamel Falcao - Delantero centro - 30/06/2023
+2022-08-03 18:01:20,485 root            INFO     Jugador Andres Martin - Delantero centro - 30/06/2024
+2022-08-03 18:01:20,488 root            INFO     Jugador Sergio Moreno - Delantero centro - 30/06/2023
+2022-08-03 18:01:20,490 root            INFO     Equipo Real Valladolid CF
+2022-08-03 18:01:23,136 root            INFO     Jugador Sergio Asenjo - Portero - 30/06/2024
+2022-08-03 18:01:23,139 root            INFO     Jugador Jordi Masip - Portero - 30/06/2024
+2022-08-03 18:01:23,141 root            INFO     Jugador Roberto - Portero - 30/06/2023
+2022-08-03 18:01:23,144 root            INFO     Jugador Joaquin Fernandez - Defensa central - 30/06/2023
+2022-08-03 18:01:23,147 root            INFO     Jugador Javi Sanchez - Defensa central - 30/06/2024
+2022-08-03 18:01:23,149 root            INFO     Jugador Jawad El Yamiq - Defensa central - 30/06/2024
+2022-08-03 18:01:23,152 root            INFO     Jugador Lucas Olaza - Lateral izquierdo - 30/06/2025
+2022-08-03 18:01:23,155 root            INFO     Jugador Sergio Escudero - Lateral izquierdo - 30/06/2024
+2022-08-03 18:01:23,157 root            INFO     Jugador Luis Perez - Lateral derecho - 30/06/2023
+2022-08-03 18:01:23,160 root            INFO     Jugador Ivan Fresneda - Lateral derecho - 30/06/2025
+2022-08-03 18:01:23,162 root            INFO     Jugador Monchu - Mediocentro - 30/06/2026
+2022-08-03 18:01:23,165 root            INFO     Jugador Roque Mesa - Mediocentro - 30/06/2023
+2022-08-03 18:01:23,168 root            INFO     Jugador Alvaro Aguado - Mediocentro - 30/06/2023
+2022-08-03 18:01:23,170 root            INFO     Jugador Fede San Emeterio - Mediocentro - 30/06/2023
+2022-08-03 18:01:23,173 root            INFO     Jugador Kike Perez - Mediocentro - 30/06/2025
+2022-08-03 18:01:23,175 root            INFO     Jugador Anuar - Mediocentro - 30/06/2023
+2022-08-03 18:01:23,178 root            INFO     Jugador Moha Moukhliss - Mediocentro - 30/06/2024
+2022-08-03 18:01:23,181 root            INFO     Jugador Toni Villa - Extremo izquierdo - 30/06/2023
+2022-08-03 18:01:23,183 root            INFO     Jugador Waldo Rubio - Extremo izquierdo - 30/06/2023
+2022-08-03 18:01:23,186 root            INFO     Jugador Hugo Vallejo - Extremo izquierdo - 30/06/2024
+2022-08-03 18:01:23,188 root            INFO     Jugador Gonzalo Plata - Extremo derecho - 30/06/2027
+2022-08-03 18:01:23,191 root            INFO     Jugador Oscar Plano - Extremo derecho - 30/06/2023
+2022-08-03 18:01:23,193 root            INFO     Jugador Ivan Sanchez - Extremo derecho - 30/06/2024
+2022-08-03 18:01:23,196 root            INFO     Jugador Victor Garcia - Extremo derecho - 30/06/2023
+2022-08-03 18:01:23,199 root            INFO     Jugador Shon Weissman - Delantero centro - 30/06/2024
+2022-08-03 18:01:23,201 root            INFO     Jugador Sergi Guardiola - Delantero centro - 30/06/2023
+2022-08-03 18:01:23,204 root            INFO     Jugador Sergio Leon - Delantero centro - 30/06/2024
+2022-08-03 18:01:23,206 root            INFO     Jugador Sekou Gassama - Delantero centro - 30/06/2024
+2022-08-03 18:01:23,209 root            INFO     Jugador Stiven Plaza - Delantero centro - 30/06/2023
+2022-08-03 18:01:23,211 root            INFO     Equipo Girona FC
+2022-08-03 18:01:25,131 root            INFO     Jugador Juan Carlos - Portero - 30/06/2023
+2022-08-03 18:01:25,134 root            INFO     Jugador Adrian Ortola - Portero - 30/06/2023
+2022-08-03 18:01:25,136 root            INFO     Jugador Santiago Bueno - Defensa central - 30/06/2024
+2022-08-03 18:01:25,139 root            INFO     Jugador David Lopez - Defensa central - 30/06/2023
+2022-08-03 18:01:25,142 root            INFO     Jugador Bernardo Espinosa - Defensa central - 30/06/2023
+2022-08-03 18:01:25,144 root            INFO     Jugador Juanpe - Defensa central - 30/06/2023
+2022-08-03 18:01:25,147 root            INFO     Jugador Yan Couto - Lateral derecho - 30/06/2023
+2022-08-03 18:01:25,149 root            INFO     Jugador Arnau Martinez - Lateral derecho - 30/06/2025
+2022-08-03 18:01:25,152 root            INFO     Jugador Ramon Terrats - Pivote - 30/06/2024
+2022-08-03 18:01:25,155 root            INFO     Jugador Ibrahima Kebe - Pivote - 30/06/2024
+2022-08-03 18:01:25,157 root            INFO     Jugador Yangel Herrera - Mediocentro - 30/06/2023
+2022-08-03 18:01:25,160 root            INFO     Jugador Aleix Garcia - Mediocentro - 30/06/2023
+2022-08-03 18:01:25,162 root            INFO     Jugador Alex Sala - Mediocentro - 30/06/2025
+2022-08-03 18:01:25,165 root            INFO     Jugador Borja Garcia - Mediocentro ofensivo - 30/06/2023
+2022-08-03 18:01:25,168 root            INFO     Jugador Ivan Martin - Mediocentro ofensivo - 30/06/2023
+2022-08-03 18:01:25,170 root            INFO     Jugador Samu Saiz - Extremo izquierdo - 30/06/2023
+2022-08-03 18:01:25,173 root            INFO     Jugador Rodrigo Riquelme - Extremo derecho - 30/06/2023
+2022-08-03 18:01:25,175 root            INFO     Jugador Valery Fernandez - Extremo derecho - 30/06/2023
+2022-08-03 18:01:25,178 root            INFO     Jugador Valentin Castellanos - Delantero centro - 30/06/2023
+2022-08-03 18:01:25,181 root            INFO     Jugador Cristhian Stuani - Delantero centro - 30/06/2026
+2022-08-03 18:01:25,183 root            INFO     Equipo Manchester City
+2022-08-03 18:01:25,528 root            INFO     Jugador Ederson - Portero - 30/06/2026
+2022-08-03 18:01:25,531 root            INFO     Jugador Stefan Ortega - Portero - 30/06/2025
+2022-08-03 18:01:25,533 root            INFO     Jugador Scott Carson - Portero - 30/06/2023
+2022-08-03 18:01:25,536 root            INFO     Jugador Ruben Dias - Defensa central - 30/06/2027
+2022-08-03 18:01:25,538 root            INFO     Jugador Aymeric Laporte - Defensa central - 30/06/2025
+2022-08-03 18:01:25,541 root            INFO     Jugador John Stones - Defensa central - 30/06/2026
+2022-08-03 18:01:25,543 root            INFO     Jugador Nathan Ake - Defensa central - 30/06/2025
+2022-08-03 18:01:25,546 root            INFO     Jugador Benjamin Mendy - Lateral izquierdo - 30/06/2023
+2022-08-03 18:01:25,549 root            INFO     Jugador Joao Cancelo - Lateral derecho - 30/06/2027
+2022-08-03 18:01:25,551 root            INFO     Jugador Kyle Walker - Lateral derecho - 30/06/2024
+2022-08-03 18:01:25,554 root            INFO     Jugador Issa Kabore - Lateral derecho - 30/06/2025
+2022-08-03 18:01:25,556 root            INFO     Jugador Rodri - Pivote - 30/06/2027
+2022-08-03 18:01:25,559 root            INFO     Jugador Kalvin Phillips - Pivote - 30/06/2028
+2022-08-03 18:01:25,561 root            INFO     Jugador Phil Foden - Mediocentro - 30/06/2024
+2022-08-03 18:01:25,564 root            INFO     Jugador Ilkay Gundogan - Mediocentro - 30/06/2023
+2022-08-03 18:01:25,567 root            INFO     Jugador Ante Palaversa - Mediocentro - 30/06/2023
+2022-08-03 18:01:25,569 root            INFO     Jugador Kevin De Bruyne - Mediocentro ofensivo - 30/06/2025
+2022-08-03 18:01:25,572 root            INFO     Jugador Bernardo Silva - Mediocentro ofensivo - 30/06/2025
+2022-08-03 18:01:25,574 root            INFO     Jugador Cole Palmer - Mediocentro ofensivo - 30/06/2026
+2022-08-03 18:01:25,577 root            INFO     Jugador Jack Grealish - Extremo izquierdo - 30/06/2027
+2022-08-03 18:01:25,580 root            INFO     Jugador Riyad Mahrez - Extremo derecho - 30/06/2025
+2022-08-03 18:01:25,582 root            INFO     Jugador Marlos Moreno - Extremo derecho - 30/06/2023
+2022-08-03 18:01:25,585 root            INFO     Jugador Erling Haaland - Delantero centro - 30/06/2027
+2022-08-03 18:01:25,588 root            INFO     Jugador Julian Alvarez - Delantero centro - 30/06/2027
+2022-08-03 18:01:25,591 root            INFO     Jugador Nahuel Bustos - Delantero centro - -
+2022-08-03 18:01:25,593 root            INFO     Equipo Liverpool FC
+2022-08-03 18:01:28,093 root            INFO     Jugador Alisson - Portero - 30/06/2027
+2022-08-03 18:01:28,098 root            INFO     Jugador Caoimhin Kelleher - Portero - 30/06/2026
+2022-08-03 18:01:28,104 root            INFO     Jugador Adrian - Portero - 30/06/2023
+2022-08-03 18:01:28,109 root            INFO     Jugador Virgil van Dijk - Defensa central - 30/06/2025
+2022-08-03 18:01:28,113 root            INFO     Jugador Ibrahima Konate - Defensa central - 30/06/2026
+2022-08-03 18:01:28,116 root            INFO     Jugador Joe Gomez - Defensa central - 30/06/2027
+2022-08-03 18:01:28,119 root            INFO     Jugador Joel Matip - Defensa central - 30/06/2024
+2022-08-03 18:01:28,122 root            INFO     Jugador Nathaniel Phillips - Defensa central - 30/06/2025
+2022-08-03 18:01:28,126 root            INFO     Jugador Sepp van den Berg - Defensa central - 30/06/2024
+2022-08-03 18:01:28,129 root            INFO     Jugador Andrew Robertson - Lateral izquierdo - 30/06/2026
+2022-08-03 18:01:28,133 root            INFO     Jugador Konstantinos Tsimikas - Lateral izquierdo - 30/06/2025
+2022-08-03 18:01:28,136 root            INFO     Jugador Trent Alexander-Arnold - Lateral derecho - 30/06/2025
+2022-08-03 18:01:28,139 root            INFO     Jugador Calvin Ramsay - Lateral derecho - 30/06/2027
+2022-08-03 18:01:28,142 root            INFO     Jugador Fabinho - Pivote - 30/06/2026
+2022-08-03 18:01:28,145 root            INFO     Jugador Curtis Jones - Mediocentro - 30/06/2025
+2022-08-03 18:01:28,148 root            INFO     Jugador Naby Keita - Mediocentro - 30/06/2023
+2022-08-03 18:01:28,151 root            INFO     Jugador Thiago - Mediocentro - 30/06/2024
+2022-08-03 18:01:28,155 root            INFO     Jugador Alex Oxlade-Chamberlain - Mediocentro - 30/06/2023
+2022-08-03 18:01:28,158 root            INFO     Jugador Jordan Henderson - Mediocentro - 30/06/2025
+2022-08-03 18:01:28,161 root            INFO     Jugador James Milner - Mediocentro - 30/06/2023
+2022-08-03 18:01:28,164 root            INFO     Jugador Fabio Carvalho - Mediocentro ofensivo - 30/06/2027
+2022-08-03 18:01:28,167 root            INFO     Jugador Luis Diaz - Extremo izquierdo - 30/06/2027
+2022-08-03 18:01:28,170 root            INFO     Jugador Diogo Jota - Extremo izquierdo - 30/06/2027
+2022-08-03 18:01:28,174 root            INFO     Jugador Mohamed Salah - Extremo derecho - 30/06/2025
+2022-08-03 18:01:28,177 root            INFO     Jugador Harvey Elliott - Extremo derecho - 30/06/2026
+2022-08-03 18:01:28,180 root            INFO     Jugador Darwin Nunez - Delantero centro - 30/06/2028
+2022-08-03 18:01:28,183 root            INFO     Jugador Roberto Firmino - Delantero centro - 30/06/2023
+2022-08-03 18:01:28,185 root            INFO     Equipo Chelsea FC
+2022-08-03 18:01:30,574 root            INFO     Jugador Edouard Mendy - Portero - 30/06/2025
+2022-08-03 18:01:30,577 root            INFO     Jugador Kepa Arrizabalaga - Portero - 30/06/2025
+2022-08-03 18:01:30,579 root            INFO     Jugador Marcus Bettinelli - Portero - 30/06/2023
+2022-08-03 18:01:30,582 root            INFO     Jugador Kalidou Koulibaly - Defensa central - 30/06/2026
+2022-08-03 18:01:30,584 root            INFO     Jugador Trevoh Chalobah - Defensa central - 30/06/2026
+2022-08-03 18:01:30,587 root            INFO     Jugador Ethan Ampadu - Defensa central - 30/06/2024
+2022-08-03 18:01:30,590 root            INFO     Jugador Malang Sarr - Defensa central - 30/06/2025
+2022-08-03 18:01:30,592 root            INFO     Jugador Thiago Silva - Defensa central - 30/06/2023
+2022-08-03 18:01:30,595 root            INFO     Jugador Matt Miazga - Defensa central - 30/06/2023
+2022-08-03 18:01:30,597 root            INFO     Jugador Ben Chilwell - Lateral izquierdo - 30/06/2025
+2022-08-03 18:01:30,600 root            INFO     Jugador Emerson - Lateral izquierdo - 30/06/2024
+2022-08-03 18:01:30,602 root            INFO     Jugador Marcos Alonso - Lateral izquierdo - 30/06/2023
+2022-08-03 18:01:30,605 root            INFO     Jugador Abdul-Rahman Baba - Lateral izquierdo - 30/06/2024
+2022-08-03 18:01:30,608 root            INFO     Jugador Reece James - Lateral derecho - 30/06/2025
+2022-08-03 18:01:30,610 root            INFO     Jugador Cesar Azpilicueta - Lateral derecho - 30/06/2023
+2022-08-03 18:01:30,613 root            INFO     Jugador Jorginho - Pivote - 30/06/2023
+2022-08-03 18:01:30,615 root            INFO     Jugador N'Golo Kante - Pivote - 30/06/2023
+2022-08-03 18:01:30,618 root            INFO     Jugador Mateo Kovacic - Mediocentro - 30/06/2024
+2022-08-03 18:01:30,621 root            INFO     Jugador Conor Gallagher - Mediocentro - 30/06/2025
+2022-08-03 18:01:30,623 root            INFO     Jugador Ruben Loftus-Cheek - Mediocentro - 30/06/2024
+2022-08-03 18:01:30,626 root            INFO     Jugador Ross Barkley - Mediocentro - 30/06/2023
+2022-08-03 18:01:30,628 root            INFO     Jugador Billy Gilmour - Mediocentro - 30/06/2024
+2022-08-03 18:01:30,631 root            INFO     Jugador Kenedy - Interior izquierdo - 30/06/2023
+2022-08-03 18:01:30,633 root            INFO     Jugador Mason Mount - Mediocentro ofensivo - 30/06/2024
+2022-08-03 18:01:30,636 root            INFO     Jugador Kai Havertz - Mediocentro ofensivo - 30/06/2025
+2022-08-03 18:01:30,639 root            INFO     Jugador Hakim Ziyech - Mediocentro ofensivo - 30/06/2025
+2022-08-03 18:01:30,641 root            INFO     Jugador Raheem Sterling - Extremo izquierdo - 30/06/2027
+2022-08-03 18:01:30,644 root            INFO     Jugador Christian Pulisic - Extremo derecho - 30/06/2024
+2022-08-03 18:01:30,646 root            INFO     Jugador Callum Hudson-Odoi - Extremo derecho - 30/06/2024
+2022-08-03 18:01:30,649 root            INFO     Jugador Timo Werner - Delantero centro - 30/06/2025
+2022-08-03 18:01:30,651 root            INFO     Jugador Armando Broja - Delantero centro - 30/06/2026
+2022-08-03 18:01:30,654 root            INFO     Jugador Michy Batshuayi - Delantero centro - 30/06/2023
+2022-08-03 18:01:30,656 root            INFO     Equipo Tottenham Hotspur
+2022-08-03 18:01:32,751 root            INFO     Jugador Hugo Lloris - Portero - 30/06/2024
+2022-08-03 18:01:32,754 root            INFO     Jugador Fraser Forster - Portero - 30/06/2024
+2022-08-03 18:01:32,756 root            INFO     Jugador Brandon Austin - Portero - 30/06/2024
+2022-08-03 18:01:32,759 root            INFO     Jugador Cristian Romero - Defensa central - 30/06/2023
+2022-08-03 18:01:32,761 root            INFO     Jugador Davinson Sanchez - Defensa central - 30/06/2024
+2022-08-03 18:01:32,764 root            INFO     Jugador Eric Dier - Defensa central - 30/06/2024
+2022-08-03 18:01:32,767 root            INFO     Jugador Japhet Tanganga - Defensa central - 30/06/2025
+2022-08-03 18:01:32,770 root            INFO     Jugador Clement Lenglet - Defensa central - 30/06/2023
+2022-08-03 18:01:32,772 root            INFO     Jugador Sergio Reguilon - Lateral izquierdo - 30/06/2025
+2022-08-03 18:01:32,775 root            INFO     Jugador Ben Davies - Lateral izquierdo - 30/06/2025
+2022-08-03 18:01:32,778 root            INFO     Jugador Emerson Royal - Lateral derecho - 30/06/2026
+2022-08-03 18:01:32,781 root            INFO     Jugador Matt Doherty - Lateral derecho - 30/06/2024
+2022-08-03 18:01:32,784 root            INFO     Jugador Djed Spence - Lateral derecho - 30/06/2027
+2022-08-03 18:01:32,787 root            INFO     Jugador Oliver Skipp - Pivote - 30/06/2027
+2022-08-03 18:01:32,790 root            INFO     Jugador Harry Winks - Pivote - 30/06/2024
+2022-08-03 18:01:32,793 root            INFO     Jugador Pierre-Emile Hojbjerg - Mediocentro - 30/06/2025
+2022-08-03 18:01:32,796 root            INFO     Jugador Yves Bissouma - Mediocentro - 30/06/2026
+2022-08-03 18:01:32,799 root            INFO     Jugador Tanguy Ndombele - Mediocentro - 30/06/2025
+2022-08-03 18:01:32,801 root            INFO     Jugador Rodrigo Bentancur - Mediocentro - 30/06/2026
+2022-08-03 18:01:32,804 root            INFO     Jugador Giovani Lo Celso - Mediocentro - 30/06/2025
+2022-08-03 18:01:32,807 root            INFO     Jugador Pape Matar Sarr - Mediocentro - 30/06/2026
+2022-08-03 18:01:32,810 root            INFO     Jugador Ryan Sessegnon - Interior izquierdo - 30/06/2025
+2022-08-03 18:01:32,813 root            INFO     Jugador Ivan Perisic - Interior izquierdo - 30/06/2024
+2022-08-03 18:01:32,816 root            INFO     Jugador Heung-min Son - Extremo izquierdo - 30/06/2025
+2022-08-03 18:01:32,819 root            INFO     Jugador Bryan Gil - Extremo izquierdo - 30/06/2026
+2022-08-03 18:01:32,821 root            INFO     Jugador Dejan Kulusevski - Extremo derecho - 30/06/2023
+2022-08-03 18:01:32,824 root            INFO     Jugador Lucas Moura - Extremo derecho - 30/06/2024
+2022-08-03 18:01:32,827 root            INFO     Jugador Harry Kane - Delantero centro - 30/06/2024
+2022-08-03 18:01:32,830 root            INFO     Jugador Richarlison - Delantero centro - 30/06/2027
+2022-08-03 18:01:32,832 root            INFO     Equipo Manchester United
+2022-08-03 18:01:34,778 root            INFO     Jugador David de Gea - Portero - 30/06/2023
+2022-08-03 18:01:34,781 root            INFO     Jugador Tom Heaton - Portero - 30/06/2023
+2022-08-03 18:01:34,784 root            INFO     Jugador Raphael Varane - Defensa central - 30/06/2025
+2022-08-03 18:01:34,787 root            INFO     Jugador Harry Maguire - Defensa central - 30/06/2025
+2022-08-03 18:01:34,790 root            INFO     Jugador Lisandro Martinez - Defensa central - 30/06/2027
+2022-08-03 18:01:34,792 root            INFO     Jugador Victor Lindelof - Defensa central - 30/06/2024
+2022-08-03 18:01:34,795 root            INFO     Jugador Axel Tuanzebe - Defensa central - 30/06/2023
+2022-08-03 18:01:34,797 root            INFO     Jugador Eric Bailly - Defensa central - 30/06/2024
+2022-08-03 18:01:34,800 root            INFO     Jugador Phil Jones - Defensa central - 30/06/2023
+2022-08-03 18:01:34,803 root            INFO     Jugador Teden Mengi - Defensa central - 30/06/2024
+2022-08-03 18:01:34,805 root            INFO     Jugador Luke Shaw - Lateral izquierdo - 30/06/2023
+2022-08-03 18:01:34,808 root            INFO     Jugador Alex Telles - Lateral izquierdo - 30/06/2024
+2022-08-03 18:01:34,810 root            INFO     Jugador Tyrell Malacia - Lateral izquierdo - 30/06/2026
+2022-08-03 18:01:34,813 root            INFO     Jugador Brandon Williams - Lateral izquierdo - 30/06/2024
+2022-08-03 18:01:34,816 root            INFO     Jugador Aaron Wan-Bissaka - Lateral derecho - 30/06/2024
+2022-08-03 18:01:34,818 root            INFO     Jugador Diogo Dalot - Lateral derecho - 30/06/2023
+2022-08-03 18:01:34,821 root            INFO     Jugador Scott McTominay - Pivote - 30/06/2025
+2022-08-03 18:01:34,823 root            INFO     Jugador James Garner - Pivote - 30/06/2024
+2022-08-03 18:01:34,826 root            INFO     Jugador Donny van de Beek - Mediocentro - 30/06/2025
+2022-08-03 18:01:34,829 root            INFO     Jugador Fred - Mediocentro - 30/06/2023
+2022-08-03 18:01:34,832 root            INFO     Jugador Bruno Fernandes - Mediocentro ofensivo - 30/06/2026
+2022-08-03 18:01:34,835 root            INFO     Jugador Christian Eriksen - Mediocentro ofensivo - 30/06/2025
+2022-08-03 18:01:34,838 root            INFO     Jugador Hannibal Mejbri - Mediocentro ofensivo - 30/06/2026
+2022-08-03 18:01:34,841 root            INFO     Jugador Jadon Sancho - Extremo izquierdo - 30/06/2026
+2022-08-03 18:01:34,844 root            INFO     Jugador Marcus Rashford - Extremo izquierdo - 30/06/2023
+2022-08-03 18:01:34,847 root            INFO     Jugador Anthony Elanga - Extremo izquierdo - 30/06/2026
+2022-08-03 18:01:34,850 root            INFO     Jugador Alejandro Garnacho - Extremo izquierdo - 30/06/2023
+2022-08-03 18:01:34,852 root            INFO     Jugador Amad Diallo - Extremo derecho - 30/06/2025
+2022-08-03 18:01:34,855 root            INFO     Jugador Shola Shoretire - Extremo derecho - -
+2022-08-03 18:01:34,857 root            INFO     Jugador Tahith Chong - Extremo derecho - 30/06/2023
+2022-08-03 18:01:34,860 root            INFO     Jugador Facundo Pellistri - Extremo derecho - 30/06/2025
+2022-08-03 18:01:34,863 root            INFO     Jugador Mason Greenwood - Extremo derecho - 30/06/2025
+2022-08-03 18:01:34,865 root            INFO     Jugador Cristiano Ronaldo - Delantero centro - 30/06/2023
+2022-08-03 18:01:34,869 root            INFO     Jugador Anthony Martial - Delantero centro - 30/06/2024
+2022-08-03 18:01:34,871 root            INFO     Equipo Arsenal FC
+2022-08-03 18:01:36,636 root            INFO     Jugador Aaron Ramsdale - Portero - 30/06/2025
+2022-08-03 18:01:36,639 root            INFO     Jugador Matt Turner - Portero - 30/06/2025
+2022-08-03 18:01:36,641 root            INFO     Jugador Runar Alex Runarsson - Portero - 30/06/2024
+2022-08-03 18:01:36,644 root            INFO     Jugador Ben White - Defensa central - 30/06/2026
+2022-08-03 18:01:36,647 root            INFO     Jugador Gabriel Magalhaes - Defensa central - 30/06/2025
+2022-08-03 18:01:36,650 root            INFO     Jugador William Saliba - Defensa central - 30/06/2024
+2022-08-03 18:01:36,652 root            INFO     Jugador Rob Holding - Defensa central - 30/06/2024
+2022-08-03 18:01:36,655 root            INFO     Jugador Pablo Mari - Defensa central - 30/06/2024
+2022-08-03 18:01:36,658 root            INFO     Jugador Kieran Tierney - Lateral izquierdo - 30/06/2026
+2022-08-03 18:01:36,661 root            INFO     Jugador Oleksandr Zinchenko - Lateral izquierdo - 30/06/2026
+2022-08-03 18:01:36,663 root            INFO     Jugador Takehiro Tomiyasu - Lateral derecho - 30/06/2025
+2022-08-03 18:01:36,666 root            INFO     Jugador Hector Bellerin - Lateral derecho - 30/06/2023
+2022-08-03 18:01:36,669 root            INFO     Jugador Cedric Soares - Lateral derecho - 30/06/2024
+2022-08-03 18:01:36,672 root            INFO     Jugador Thomas Partey - Pivote - 30/06/2025
+2022-08-03 18:01:36,674 root            INFO     Jugador Lucas Torreira - Pivote - 30/06/2023
+2022-08-03 18:01:36,677 root            INFO     Jugador Granit Xhaka - Pivote - 30/06/2024
+2022-08-03 18:01:36,680 root            INFO     Jugador Mohamed Elneny - Pivote - 30/06/2023
+2022-08-03 18:01:36,682 root            INFO     Jugador Albert Sambi Lokonga - Mediocentro - 30/06/2026
+2022-08-03 18:01:36,685 root            INFO     Jugador Bukayo Saka - Interior derecho - 30/06/2024
+2022-08-03 18:01:36,688 root            INFO     Jugador Ainsley Maitland-Niles - Interior derecho - 30/06/2023
+2022-08-03 18:01:36,691 root            INFO     Jugador Martin degaard - Mediocentro ofensivo - 30/06/2025
+2022-08-03 18:01:36,693 root            INFO     Jugador Emile Smith Rowe - Mediocentro ofensivo - 30/06/2026
+2022-08-03 18:01:36,696 root            INFO     Jugador Fabio Vieira - Mediocentro ofensivo - 30/06/2027
+2022-08-03 18:01:36,699 root            INFO     Jugador Gabriel Martinelli - Extremo izquierdo - 30/06/2024
+2022-08-03 18:01:36,702 root            INFO     Jugador Nicolas Pepe - Extremo derecho - 30/06/2024
+2022-08-03 18:01:36,705 root            INFO     Jugador Marquinhos - Extremo derecho - -
+2022-08-03 18:01:36,708 root            INFO     Jugador Reiss Nelson - Extremo derecho - 30/06/2023
+2022-08-03 18:01:36,711 root            INFO     Jugador Gabriel Jesus - Delantero centro - 30/06/2027
+2022-08-03 18:01:36,713 root            INFO     Jugador Eddie Nketiah - Delantero centro - 30/06/2027
+2022-08-03 18:01:36,716 root            INFO     Equipo Leicester City
+2022-08-03 18:01:38,690 root            INFO     Jugador Danny Ward - Portero - 30/06/2025
+2022-08-03 18:01:38,693 root            INFO     Jugador Kasper Schmeichel - Portero - 30/06/2023
+2022-08-03 18:01:38,695 root            INFO     Jugador Daniel Iversen - Portero - 30/06/2025
+2022-08-03 18:01:38,698 root            INFO     Jugador Wesley Fofana - Defensa central - 30/06/2027
+2022-08-03 18:01:38,701 root            INFO     Jugador Caglar Soyuncu - Defensa central - 30/06/2023
+2022-08-03 18:01:38,703 root            INFO     Jugador Jannik Vestergaard - Defensa central - 30/06/2024
+2022-08-03 18:01:38,706 root            INFO     Jugador Daniel Amartey - Defensa central - 30/06/2023
+2022-08-03 18:01:38,709 root            INFO     Jugador Jonny Evans - Defensa central - 30/06/2023
+2022-08-03 18:01:38,712 root            INFO     Jugador Luke Thomas - Lateral izquierdo - 30/06/2024
+2022-08-03 18:01:38,714 root            INFO     Jugador Ryan Bertrand - Lateral izquierdo - 30/06/2023
+2022-08-03 18:01:38,717 root            INFO     Jugador Timothy Castagne - Lateral derecho - 30/06/2025
+2022-08-03 18:01:38,720 root            INFO     Jugador James Justin - Lateral derecho - 30/06/2026
+2022-08-03 18:01:38,722 root            INFO     Jugador Ricardo Pereira - Lateral derecho - 30/06/2026
+2022-08-03 18:01:38,725 root            INFO     Jugador Wilfred Ndidi - Pivote - 30/06/2024
+2022-08-03 18:01:38,727 root            INFO     Jugador Boubakary Soumare - Pivote - 30/06/2026
+2022-08-03 18:01:38,730 root            INFO     Jugador Nampalys Mendy - Pivote - 30/06/2023
+2022-08-03 18:01:38,733 root            INFO     Jugador Youri Tielemans - Mediocentro - 30/06/2023
+2022-08-03 18:01:38,735 root            INFO     Jugador Dennis Praet - Mediocentro - 30/06/2024
+2022-08-03 18:01:38,738 root            INFO     Jugador Kiernan Dewsbury-Hall - Mediocentro - 30/06/2027
+2022-08-03 18:01:38,741 root            INFO     Jugador Hamza Choudhury - Mediocentro - 30/06/2023
+2022-08-03 18:01:38,743 root            INFO     Jugador Marc Albrighton - Interior derecho - 30/06/2024
+2022-08-03 18:01:38,746 root            INFO     Jugador Harvey Barnes - Interior izquierdo - 30/06/2025
+2022-08-03 18:01:38,749 root            INFO     Jugador James Maddison - Mediocentro ofensivo - 30/06/2024
+2022-08-03 18:01:38,751 root            INFO     Jugador Ayoze Perez - Mediapunta - 30/06/2023
+2022-08-03 18:01:38,754 root            INFO     Jugador Kelechi Iheanacho - Delantero centro - 30/06/2024
+2022-08-03 18:01:38,757 root            INFO     Jugador Patson Daka - Delantero centro - 30/06/2026
+2022-08-03 18:01:38,759 root            INFO     Jugador Jamie Vardy - Delantero centro - 30/06/2023
+2022-08-03 18:01:38,761 root            INFO     Equipo Aston Villa
+2022-08-03 18:01:40,763 root            INFO     Jugador Emiliano Martinez - Portero - 30/06/2027
+2022-08-03 18:01:40,766 root            INFO     Jugador Robin Olsen - Portero - -
+2022-08-03 18:01:40,769 root            INFO     Jugador Jed Steer - Portero - 30/06/2023
+2022-08-03 18:01:40,771 root            INFO     Jugador Diego Carlos - Defensa central - -
+2022-08-03 18:01:40,774 root            INFO     Jugador Tyrone Mings - Defensa central - 30/06/2024
+2022-08-03 18:01:40,776 root            INFO     Jugador Ezri Konsa - Defensa central - 30/06/2026
+2022-08-03 18:01:40,779 root            INFO     Jugador Calum Chambers - Defensa central - 30/06/2025
+2022-08-03 18:01:40,782 root            INFO     Jugador Kortney Hause - Defensa central - 30/06/2025
+2022-08-03 18:01:40,784 root            INFO     Jugador Lucas Digne - Lateral izquierdo - 30/06/2026
+2022-08-03 18:01:40,787 root            INFO     Jugador Ludwig Augustinsson - Lateral izquierdo - 30/06/2023
+2022-08-03 18:01:40,789 root            INFO     Jugador Ashley Young - Lateral izquierdo - 30/06/2023
+2022-08-03 18:01:40,792 root            INFO     Jugador Matty Cash - Lateral derecho - 30/06/2027
+2022-08-03 18:01:40,795 root            INFO     Jugador Frederic Guilbert - Lateral derecho - 30/06/2023
+2022-08-03 18:01:40,797 root            INFO     Jugador Douglas Luiz - Pivote - 30/06/2023
+2022-08-03 18:01:40,800 root            INFO     Jugador Boubacar Kamara - Pivote - 30/06/2027
+2022-08-03 18:01:40,803 root            INFO     Jugador Marvelous Nakamba - Pivote - 30/06/2024
+2022-08-03 18:01:40,805 root            INFO     Jugador John McGinn - Mediocentro - 30/06/2025
+2022-08-03 18:01:40,808 root            INFO     Jugador Jacob Ramsey - Mediocentro - 30/06/2027
+2022-08-03 18:01:40,810 root            INFO     Jugador Morgan Sanson - Mediocentro - 30/06/2025
+2022-08-03 18:01:40,813 root            INFO     Jugador Carney Chukwuemeka - Mediocentro - 30/06/2023
+2022-08-03 18:01:40,816 root            INFO     Jugador Leon Bailey - Extremo izquierdo - 30/06/2025
+2022-08-03 18:01:40,819 root            INFO     Jugador Philippe Coutinho - Extremo izquierdo - 30/06/2026
+2022-08-03 18:01:40,821 root            INFO     Jugador Emiliano Buendia - Extremo derecho - 30/06/2026
+2022-08-03 18:01:40,824 root            INFO     Jugador Bertrand Traore - Extremo derecho - 30/06/2024
+2022-08-03 18:01:40,827 root            INFO     Jugador Anwar El Ghazi - Extremo derecho - 30/06/2023
+2022-08-03 18:01:40,830 root            INFO     Jugador Ollie Watkins - Delantero centro - 30/06/2025
+2022-08-03 18:01:40,832 root            INFO     Jugador Danny Ings - Delantero centro - 30/06/2024
+2022-08-03 18:01:40,835 root            INFO     Jugador Cameron Archer - Delantero centro - 30/06/2025
+2022-08-03 18:01:40,838 root            INFO     Jugador Keinan Davis - Delantero centro - 30/06/2024
+2022-08-03 18:01:40,840 root            INFO     Equipo West Ham United
+2022-08-03 18:01:42,132 root            INFO     Jugador Alphonse Areola - Portero - 30/06/2027
+2022-08-03 18:01:42,135 root            INFO     Jugador Lukasz Fabianski - Portero - 30/06/2023
+2022-08-03 18:01:42,138 root            INFO     Jugador Darren Randolph - Portero - 30/06/2023
+2022-08-03 18:01:42,141 root            INFO     Jugador Nathan Trott - Portero - 30/06/2024
+2022-08-03 18:01:42,143 root            INFO     Jugador Kurt Zouma - Defensa central - 30/06/2025
+2022-08-03 18:01:42,146 root            INFO     Jugador Nayef Aguerd - Defensa central - 30/06/2027
+2022-08-03 18:01:42,149 root            INFO     Jugador Issa Diop - Defensa central - 30/06/2023
+2022-08-03 18:01:42,151 root            INFO     Jugador Craig Dawson - Defensa central - 30/06/2023
+2022-08-03 18:01:42,154 root            INFO     Jugador Angelo Ogbonna - Defensa central - 30/06/2022
+2022-08-03 18:01:42,157 root            INFO     Jugador Aaron Cresswell - Lateral izquierdo - 30/06/2023
+2022-08-03 18:01:42,159 root            INFO     Jugador Vladimir Coufal - Lateral derecho - 30/06/2023
+2022-08-03 18:01:42,162 root            INFO     Jugador Ben Johnson - Lateral derecho - 30/06/2024
+2022-08-03 18:01:42,164 root            INFO     Jugador Declan Rice - Pivote - 30/06/2024
+2022-08-03 18:01:42,167 root            INFO     Jugador Tomas Soucek - Pivote - 30/06/2024
+2022-08-03 18:01:42,170 root            INFO     Jugador Conor Coventry - Pivote - 30/06/2023
+2022-08-03 18:01:42,172 root            INFO     Jugador Flynn Downes - Mediocentro - 30/06/2027
+2022-08-03 18:01:42,175 root            INFO     Jugador Pablo Fornals - Mediocentro ofensivo - 30/06/2024
+2022-08-03 18:01:42,177 root            INFO     Jugador Nikola Vlasic - Mediocentro ofensivo - 30/06/2026
+2022-08-03 18:01:42,180 root            INFO     Jugador Manuel Lanzini - Mediocentro ofensivo - 30/06/2023
+2022-08-03 18:01:42,183 root            INFO     Jugador Said Benrahma - Extremo izquierdo - 30/06/2026
+2022-08-03 18:01:42,185 root            INFO     Jugador Jarrod Bowen - Extremo derecho - 30/06/2025
+2022-08-03 18:01:42,188 root            INFO     Jugador Gianluca Scamacca - Delantero centro - 30/06/2027
+2022-08-03 18:01:42,191 root            INFO     Jugador Michail Antonio - Delantero centro - 30/06/2024
+2022-08-03 18:01:42,193 root            INFO     Equipo Everton FC
+2022-08-03 18:01:43,990 root            INFO     Jugador Jordan Pickford - Portero - 30/06/2024
+2022-08-03 18:01:43,993 root            INFO     Jugador Asmir Begovic - Portero - 30/06/2023
+2022-08-03 18:01:43,996 root            INFO     Jugador James Tarkowski - Defensa central - 30/06/2026
+2022-08-03 18:01:43,999 root            INFO     Jugador Michael Keane - Defensa central - 30/06/2025
+2022-08-03 18:01:44,002 root            INFO     Jugador Yerry Mina - Defensa central - 30/06/2023
+2022-08-03 18:01:44,004 root            INFO     Jugador Ben Godfrey - Defensa central - 30/06/2025
+2022-08-03 18:01:44,007 root            INFO     Jugador Mason Holgate - Defensa central - 30/06/2025
+2022-08-03 18:01:44,010 root            INFO     Jugador Vitaliy Mykolenko - Lateral izquierdo - 30/06/2026
+2022-08-03 18:01:44,013 root            INFO     Jugador Ruben Vinagre - Lateral izquierdo - 30/06/2023
+2022-08-03 18:01:44,016 root            INFO     Jugador Niels Nkounkou - Lateral izquierdo - 30/06/2023
+2022-08-03 18:01:44,018 root            INFO     Jugador Nathan Patterson - Lateral derecho - 30/06/2027
+2022-08-03 18:01:44,021 root            INFO     Jugador Seamus Coleman - Lateral derecho - 30/06/2023
+2022-08-03 18:01:44,024 root            INFO     Jugador Allan - Pivote - 30/06/2023
+2022-08-03 18:01:44,026 root            INFO     Jugador Jean-Philippe Gbamin - Pivote - 30/06/2024
+2022-08-03 18:01:44,029 root            INFO     Jugador Abdoulaye Doucoure - Mediocentro - 30/06/2023
+2022-08-03 18:01:44,032 root            INFO     Jugador Andre Gomes - Mediocentro - 30/06/2024
+2022-08-03 18:01:44,035 root            INFO     Jugador Tom Davies - Mediocentro - 30/06/2023
+2022-08-03 18:01:44,038 root            INFO     Jugador Dele Alli - Mediocentro ofensivo - 30/06/2024
+2022-08-03 18:01:44,040 root            INFO     Jugador Demarai Gray - Extremo izquierdo - 30/06/2024
+2022-08-03 18:01:44,043 root            INFO     Jugador Anthony Gordon - Extremo izquierdo - 30/06/2025
+2022-08-03 18:01:44,046 root            INFO     Jugador Dwight McNeil - Extremo izquierdo - 30/06/2027
+2022-08-03 18:01:44,049 root            INFO     Jugador Alex Iwobi - Extremo izquierdo - 30/06/2024
+2022-08-03 18:01:44,052 root            INFO     Jugador Andros Townsend - Extremo derecho - 30/06/2023
+2022-08-03 18:01:44,055 root            INFO     Jugador Dominic Calvert-Lewin - Delantero centro - 30/06/2025
+2022-08-03 18:01:44,058 root            INFO     Jugador Salomon Rondon - Delantero centro - 30/06/2023
+2022-08-03 18:01:44,061 root            INFO     Equipo Wolverhampton Wanderers
+2022-08-03 18:01:45,922 root            INFO     Jugador Jose Sa - Portero - 30/06/2026
+2022-08-03 18:01:45,925 root            INFO     Jugador Matija Sarkic - Portero - 30/06/2025
+2022-08-03 18:01:45,928 root            INFO     Jugador Conor Coady - Defensa central - 30/06/2025
+2022-08-03 18:01:45,930 root            INFO     Jugador Max Kilman - Defensa central - 30/06/2026
+2022-08-03 18:01:45,933 root            INFO     Jugador Nathan Collins - Defensa central - 30/06/2027
+2022-08-03 18:01:45,935 root            INFO     Jugador Willy Boly - Defensa central - 30/06/2023
+2022-08-03 18:01:45,938 root            INFO     Jugador Yerson Mosquera - Defensa central - 30/06/2026
+2022-08-03 18:01:45,941 root            INFO     Jugador Toti - Defensa central - 30/06/2027
+2022-08-03 18:01:45,943 root            INFO     Jugador Rayan Ait-Nouri - Lateral izquierdo - 30/06/2026
+2022-08-03 18:01:45,946 root            INFO     Jugador Jonny Otto - Lateral izquierdo - 30/06/2025
+2022-08-03 18:01:45,948 root            INFO     Jugador Nelson Semedo - Lateral derecho - 30/06/2023
+2022-08-03 18:01:45,951 root            INFO     Jugador Ruben Neves - Pivote - 30/06/2024
+2022-08-03 18:01:45,954 root            INFO     Jugador Leander Dendoncker - Pivote - 30/06/2023
+2022-08-03 18:01:45,956 root            INFO     Jugador Joao Moutinho - Mediocentro - 30/06/2023
+2022-08-03 18:01:45,959 root            INFO     Jugador Bruno Jordao - Mediocentro - 30/06/2024
+2022-08-03 18:01:45,962 root            INFO     Jugador Luke Cundle - Mediocentro - 30/06/2026
+2022-08-03 18:01:45,964 root            INFO     Jugador Connor Ronan - Mediocentro - 30/06/2024
+2022-08-03 18:01:45,967 root            INFO     Jugador Morgan Gibbs-White - Mediocentro ofensivo - 30/06/2024
+2022-08-03 18:01:45,970 root            INFO     Jugador Pedro Neto - Extremo izquierdo - 30/06/2027
+2022-08-03 18:01:45,972 root            INFO     Jugador Chiquinho - Extremo izquierdo - 30/06/2026
+2022-08-03 18:01:45,975 root            INFO     Jugador Daniel Podence - Extremo derecho - 30/06/2024
+2022-08-03 18:01:45,977 root            INFO     Jugador Adama Traore - Extremo derecho - 30/06/2023
+2022-08-03 18:01:45,980 root            INFO     Jugador Raul Jimenez - Delantero centro - 30/06/2024
+2022-08-03 18:01:45,983 root            INFO     Jugador Hee-chan Hwang - Delantero centro - 30/06/2026
+2022-08-03 18:01:45,985 root            INFO     Jugador Patrick Cutrone - Delantero centro - 30/06/2023
+2022-08-03 18:01:45,988 root            INFO     Jugador Leo Bonatini - Delantero centro - 30/06/2023
+2022-08-03 18:01:45,990 root            INFO     Equipo Newcastle United
+2022-08-03 18:01:48,318 root            INFO     Jugador Nick Pope - Portero - 30/06/2026
+2022-08-03 18:01:48,321 root            INFO     Jugador Martin Dubravka - Portero - 30/06/2025
+2022-08-03 18:01:48,324 root            INFO     Jugador Karl Darlow - Portero - 30/06/2025
+2022-08-03 18:01:48,327 root            INFO     Jugador Mark Gillespie - Portero - 30/06/2023
+2022-08-03 18:01:48,330 root            INFO     Jugador Sven Botman - Defensa central - 30/06/2027
+2022-08-03 18:01:48,332 root            INFO     Jugador Dan Burn - Defensa central - 30/06/2024
+2022-08-03 18:01:48,335 root            INFO     Jugador Jamaal Lascelles - Defensa central - 30/06/2024
+2022-08-03 18:01:48,338 root            INFO     Jugador Fabian Schar - Defensa central - 30/06/2024
+2022-08-03 18:01:48,340 root            INFO     Jugador Federico Fernandez - Defensa central - 30/06/2023
+2022-08-03 18:01:48,343 root            INFO     Jugador Matt Targett - Lateral izquierdo - 30/06/2026
+2022-08-03 18:01:48,346 root            INFO     Jugador Jamal Lewis - Lateral izquierdo - 30/06/2025
+2022-08-03 18:01:48,349 root            INFO     Jugador Matt Ritchie - Lateral izquierdo - 30/06/2023
+2022-08-03 18:01:48,351 root            INFO     Jugador Paul Dummett - Lateral izquierdo - 30/06/2023
+2022-08-03 18:01:48,354 root            INFO     Jugador Kieran Trippier - Lateral derecho - 30/06/2024
+2022-08-03 18:01:48,358 root            INFO     Jugador Emil Krafth - Lateral derecho - 30/06/2024
+2022-08-03 18:01:48,360 root            INFO     Jugador Javier Manquillo - Lateral derecho - 30/06/2024
+2022-08-03 18:01:48,363 root            INFO     Jugador Bruno Guimaraes - Pivote - 30/06/2026
+2022-08-03 18:01:48,366 root            INFO     Jugador Joe Willock - Mediocentro - 30/06/2027
+2022-08-03 18:01:48,369 root            INFO     Jugador Sean Longstaff - Mediocentro - 30/06/2025
+2022-08-03 18:01:48,372 root            INFO     Jugador Jonjo Shelvey - Mediocentro - 30/06/2023
+2022-08-03 18:01:48,375 root            INFO     Jugador Matty Longstaff - Mediocentro - 30/06/2023
+2022-08-03 18:01:48,378 root            INFO     Jugador Joelinton - Mediocentro ofensivo - 30/06/2025
+2022-08-03 18:01:48,381 root            INFO     Jugador Miguel Almiron - Mediocentro ofensivo - 30/06/2024
+2022-08-03 18:01:48,384 root            INFO     Jugador Elliot Anderson - Mediocentro ofensivo - 30/06/2024
+2022-08-03 18:01:48,387 root            INFO     Jugador Allan Saint-Maximin - Extremo izquierdo - 30/06/2026
+2022-08-03 18:01:48,391 root            INFO     Jugador Ryan Fraser - Extremo izquierdo - 30/06/2025
+2022-08-03 18:01:48,394 root            INFO     Jugador Jacob Murphy - Extremo derecho - 30/06/2027
+2022-08-03 18:01:48,397 root            INFO     Jugador Callum Wilson - Delantero centro - 30/06/2024
+2022-08-03 18:01:48,399 root            INFO     Jugador Chris Wood - Delantero centro - 30/06/2024
+2022-08-03 18:01:48,401 root            INFO     Equipo Brighton & Hove Albion
+2022-08-03 18:01:50,331 root            INFO     Jugador Robert Sanchez - Portero - 30/06/2025
+2022-08-03 18:01:50,334 root            INFO     Jugador Kjell Scherpen - Portero - 30/06/2024
+2022-08-03 18:01:50,337 root            INFO     Jugador Jason Steele - Portero - 30/06/2023
+2022-08-03 18:01:50,339 root            INFO     Jugador Lewis Dunk - Defensa central - 30/06/2025
+2022-08-03 18:01:50,342 root            INFO     Jugador Adam Webster - Defensa central - 30/06/2026
+2022-08-03 18:01:50,345 root            INFO     Jugador Jan Paul van Hecke - Defensa central - 30/06/2023
+2022-08-03 18:01:50,347 root            INFO     Jugador Shane Duffy - Defensa central - 30/06/2023
+2022-08-03 18:01:50,350 root            INFO     Jugador Matt Clarke - Defensa central - 30/06/2023
+2022-08-03 18:01:50,352 root            INFO     Jugador Marc Cucurella - Lateral izquierdo - 30/06/2026
+2022-08-03 18:01:50,355 root            INFO     Jugador Tariq Lamptey - Lateral derecho - 30/06/2025
+2022-08-03 18:01:50,358 root            INFO     Jugador Joel Veltman - Lateral derecho - 30/06/2023
+2022-08-03 18:01:50,361 root            INFO     Jugador Michal Karbownik - Lateral derecho - 30/06/2024
+2022-08-03 18:01:50,364 root            INFO     Jugador Enock Mwepu - Mediocentro - 30/06/2025
+2022-08-03 18:01:50,366 root            INFO     Jugador Jakub Moder - Mediocentro - 30/06/2025
+2022-08-03 18:01:50,369 root            INFO     Jugador Kacper Kozlowski - Mediocentro - 30/06/2026
+2022-08-03 18:01:50,372 root            INFO     Jugador Pascal Gro - Mediocentro - 30/06/2024
+2022-08-03 18:01:50,374 root            INFO     Jugador Moises Caicedo - Mediocentro - 30/06/2025
+2022-08-03 18:01:50,377 root            INFO     Jugador Steven Alzate - Mediocentro - 30/06/2024
+2022-08-03 18:01:50,380 root            INFO     Jugador Solly March - Interior izquierdo - 30/06/2024
+2022-08-03 18:01:50,382 root            INFO     Jugador Alexis Mac Allister - Mediocentro ofensivo - 30/06/2023
+2022-08-03 18:01:50,385 root            INFO     Jugador Jeremy Sarmiento - Mediocentro ofensivo - 30/06/2026
+2022-08-03 18:01:50,387 root            INFO     Jugador Adam Lallana - Mediocentro ofensivo - 30/06/2023
+2022-08-03 18:01:50,390 root            INFO     Jugador Leandro Trossard - Extremo izquierdo - 30/06/2023
+2022-08-03 18:01:50,393 root            INFO     Jugador Kaoru Mitoma - Extremo izquierdo - 30/06/2025
+2022-08-03 18:01:50,395 root            INFO     Jugador Julio Enciso - Mediapunta - 30/06/2026
+2022-08-03 18:01:50,398 root            INFO     Jugador Neal Maupay - Delantero centro - 30/06/2023
+2022-08-03 18:01:50,400 root            INFO     Jugador Deniz Undav - Delantero centro - 30/06/2026
+2022-08-03 18:01:50,403 root            INFO     Jugador Danny Welbeck - Delantero centro - 30/06/2022
+2022-08-03 18:01:50,406 root            INFO     Jugador Florin Andone - Delantero centro - 30/06/2023
+2022-08-03 18:01:50,408 root            INFO     Jugador Evan Ferguson - Delantero centro - -
+2022-08-03 18:01:50,410 root            INFO     Equipo Leeds United
+2022-08-03 18:01:52,281 root            INFO     Jugador Illan Meslier - Portero - 30/06/2026
+2022-08-03 18:01:52,284 root            INFO     Jugador Kristoffer Klaesson - Portero - 30/06/2025
+2022-08-03 18:01:52,286 root            INFO     Jugador Diego Llorente - Defensa central - 30/06/2024
+2022-08-03 18:01:52,289 root            INFO     Jugador Robin Koch - Defensa central - 30/06/2024
+2022-08-03 18:01:52,292 root            INFO     Jugador Pascal Struijk - Defensa central - 30/06/2024
+2022-08-03 18:01:52,294 root            INFO     Jugador Liam Cooper - Defensa central - 30/06/2024
+2022-08-03 18:01:52,297 root            INFO     Jugador Junior Firpo - Lateral izquierdo - 30/06/2025
+2022-08-03 18:01:52,300 root            INFO     Jugador Leo Fuhr Hjelde - Lateral izquierdo - 30/06/2025
+2022-08-03 18:01:52,302 root            INFO     Jugador Rasmus Kristensen - Lateral derecho - 30/06/2027
+2022-08-03 18:01:52,305 root            INFO     Jugador Luke Ayling - Lateral derecho - 30/06/2023
+2022-08-03 18:01:52,308 root            INFO     Jugador Stuart Dallas - Lateral derecho - 30/06/2024
+2022-08-03 18:01:52,310 root            INFO     Jugador Cody Drameh - Lateral derecho - 30/06/2024
+2022-08-03 18:01:52,313 root            INFO     Jugador Tyler Adams - Pivote - 30/06/2027
+2022-08-03 18:01:52,316 root            INFO     Jugador Marc Roca - Pivote - 30/06/2026
+2022-08-03 18:01:52,319 root            INFO     Jugador Mateusz Klich - Mediocentro - 30/06/2024
+2022-08-03 18:01:52,321 root            INFO     Jugador Adam Forshaw - Mediocentro - 30/06/2023
+2022-08-03 18:01:52,324 root            INFO     Jugador Darko Gyabi - Mediocentro - 30/06/2026
+2022-08-03 18:01:52,327 root            INFO     Jugador Brenden Aaronson - Mediocentro ofensivo - 30/06/2027
+2022-08-03 18:01:52,330 root            INFO     Jugador Mateusz Bogusz - Mediocentro ofensivo - 30/06/2023
+2022-08-03 18:01:52,333 root            INFO     Jugador Luis Sinisterra - Extremo izquierdo - 30/06/2027
+2022-08-03 18:01:52,335 root            INFO     Jugador Jack Harrison - Extremo izquierdo - 30/06/2024
+2022-08-03 18:01:52,338 root            INFO     Jugador Daniel James - Extremo derecho - 30/06/2026
+2022-08-03 18:01:52,341 root            INFO     Jugador Helder Costa - Extremo derecho - 30/06/2024
+2022-08-03 18:01:52,343 root            INFO     Jugador Ian Poveda - Extremo derecho - 30/06/2024
+2022-08-03 18:01:52,346 root            INFO     Jugador Crysencio Summerville - Extremo derecho - 30/06/2026
+2022-08-03 18:01:52,349 root            INFO     Jugador Rodrigo - Mediapunta - 30/06/2024
+2022-08-03 18:01:52,351 root            INFO     Jugador Patrick Bamford - Delantero centro - 30/06/2026
+2022-08-03 18:01:52,354 root            INFO     Jugador Joe Gelhardt - Delantero centro - 30/06/2027
+2022-08-03 18:01:52,357 root            INFO     Jugador Sam Greenwood - Delantero centro - 30/06/2026
+2022-08-03 18:01:52,359 root            INFO     Equipo Brentford FC
+2022-08-03 18:01:54,554 root            INFO     Jugador David Raya - Portero - 30/06/2024
+2022-08-03 18:01:54,557 root            INFO     Jugador Thomas Strakosha - Portero - 30/06/2026
+2022-08-03 18:01:54,560 root            INFO     Jugador Kristoffer Ajer - Defensa central - 30/06/2026
+2022-08-03 18:01:54,562 root            INFO     Jugador Ethan Pinnock - Defensa central - 30/06/2025
+2022-08-03 18:01:54,565 root            INFO     Jugador Pontus Jansson - Defensa central - 30/06/2023
+2022-08-03 18:01:54,568 root            INFO     Jugador Mads Bech Sorensen - Defensa central - 30/06/2023
+2022-08-03 18:01:54,570 root            INFO     Jugador Ben Mee - Defensa central - 30/06/2024
+2022-08-03 18:01:54,573 root            INFO     Jugador Charlie Goode - Defensa central - 30/06/2024
+2022-08-03 18:01:54,575 root            INFO     Jugador Luka Racic - Defensa central - 30/06/2023
+2022-08-03 18:01:54,578 root            INFO     Jugador Rico Henry - Lateral izquierdo - 30/06/2026
+2022-08-03 18:01:54,581 root            INFO     Jugador Aaron Hickey - Lateral izquierdo - 30/06/2026
+2022-08-03 18:01:54,583 root            INFO     Jugador Mads Roerslev Rasmussen - Lateral derecho - 30/06/2024
+2022-08-03 18:01:54,586 root            INFO     Jugador Fin Stevens - Lateral derecho - 30/06/2027
+2022-08-03 18:01:54,589 root            INFO     Jugador Christian Norgaard - Pivote - 30/06/2025
+2022-08-03 18:01:54,591 root            INFO     Jugador Vitaly Janelt - Pivote - 30/06/2026
+2022-08-03 18:01:54,594 root            INFO     Jugador Josh Dasilva - Pivote - 30/06/2024
+2022-08-03 18:01:54,597 root            INFO     Jugador Mathias Jensen - Mediocentro - 30/06/2023
+2022-08-03 18:01:54,599 root            INFO     Jugador Frank Onyeka - Mediocentro - 30/06/2026
+2022-08-03 18:01:54,602 root            INFO     Jugador Shandon Baptiste - Mediocentro - 30/06/2024
+2022-08-03 18:01:54,604 root            INFO     Jugador Saman Ghoddos - Mediocentro ofensivo - 30/06/2023
+2022-08-03 18:01:54,607 root            INFO     Jugador Keane Lewis-Potter - Extremo izquierdo - 30/06/2028
+2022-08-03 18:01:54,610 root            INFO     Jugador Yoane Wissa - Extremo izquierdo - 30/06/2025
+2022-08-03 18:01:54,612 root            INFO     Jugador Tariqe Fosu - Extremo izquierdo - 30/06/2023
+2022-08-03 18:01:54,615 root            INFO     Jugador Bryan Mbeumo - Extremo derecho - 30/06/2026
+2022-08-03 18:01:54,618 root            INFO     Jugador Sergi Canos - Extremo derecho - 30/06/2023
+2022-08-03 18:01:54,620 root            INFO     Jugador Joel Valencia - Extremo derecho - 30/06/2023
+2022-08-03 18:01:54,623 root            INFO     Jugador Ivan Toney - Delantero centro - 30/06/2025
+2022-08-03 18:01:54,626 root            INFO     Jugador Halil Dervisoglu - Delantero centro - 30/06/2024
+2022-08-03 18:01:54,628 root            INFO     Equipo Crystal Palace
+2022-08-03 18:01:56,662 root            INFO     Jugador Sam Johnstone - Portero - 30/06/2026
+2022-08-03 18:01:56,665 root            INFO     Jugador Jack Butland - Portero - 30/06/2023
+2022-08-03 18:01:56,667 root            INFO     Jugador Vicente Guaita - Portero - 30/06/2023
+2022-08-03 18:01:56,670 root            INFO     Jugador Marc Guehi - Defensa central - 30/06/2026
+2022-08-03 18:01:56,673 root            INFO     Jugador Joachim Andersen - Defensa central - 30/06/2026
+2022-08-03 18:01:56,675 root            INFO     Jugador Chris Richards - Defensa central - 30/06/2027
+2022-08-03 18:01:56,678 root            INFO     Jugador Nathan Ferguson - Defensa central - 30/06/2023
+2022-08-03 18:01:56,681 root            INFO     Jugador James Tomkins - Defensa central - 30/06/2023
+2022-08-03 18:01:56,683 root            INFO     Jugador Tyrick Mitchell - Lateral izquierdo - 30/06/2025
+2022-08-03 18:01:56,686 root            INFO     Jugador Joel Ward - Lateral derecho - 30/06/2023
+2022-08-03 18:01:56,688 root            INFO     Jugador Nathaniel Clyne - Lateral derecho - 30/06/2023
+2022-08-03 18:01:56,691 root            INFO     Jugador Cheick Doucoure - Pivote - 30/06/2027
+2022-08-03 18:01:56,694 root            INFO     Jugador Jairo Riedewald - Pivote - 30/06/2024
+2022-08-03 18:01:56,696 root            INFO     Jugador Luka Milivojevic - Pivote - 30/06/2023
+2022-08-03 18:01:56,699 root            INFO     Jugador Will Hughes - Mediocentro - 30/06/2024
+2022-08-03 18:01:56,702 root            INFO     Jugador James McArthur - Mediocentro - 30/06/2023
+2022-08-03 18:01:56,704 root            INFO     Jugador Michael Olise - Interior derecho - 30/06/2026
+2022-08-03 18:01:56,707 root            INFO     Jugador Jeffrey Schlupp - Interior izquierdo - 30/06/2023
+2022-08-03 18:01:56,710 root            INFO     Jugador Eberechi Eze - Mediocentro ofensivo - 30/06/2025
+2022-08-03 18:01:56,712 root            INFO     Jugador Wilfried Zaha - Extremo izquierdo - 30/06/2023
+2022-08-03 18:01:56,715 root            INFO     Jugador Malcolm Ebiowei - Extremo derecho - 30/06/2027
+2022-08-03 18:01:56,718 root            INFO     Jugador Odsonne Edouard - Delantero centro - 30/06/2025
+2022-08-03 18:01:56,720 root            INFO     Jugador Jean-Philippe Mateta - Delantero centro - 30/06/2026
+2022-08-03 18:01:56,723 root            INFO     Jugador Jordan Ayew - Delantero centro - 30/06/2023
+2022-08-03 18:01:56,726 root            INFO     Jugador Christian Benteke - Delantero centro - 30/06/2023
+2022-08-03 18:01:56,728 root            INFO     Jugador Luke Plange - Delantero centro - 30/06/2025
+2022-08-03 18:01:56,730 root            INFO     Equipo Southampton FC
+2022-08-03 18:01:58,392 root            INFO     Jugador Gavin Bazunu - Portero - 30/06/2027
+2022-08-03 18:01:58,395 root            INFO     Jugador Alex McCarthy - Portero - 30/06/2025
+2022-08-03 18:01:58,398 root            INFO     Jugador Mateusz Lis - Portero - 30/06/2027
+2022-08-03 18:01:58,400 root            INFO     Jugador Willy Caballero - Portero - 30/06/2023
+2022-08-03 18:01:58,403 root            INFO     Jugador Jan Bednarek - Defensa central - 30/06/2025
+2022-08-03 18:01:58,406 root            INFO     Jugador Mohammed Salisu - Defensa central - 30/06/2024
+2022-08-03 18:01:58,408 root            INFO     Jugador Armel Bella-Kotchap - Defensa central - 30/06/2026
+2022-08-03 18:01:58,411 root            INFO     Jugador Jack Stephens - Defensa central - 30/06/2022
+2022-08-03 18:01:58,414 root            INFO     Jugador Lyanco - Defensa central - 30/06/2025
+2022-08-03 18:01:58,416 root            INFO     Jugador Romain Perraud - Lateral izquierdo - 30/06/2025
+2022-08-03 18:01:58,419 root            INFO     Jugador Tino Livramento - Lateral derecho - 30/06/2026
+2022-08-03 18:01:58,422 root            INFO     Jugador Kyle Walker-Peters - Lateral derecho - 30/06/2025
+2022-08-03 18:01:58,424 root            INFO     Jugador Yan Valery - Lateral derecho - 30/06/2023
+2022-08-03 18:01:58,427 root            INFO     Jugador Ibrahima Diallo - Pivote - 30/06/2024
+2022-08-03 18:01:58,430 root            INFO     Jugador Oriol Romeu - Pivote - 30/06/2023
+2022-08-03 18:01:58,432 root            INFO     Jugador Romeo Lavia - Pivote - 30/06/2027
+2022-08-03 18:01:58,435 root            INFO     Jugador James Ward-Prowse - Mediocentro - 30/06/2026
+2022-08-03 18:01:58,438 root            INFO     Jugador Joe Aribo - Mediocentro - 30/06/2026
+2022-08-03 18:01:58,440 root            INFO     Jugador Stuart Armstrong - Mediocentro - 30/06/2024
+2022-08-03 18:01:58,443 root            INFO     Jugador Nathan Redmond - Extremo izquierdo - 30/06/2023
+2022-08-03 18:01:58,446 root            INFO     Jugador Mohamed Elyounoussi - Extremo izquierdo - 30/06/2023
+2022-08-03 18:01:58,448 root            INFO     Jugador Moussa Djenepo - Extremo izquierdo - 30/06/2023
+2022-08-03 18:01:58,451 root            INFO     Jugador Nathan Tella - Extremo derecho - 30/06/2025
+2022-08-03 18:01:58,454 root            INFO     Jugador Theo Walcott - Extremo derecho - 30/06/2023
+2022-08-03 18:01:58,456 root            INFO     Jugador Che Adams - Delantero centro - 30/06/2024
+2022-08-03 18:01:58,459 root            INFO     Jugador Adam Armstrong - Delantero centro - 30/06/2025
+2022-08-03 18:01:58,462 root            INFO     Jugador Sekou Mara - Delantero centro - 30/06/2026
+2022-08-03 18:01:58,464 root            INFO     Equipo Fulham FC
+2022-08-03 18:02:00,212 root            INFO     Jugador Bernd Leno - Portero - 30/06/2025
+2022-08-03 18:02:00,215 root            INFO     Jugador Marek Rodak - Portero - 30/06/2024
+2022-08-03 18:02:00,217 root            INFO     Jugador Paulo Gazzaniga - Portero - 30/06/2023
+2022-08-03 18:02:00,220 root            INFO     Jugador Tosin Adarabioyo - Defensa central - 30/06/2023
+2022-08-03 18:02:00,223 root            INFO     Jugador Terence Kongolo - Defensa central - 30/06/2024
+2022-08-03 18:02:00,226 root            INFO     Jugador Tim Ream - Defensa central - 30/06/2023
+2022-08-03 18:02:00,228 root            INFO     Jugador Antonee Robinson - Lateral izquierdo - 30/06/2024
+2022-08-03 18:02:00,231 root            INFO     Jugador Joe Bryan - Lateral izquierdo - 30/06/2023
+2022-08-03 18:02:00,234 root            INFO     Jugador Kevin Mbabu - Lateral derecho - 30/06/2025
+2022-08-03 18:02:00,237 root            INFO     Jugador Kenny Tete - Lateral derecho - 30/06/2024
+2022-08-03 18:02:00,239 root            INFO     Jugador Joao Palhinha - Pivote - 30/06/2027
+2022-08-03 18:02:00,242 root            INFO     Jugador Nathaniel Chalobah - Pivote - 30/06/2023
+2022-08-03 18:02:00,245 root            INFO     Jugador Harrison Reed - Mediocentro - 30/06/2024
+2022-08-03 18:02:00,248 root            INFO     Jugador Tom Cairney - Mediocentro - 30/06/2024
+2022-08-03 18:02:00,250 root            INFO     Jugador Josh Onomah - Mediocentro - 30/06/2023
+2022-08-03 18:02:00,253 root            INFO     Jugador Tyrese Francois - Mediocentro - 30/06/2024
+2022-08-03 18:02:00,256 root            INFO     Jugador Andreas Pereira - Mediocentro ofensivo - 30/06/2026
+2022-08-03 18:02:00,259 root            INFO     Jugador Bobby Reid - Mediocentro ofensivo - 30/06/2023
+2022-08-03 18:02:00,261 root            INFO     Jugador Manor Solomon - Extremo izquierdo - 30/06/2023
+2022-08-03 18:02:00,264 root            INFO     Jugador Neeskens Kebano - Extremo izquierdo - 30/06/2023
+2022-08-03 18:02:00,267 root            INFO     Jugador Ivan Cavaleiro - Extremo izquierdo - 30/06/2024
+2022-08-03 18:02:00,270 root            INFO     Jugador Harry Wilson - Extremo derecho - 30/06/2026
+2022-08-03 18:02:00,272 root            INFO     Jugador Anthony Knockaert - Extremo derecho - 30/06/2023
+2022-08-03 18:02:00,275 root            INFO     Jugador Aleksandar Mitrovic - Delantero centro - 30/06/2026
+2022-08-03 18:02:00,278 root            INFO     Jugador Rodrigo Muniz - Delantero centro - 30/06/2026
+2022-08-03 18:02:00,280 root            INFO     Equipo Nottingham Forest
+2022-08-03 18:02:02,064 root            INFO     Jugador Dean Henderson - Portero - 31/05/2023
+2022-08-03 18:02:02,068 root            INFO     Jugador Wayne Hennessey - Portero - 30/06/2024
+2022-08-03 18:02:02,071 root            INFO     Jugador Jordan Smith - Portero - 30/06/2023
+2022-08-03 18:02:02,074 root            INFO     Jugador Moussa Niakhate - Defensa central - 30/06/2025
+2022-08-03 18:02:02,078 root            INFO     Jugador Joe Worrall - Defensa central - 30/06/2024
+2022-08-03 18:02:02,081 root            INFO     Jugador Scott McKenna - Defensa central - 30/06/2024
+2022-08-03 18:02:02,084 root            INFO     Jugador Steve Cook - Defensa central - 30/06/2024
+2022-08-03 18:02:02,088 root            INFO     Jugador Loic Mbe Soh - Defensa central - 30/06/2024
+2022-08-03 18:02:02,091 root            INFO     Jugador Omar Richards - Lateral izquierdo - 30/06/2026
+2022-08-03 18:02:02,094 root            INFO     Jugador Harry Toffolo - Lateral izquierdo - 30/06/2026
+2022-08-03 18:02:02,097 root            INFO     Jugador Neco Williams - Lateral derecho - 30/06/2026
+2022-08-03 18:02:02,100 root            INFO     Jugador Giulian Biancone - Lateral derecho - 30/06/2025
+2022-08-03 18:02:02,104 root            INFO     Jugador Richie Laryea - Lateral derecho - 30/06/2025
+2022-08-03 18:02:02,107 root            INFO     Jugador Jack Colback - Pivote - 30/06/2023
+2022-08-03 18:02:02,110 root            INFO     Jugador Orel Mangala - Mediocentro - -
+2022-08-03 18:02:02,113 root            INFO     Jugador Ryan Yates - Mediocentro - 30/06/2025
+2022-08-03 18:02:02,116 root            INFO     Jugador Lewis O'Brien - Mediocentro - 30/06/2026
+2022-08-03 18:02:02,119 root            INFO     Jugador Braian Ojeda - Mediocentro - 30/06/2025
+2022-08-03 18:02:02,122 root            INFO     Jugador Harry Arter - Mediocentro - 30/06/2023
+2022-08-03 18:02:02,125 root            INFO     Jugador Cafu - Mediocentro - 30/06/2023
+2022-08-03 18:02:02,128 root            INFO     Jugador Jesse Lingard - Mediocentro ofensivo - 30/06/2023
+2022-08-03 18:02:02,131 root            INFO     Jugador Alex Mighten - Extremo izquierdo - 30/06/2025
+2022-08-03 18:02:02,134 root            INFO     Jugador Joe Lolley - Extremo derecho - 30/06/2023
+2022-08-03 18:02:02,137 root            INFO     Jugador Brennan Johnson - Mediapunta - 30/06/2026
+2022-08-03 18:02:02,140 root            INFO     Jugador Taiwo Awoniyi - Delantero centro - 30/06/2027
+2022-08-03 18:02:02,143 root            INFO     Jugador Sam Surridge - Delantero centro - 30/06/2024
+2022-08-03 18:02:02,146 root            INFO     Jugador Nuno Da Costa - Delantero centro - 30/06/2023
+2022-08-03 18:02:02,149 root            INFO     Jugador Lyle Taylor - Delantero centro - 30/06/2023
+2022-08-03 18:02:02,151 root            INFO     Equipo AFC Bournemouth
+2022-08-03 18:02:03,929 root            INFO     Jugador Mark Travers - Portero - 30/06/2027
+2022-08-03 18:02:03,932 root            INFO     Jugador Will Dennis - Portero - 30/06/2023
+2022-08-03 18:02:03,935 root            INFO     Jugador Lloyd Kelly - Defensa central - 30/06/2024
+2022-08-03 18:02:03,938 root            INFO     Jugador Chris Mepham - Defensa central - 30/06/2023
+2022-08-03 18:02:03,940 root            INFO     Jugador James Hill - Defensa central - 30/06/2026
+2022-08-03 18:02:03,943 root            INFO     Jugador Jordan Zemura - Lateral izquierdo - 30/06/2023
+2022-08-03 18:02:03,945 root            INFO     Jugador Jack Stacey - Lateral derecho - 30/06/2023
+2022-08-03 18:02:03,948 root            INFO     Jugador Ryan Fredericks - Lateral derecho - 30/06/2024
+2022-08-03 18:02:03,951 root            INFO     Jugador Adam Smith - Lateral derecho - 30/06/2023
+2022-08-03 18:02:03,954 root            INFO     Jugador Jefferson Lerma - Pivote - 30/06/2023
+2022-08-03 18:02:03,957 root            INFO     Jugador Philip Billing - Mediocentro - 30/06/2024
+2022-08-03 18:02:03,960 root            INFO     Jugador Lewis Cook - Mediocentro - 30/06/2024
+2022-08-03 18:02:03,963 root            INFO     Jugador Joe Rothwell - Mediocentro - 30/06/2026
+2022-08-03 18:02:03,965 root            INFO     Jugador Ben Pearson - Mediocentro - 30/06/2024
+2022-08-03 18:02:03,968 root            INFO     Jugador Marcus Tavernier - Interior izquierdo - 30/06/2027
+2022-08-03 18:02:03,970 root            INFO     Jugador Ryan Christie - Mediocentro ofensivo - 30/06/2024
+2022-08-03 18:02:03,973 root            INFO     Jugador Emiliano Marcondes - Mediocentro ofensivo - 30/06/2024
+2022-08-03 18:02:03,976 root            INFO     Jugador Jaidon Anthony - Extremo izquierdo - 30/06/2023
+2022-08-03 18:02:03,978 root            INFO     Jugador Siriki Dembele - Extremo izquierdo - 30/06/2025
+2022-08-03 18:02:03,981 root            INFO     Jugador Junior Stanislas - Extremo izquierdo - 30/06/2023
+2022-08-03 18:02:03,984 root            INFO     Jugador David Brooks - Extremo derecho - -
+2022-08-03 18:02:03,987 root            INFO     Jugador Jamal Lowe - Extremo derecho - 30/06/2023
+2022-08-03 18:02:03,989 root            INFO     Jugador Dominic Solanke - Delantero centro - 30/06/2024
+2022-08-03 18:02:03,992 root            INFO     Jugador Kieffer Moore - Delantero centro - 30/06/2025
+2022-08-03 18:02:03,994 root            INFO     Equipo Inter de Milán
+2022-08-03 18:02:05,900 root            INFO     Jugador Andre Onana - Portero - 30/06/2027
+2022-08-03 18:02:05,903 root            INFO     Jugador Samir Handanovic - Portero - 30/06/2023
+2022-08-03 18:02:05,905 root            INFO     Jugador Gabriel Brazao - Portero - 30/06/2024
+2022-08-03 18:02:05,908 root            INFO     Jugador Alex Cordaz - Portero - 30/06/2023
+2022-08-03 18:02:05,911 root            INFO     Jugador Milan Skriniar - Defensa central - 30/06/2023
+2022-08-03 18:02:05,914 root            INFO     Jugador Alessandro Bastoni - Defensa central - 30/06/2024
+2022-08-03 18:02:05,916 root            INFO     Jugador Stefan de Vrij - Defensa central - 30/06/2023
+2022-08-03 18:02:05,919 root            INFO     Jugador Federico Dimarco - Defensa central - 30/06/2026
+2022-08-03 18:02:05,921 root            INFO     Jugador Danilo D'Ambrosio - Defensa central - 30/06/2023
+2022-08-03 18:02:05,924 root            INFO     Jugador Dalbert - Lateral izquierdo - 30/06/2023
+2022-08-03 18:02:05,927 root            INFO     Jugador Raoul Bellanova - Lateral derecho - 30/06/2023
+2022-08-03 18:02:05,929 root            INFO     Jugador Matteo Darmian - Lateral derecho - 30/06/2023
+2022-08-03 18:02:05,932 root            INFO     Jugador Marcelo Brozovic - Pivote - 30/06/2026
+2022-08-03 18:02:05,935 root            INFO     Jugador Kristjan Asllani - Pivote - 30/06/2023
+2022-08-03 18:02:05,937 root            INFO     Jugador Lucien Agoume - Pivote - 30/06/2025
+2022-08-03 18:02:05,940 root            INFO     Jugador Nicolo Barella - Mediocentro - 30/06/2026
+2022-08-03 18:02:05,942 root            INFO     Jugador Hakan Calhanoglu - Mediocentro - 30/06/2024
+2022-08-03 18:02:05,945 root            INFO     Jugador Roberto Gagliardini - Mediocentro - 30/06/2023
+2022-08-03 18:02:05,948 root            INFO     Jugador Denzel Dumfries - Interior derecho - 30/06/2025
+2022-08-03 18:02:05,950 root            INFO     Jugador Robin Gosens - Interior izquierdo - 30/06/2023
+2022-08-03 18:02:05,953 root            INFO     Jugador Henrikh Mkhitaryan - Mediocentro ofensivo - 30/06/2024
+2022-08-03 18:02:05,956 root            INFO     Jugador Joaquin Correa - Mediapunta - 30/06/2025
+2022-08-03 18:02:05,958 root            INFO     Jugador Lautaro Martinez - Delantero centro - 30/06/2026
+2022-08-03 18:02:05,961 root            INFO     Jugador Romelu Lukaku - Delantero centro - 30/06/2023
+2022-08-03 18:02:05,964 root            INFO     Jugador Andrea Pinamonti - Delantero centro - 30/06/2024
+2022-08-03 18:02:05,966 root            INFO     Jugador Edin Dzeko - Delantero centro - 30/06/2023
+2022-08-03 18:02:05,969 root            INFO     Jugador Eddie Salcedo - Delantero centro - 30/06/2024
+2022-08-03 18:02:05,972 root            INFO     Jugador Alexis Sanchez - Delantero centro - 30/06/2023
+2022-08-03 18:02:05,975 root            INFO     Equipo Juventus de Turín
+2022-08-03 18:02:08,795 root            INFO     Jugador Wojciech Szczesny - Portero - 30/06/2024
+2022-08-03 18:02:08,804 root            INFO     Jugador Mattia Perin - Portero - 30/06/2025
+2022-08-03 18:02:08,809 root            INFO     Jugador Carlo Pinsoglio - Portero - 30/06/2023
+2022-08-03 18:02:08,815 root            INFO     Jugador Bremer - Defensa central - 30/06/2027
+2022-08-03 18:02:08,820 root            INFO     Jugador Leonardo Bonucci - Defensa central - 30/06/2024
+2022-08-03 18:02:08,825 root            INFO     Jugador Federico Gatti - Defensa central - 30/06/2026
+2022-08-03 18:02:08,830 root            INFO     Jugador Daniele Rugani - Defensa central - 30/06/2024
+2022-08-03 18:02:08,835 root            INFO     Jugador Luca Pellegrini - Lateral izquierdo - 30/06/2025
+2022-08-03 18:02:08,841 root            INFO     Jugador Alex Sandro - Lateral izquierdo - 30/06/2023
+2022-08-03 18:02:08,847 root            INFO     Jugador Danilo - Lateral derecho - 30/06/2024
+2022-08-03 18:02:08,853 root            INFO     Jugador Juan Cuadrado - Lateral derecho - 30/06/2023
+2022-08-03 18:02:08,860 root            INFO     Jugador Mattia De Sciglio - Lateral derecho - 30/06/2025
+2022-08-03 18:02:08,863 root            INFO     Jugador Manuel Locatelli - Pivote - 30/06/2023
+2022-08-03 18:02:08,867 root            INFO     Jugador Denis Zakaria - Pivote - 30/06/2026
+2022-08-03 18:02:08,870 root            INFO     Jugador Arthur - Pivote - 30/06/2025
+2022-08-03 18:02:08,873 root            INFO     Jugador Nicolo Rovella - Pivote - 30/06/2024
+2022-08-03 18:02:08,876 root            INFO     Jugador Paul Pogba - Mediocentro - 30/06/2026
+2022-08-03 18:02:08,879 root            INFO     Jugador Weston McKennie - Mediocentro - 30/06/2025
+2022-08-03 18:02:08,883 root            INFO     Jugador Adrien Rabiot - Mediocentro - 30/06/2023
+2022-08-03 18:02:08,886 root            INFO     Jugador Nicolo Fagioli - Mediocentro - 30/06/2023
+2022-08-03 18:02:08,889 root            INFO     Jugador Fabio Miretti - Mediocentro - 30/06/2026
+2022-08-03 18:02:08,892 root            INFO     Jugador Marko Pjaca - Extremo izquierdo - 30/06/2023
+2022-08-03 18:02:08,895 root            INFO     Jugador Marley Ake - Extremo izquierdo - 30/06/2025
+2022-08-03 18:02:08,898 root            INFO     Jugador Federico Chiesa - Extremo derecho - 30/06/2025
+2022-08-03 18:02:08,902 root            INFO     Jugador Angel Di Maria - Extremo derecho - 30/06/2023
+2022-08-03 18:02:08,905 root            INFO     Jugador Dusan Vlahovic - Delantero centro - 30/06/2026
+2022-08-03 18:02:08,908 root            INFO     Jugador Moise Kean - Delantero centro - 30/06/2023
+2022-08-03 18:02:08,911 root            INFO     Jugador Kaio Jorge - Delantero centro - 30/06/2026
+2022-08-03 18:02:08,913 root            INFO     Equipo AC Milan
+2022-08-03 18:02:10,785 root            INFO     Jugador Mike Maignan - Portero - 30/06/2026
+2022-08-03 18:02:10,788 root            INFO     Jugador Ciprian Tatarusanu - Portero - 30/06/2023
+2022-08-03 18:02:10,791 root            INFO     Jugador Antonio Mirante - Portero - 30/06/2023
+2022-08-03 18:02:10,794 root            INFO     Jugador Andreas Jungdal - Portero - 30/06/2024
+2022-08-03 18:02:10,796 root            INFO     Jugador Fikayo Tomori - Defensa central - 30/06/2025
+2022-08-03 18:02:10,799 root            INFO     Jugador Pierre Kalulu - Defensa central - 30/06/2025
+2022-08-03 18:02:10,802 root            INFO     Jugador Simon Kjaer - Defensa central - 30/06/2024
+2022-08-03 18:02:10,805 root            INFO     Jugador Matteo Gabbia - Defensa central - 30/06/2026
+2022-08-03 18:02:10,808 root            INFO     Jugador Theo Hernandez - Lateral izquierdo - 30/06/2026
+2022-08-03 18:02:10,810 root            INFO     Jugador Fode Ballo-Toure - Lateral izquierdo - 30/06/2025
+2022-08-03 18:02:10,813 root            INFO     Jugador Davide Calabria - Lateral derecho - 30/06/2025
+2022-08-03 18:02:10,816 root            INFO     Jugador Alessandro Florenzi - Lateral derecho - 30/06/2025
+2022-08-03 18:02:10,818 root            INFO     Jugador Sandro Tonali - Pivote - 30/06/2026
+2022-08-03 18:02:10,821 root            INFO     Jugador Ismael Bennacer - Pivote - 30/06/2024
+2022-08-03 18:02:10,824 root            INFO     Jugador Tiemoue Bakayoko - Pivote - 30/06/2023
+2022-08-03 18:02:10,826 root            INFO     Jugador Tommaso Pobega - Mediocentro - 30/06/2025
+2022-08-03 18:02:10,829 root            INFO     Jugador Rade Krunic - Mediocentro - 30/06/2024
+2022-08-03 18:02:10,832 root            INFO     Jugador Marco Brescianini - Mediocentro - 30/06/2024
+2022-08-03 18:02:10,834 root            INFO     Jugador Charles De Ketelaere - Mediocentro ofensivo - 30/06/2027
+2022-08-03 18:02:10,837 root            INFO     Jugador Brahim Diaz - Mediocentro ofensivo - 30/06/2023
+2022-08-03 18:02:10,840 root            INFO     Jugador Yacine Adli - Mediocentro ofensivo - 30/06/2026
+2022-08-03 18:02:10,842 root            INFO     Jugador Rafael Leao - Extremo izquierdo - 30/06/2024
+2022-08-03 18:02:10,845 root            INFO     Jugador Ante Rebic - Extremo izquierdo - 30/06/2025
+2022-08-03 18:02:10,848 root            INFO     Jugador Alexis Saelemaekers - Extremo derecho - 30/06/2026
+2022-08-03 18:02:10,850 root            INFO     Jugador Junior Messias - Extremo derecho - 30/06/2024
+2022-08-03 18:02:10,854 root            INFO     Jugador Divock Origi - Delantero centro - 30/06/2026
+2022-08-03 18:02:10,856 root            INFO     Jugador Olivier Giroud - Delantero centro - 30/06/2023
+2022-08-03 18:02:10,859 root            INFO     Jugador Zlatan Ibrahimovic - Delantero centro - 30/06/2023
+2022-08-03 18:02:10,862 root            INFO     Jugador Marko Lazetic - Delantero centro - 30/06/2026
+2022-08-03 18:02:10,864 root            INFO     Equipo SSC Nápoles
+2022-08-03 18:02:13,148 root            INFO     Jugador Alex Meret - Portero - 30/06/2023
+2022-08-03 18:02:13,151 root            INFO     Jugador Nikita Contini - Portero - 30/06/2025
+2022-08-03 18:02:13,154 root            INFO     Jugador Hubert Idasiak - Portero - -
+2022-08-03 18:02:13,157 root            INFO     Jugador Davide Marfella - Portero - 30/06/2023
+2022-08-03 18:02:13,160 root            INFO     Jugador Amir Rrahmani - Defensa central - 30/06/2024
+2022-08-03 18:02:13,163 root            INFO     Jugador Min-jae Kim - Defensa central - 30/06/2025
+2022-08-03 18:02:13,166 root            INFO     Jugador Leo Ostigard - Defensa central - 30/06/2026
+2022-08-03 18:02:13,169 root            INFO     Jugador Juan Jesus - Defensa central - 30/06/2023
+2022-08-03 18:02:13,172 root            INFO     Jugador Davide Costanzo - Defensa central - 30/06/2026
+2022-08-03 18:02:13,175 root            INFO     Jugador Mathias Olivera - Lateral izquierdo - 30/06/2027
+2022-08-03 18:02:13,178 root            INFO     Jugador Mario Rui - Lateral izquierdo - 30/06/2025
+2022-08-03 18:02:13,181 root            INFO     Jugador Karim Zedadka - Lateral izquierdo - 30/06/2024
+2022-08-03 18:02:13,184 root            INFO     Jugador Filippo Costa - Lateral izquierdo - 30/06/2024
+2022-08-03 18:02:13,187 root            INFO     Jugador Giovanni Di Lorenzo - Lateral derecho - 30/06/2026
+2022-08-03 18:02:13,190 root            INFO     Jugador Alessandro Zanoli - Lateral derecho - 30/06/2023
+2022-08-03 18:02:13,193 root            INFO     Jugador Andre Zambo Anguissa - Pivote - 30/06/2026
+2022-08-03 18:02:13,196 root            INFO     Jugador Stanislav Lobotka - Pivote - 30/06/2025
+2022-08-03 18:02:13,198 root            INFO     Jugador Diego Demme - Pivote - 30/06/2024
+2022-08-03 18:02:13,201 root            INFO     Jugador Luca Palmiero - Pivote - 30/06/2023
+2022-08-03 18:02:13,204 root            INFO     Jugador Fabian Ruiz - Mediocentro - 30/06/2023
+2022-08-03 18:02:13,207 root            INFO     Jugador Piotr Zielinski - Mediocentro ofensivo - 30/06/2024
+2022-08-03 18:02:13,210 root            INFO     Jugador Eljif Elmas - Mediocentro ofensivo - 30/06/2025
+2022-08-03 18:02:13,213 root            INFO     Jugador Gianluca Gaetano - Mediocentro ofensivo - 30/06/2025
+2022-08-03 18:02:13,216 root            INFO     Jugador Khvicha Kvaratskhelia - Extremo izquierdo - 30/06/2027
+2022-08-03 18:02:13,219 root            INFO     Jugador Alessio Zerbin - Extremo izquierdo - 30/06/2025
+2022-08-03 18:02:13,221 root            INFO     Jugador Hirving Lozano - Extremo derecho - 30/06/2024
+2022-08-03 18:02:13,224 root            INFO     Jugador Matteo Politano - Extremo derecho - 30/06/2024
+2022-08-03 18:02:13,227 root            INFO     Jugador Adam Ounas - Extremo derecho - 30/06/2023
+2022-08-03 18:02:13,230 root            INFO     Jugador Victor Osimhen - Delantero centro - 30/06/2025
+2022-08-03 18:02:13,232 root            INFO     Jugador Andrea Petagna - Delantero centro - 30/06/2024
+2022-08-03 18:02:13,235 root            INFO     Equipo AS Roma
+2022-08-03 18:02:15,673 root            INFO     Jugador Rui Patricio - Portero - 30/06/2024
+2022-08-03 18:02:15,676 root            INFO     Jugador Mile Svilar - Portero - 30/06/2027
+2022-08-03 18:02:15,679 root            INFO     Jugador Pietro Boer - Portero - 30/06/2024
+2022-08-03 18:02:15,681 root            INFO     Jugador Roger Ibanez - Defensa central - 30/06/2025
+2022-08-03 18:02:15,684 root            INFO     Jugador Gianluca Mancini - Defensa central - 30/06/2027
+2022-08-03 18:02:15,687 root            INFO     Jugador Marash Kumbulla - Defensa central - 30/06/2025
+2022-08-03 18:02:15,689 root            INFO     Jugador Chris Smalling - Defensa central - 30/06/2023
+2022-08-03 18:02:15,692 root            INFO     Jugador William Bianda - Defensa central - 30/06/2023
+2022-08-03 18:02:15,695 root            INFO     Jugador Leonardo Spinazzola - Lateral izquierdo - 30/06/2024
+2022-08-03 18:02:15,697 root            INFO     Jugador Matias Vina - Lateral izquierdo - 30/06/2026
+2022-08-03 18:02:15,700 root            INFO     Jugador Riccardo Calafiori - Lateral izquierdo - 30/06/2025
+2022-08-03 18:02:15,703 root            INFO     Jugador Zeki Celik - Lateral derecho - 30/06/2026
+2022-08-03 18:02:15,705 root            INFO     Jugador Rick Karsdorp - Lateral derecho - 30/06/2025
+2022-08-03 18:02:15,708 root            INFO     Jugador Bryan Cristante - Pivote - 30/06/2024
+2022-08-03 18:02:15,711 root            INFO     Jugador Amadou Diawara - Pivote - 30/06/2024
+2022-08-03 18:02:15,713 root            INFO     Jugador Nemanja Matic - Pivote - 30/06/2023
+2022-08-03 18:02:15,716 root            INFO     Jugador Ebrima Darboe - Pivote - 30/06/2026
+2022-08-03 18:02:15,718 root            INFO     Jugador Filippo Tripi - Pivote - 30/06/2024
+2022-08-03 18:02:15,721 root            INFO     Jugador Jordan Veretout - Mediocentro - 30/06/2024
+2022-08-03 18:02:15,724 root            INFO     Jugador Gonzalo Villar - Mediocentro - 30/06/2024
+2022-08-03 18:02:15,726 root            INFO     Jugador Edoardo Bove - Mediocentro - 30/06/2025
+2022-08-03 18:02:15,729 root            INFO     Jugador Nicola Zalewski - Interior izquierdo - 30/06/2025
+2022-08-03 18:02:15,732 root            INFO     Jugador Lorenzo Pellegrini - Mediocentro ofensivo - 30/06/2026
+2022-08-03 18:02:15,734 root            INFO     Jugador Ante Coric - Mediocentro ofensivo - 30/06/2023
+2022-08-03 18:02:15,737 root            INFO     Jugador Justin Kluivert - Extremo izquierdo - 30/06/2023
+2022-08-03 18:02:15,740 root            INFO     Jugador Stephan El Shaarawy - Extremo izquierdo - 30/06/2023
+2022-08-03 18:02:15,742 root            INFO     Jugador Nicolo Zaniolo - Extremo derecho - 30/06/2024
+2022-08-03 18:02:15,745 root            INFO     Jugador Carles Perez - Extremo derecho - 30/06/2024
+2022-08-03 18:02:15,748 root            INFO     Jugador Paulo Dybala - Mediapunta - 30/06/2025
+2022-08-03 18:02:15,750 root            INFO     Jugador Tammy Abraham - Delantero centro - 30/06/2026
+2022-08-03 18:02:15,753 root            INFO     Jugador Eldor Shomurodov - Delantero centro - 30/06/2026
+2022-08-03 18:02:15,756 root            INFO     Jugador Felix Afena-Gyan - Delantero centro - 30/06/2026
+2022-08-03 18:02:15,758 root            INFO     Equipo Atalanta de Bérgamo
+2022-08-03 18:02:17,927 root            INFO     Jugador Juan Musso - Portero - 30/06/2025
+2022-08-03 18:02:17,930 root            INFO     Jugador Marco Carnesecchi - Portero - 30/06/2026
+2022-08-03 18:02:17,933 root            INFO     Jugador Marco Sportiello - Portero - 30/06/2023
+2022-08-03 18:02:17,936 root            INFO     Jugador Francesco Rossi - Portero - 30/06/2023
+2022-08-03 18:02:17,939 root            INFO     Jugador Merih Demiral - Defensa central - -
+2022-08-03 18:02:17,942 root            INFO     Jugador Berat Djimsiti - Defensa central - 30/06/2026
+2022-08-03 18:02:17,945 root            INFO     Jugador Giorgio Scalvini - Defensa central - 30/06/2023
+2022-08-03 18:02:17,948 root            INFO     Jugador Rafael Toloi - Defensa central - 30/06/2024
+2022-08-03 18:02:17,951 root            INFO     Jugador Jose Luis Palomino - Defensa central - 30/06/2023
+2022-08-03 18:02:17,954 root            INFO     Jugador Caleb Okoli - Defensa central - 30/06/2026
+2022-08-03 18:02:17,957 root            INFO     Jugador Matteo Ruggeri - Lateral izquierdo - 30/06/2026
+2022-08-03 18:02:17,960 root            INFO     Jugador Joakim Maehle - Lateral derecho - 30/06/2025
+2022-08-03 18:02:17,963 root            INFO     Jugador Hans Hateboer - Lateral derecho - 30/06/2024
+2022-08-03 18:02:17,966 root            INFO     Jugador Davide Zappacosta - Lateral derecho - 30/06/2025
+2022-08-03 18:02:17,969 root            INFO     Jugador Federico Mattiello - Lateral derecho - 30/06/2023
+2022-08-03 18:02:17,972 root            INFO     Jugador Teun Koopmeiners - Pivote - 30/06/2025
+2022-08-03 18:02:17,975 root            INFO     Jugador Marten de Roon - Pivote - 30/06/2024
+2022-08-03 18:02:17,978 root            INFO     Jugador Marco Carraro - Pivote - -
+2022-08-03 18:02:17,981 root            INFO     Jugador Remo Freuler - Mediocentro - 30/06/2025
+2022-08-03 18:02:17,984 root            INFO     Jugador Ederson - Mediocentro - 30/06/2026
+2022-08-03 18:02:17,986 root            INFO     Jugador Jacopo Da Riva - Mediocentro - 30/06/2024
+2022-08-03 18:02:17,989 root            INFO     Jugador Simone Muratore - Mediocentro - 30/06/2023
+2022-08-03 18:02:17,992 root            INFO     Jugador Nadir Zortea - Interior derecho - 30/06/2025
+2022-08-03 18:02:17,995 root            INFO     Jugador Gabriel Lunetta - Interior izquierdo - 30/06/2023
+2022-08-03 18:02:17,998 root            INFO     Jugador Ruslan Malinovskyi - Mediocentro ofensivo - 30/06/2023
+2022-08-03 18:02:18,001 root            INFO     Jugador Mario Pasalic - Mediocentro ofensivo - 30/06/2025
+2022-08-03 18:02:18,004 root            INFO     Jugador Aleksey Miranchuk - Mediocentro ofensivo - 30/06/2024
+2022-08-03 18:02:18,007 root            INFO     Jugador Jeremie Boga - Extremo izquierdo - -
+2022-08-03 18:02:18,010 root            INFO     Jugador Ebrima Colley - Extremo izquierdo - 30/06/2025
+2022-08-03 18:02:18,013 root            INFO     Jugador Nicolo Cambiaghi - Extremo izquierdo - 30/06/2024
+2022-08-03 18:02:18,016 root            INFO     Jugador Bryan Cabezas - Extremo izquierdo - 30/06/2024
+2022-08-03 18:02:18,019 root            INFO     Jugador Josip Ilicic - Mediapunta - 30/06/2023
+2022-08-03 18:02:18,022 root            INFO     Jugador Duvan Zapata - Delantero centro - 30/06/2024
+2022-08-03 18:02:18,025 root            INFO     Jugador Luis Muriel - Delantero centro - 30/06/2023
+2022-08-03 18:02:18,028 root            INFO     Jugador Sam Lammers - Delantero centro - 30/06/2025
+2022-08-03 18:02:18,031 root            INFO     Jugador Luca Vido - Delantero centro - 30/06/2024
+2022-08-03 18:02:18,034 root            INFO     Jugador Marco Tumminello - Delantero centro - 30/06/2023
+2022-08-03 18:02:18,036 root            INFO     Equipo SS Lazio
+2022-08-03 18:02:20,416 root            INFO     Jugador Luis Maximiano - Portero - 30/06/2027
+2022-08-03 18:02:20,419 root            INFO     Jugador Marius Adamonis - Portero - 30/06/2025
+2022-08-03 18:02:20,422 root            INFO     Jugador Alessio Furlanetto - Portero - -
+2022-08-03 18:02:20,425 root            INFO     Jugador Alessio Romagnoli - Defensa central - 30/06/2027
+2022-08-03 18:02:20,429 root            INFO     Jugador Nicolo Casale - Defensa central - 30/06/2027
+2022-08-03 18:02:20,432 root            INFO     Jugador Patric - Defensa central - 30/06/2027
+2022-08-03 18:02:20,435 root            INFO     Jugador Francesco Acerbi - Defensa central - 30/06/2025
+2022-08-03 18:02:20,438 root            INFO     Jugador Stefan Radu - Defensa central - 30/06/2023
+2022-08-03 18:02:20,441 root            INFO     Jugador Mario Gila - Defensa central - 30/06/2027
+2022-08-03 18:02:20,445 root            INFO     Jugador Dimitrije Kamenovic - Lateral izquierdo - 30/06/2026
+2022-08-03 18:02:20,448 root            INFO     Jugador Riza Durmisi - Lateral izquierdo - 30/06/2023
+2022-08-03 18:02:20,451 root            INFO     Jugador Manuel Lazzari - Lateral derecho - 30/06/2024
+2022-08-03 18:02:20,454 root            INFO     Jugador Adam Marusic - Lateral derecho - 30/06/2024
+2022-08-03 18:02:20,458 root            INFO     Jugador Elseid Hysaj - Lateral derecho - 30/06/2025
+2022-08-03 18:02:20,461 root            INFO     Jugador Djavan Anderson - Lateral derecho - 30/06/2023
+2022-08-03 18:02:20,464 root            INFO     Jugador Danilo Cataldi - Pivote - 30/06/2024
+2022-08-03 18:02:20,467 root            INFO     Jugador Patryk Dziczek - Pivote - 30/06/2024
+2022-08-03 18:02:20,471 root            INFO     Jugador Marco Bertini - Pivote - 30/06/2024
+2022-08-03 18:02:20,474 root            INFO     Jugador Sergej Milinkovic-Savic - Mediocentro - 30/06/2024
+2022-08-03 18:02:20,477 root            INFO     Jugador Luis Alberto - Mediocentro - 30/06/2025
+2022-08-03 18:02:20,481 root            INFO     Jugador Marcos Antonio - Mediocentro - 30/06/2027
+2022-08-03 18:02:20,484 root            INFO     Jugador Toma Basic - Mediocentro - 30/06/2026
+2022-08-03 18:02:20,487 root            INFO     Jugador Matias Vecino - Mediocentro - 30/06/2025
+2022-08-03 18:02:20,491 root            INFO     Jugador Gonzalo Escalante - Mediocentro - 30/06/2024
+2022-08-03 18:02:20,494 root            INFO     Jugador Sofian Kiyine - Mediocentro - 30/06/2024
+2022-08-03 18:02:20,497 root            INFO     Jugador Jean-Daniel Akpa Akpro - Mediocentro - 30/06/2025
+2022-08-03 18:02:20,500 root            INFO     Jugador Mohamed Fares - Interior izquierdo - 30/06/2025
+2022-08-03 18:02:20,504 root            INFO     Jugador Mattia Zaccagni - Mediocentro ofensivo - 30/06/2025
+2022-08-03 18:02:20,507 root            INFO     Jugador Raul Moro - Extremo izquierdo - 30/06/2025
+2022-08-03 18:02:20,510 root            INFO     Jugador Felipe Anderson - Extremo derecho - 30/06/2024
+2022-08-03 18:02:20,513 root            INFO     Jugador Pedro - Extremo derecho - 30/06/2023
+2022-08-03 18:02:20,516 root            INFO     Jugador Matteo Cancellieri - Extremo derecho - 30/06/2023
+2022-08-03 18:02:20,520 root            INFO     Jugador Luka Romero - Extremo derecho - 30/06/2023
+2022-08-03 18:02:20,523 root            INFO     Jugador Ciro Immobile - Delantero centro - 30/06/2026
+2022-08-03 18:02:20,525 root            INFO     Equipo Fiorentina
+2022-08-03 18:02:22,733 root            INFO     Jugador Pierluigi Gollini - Portero - 30/06/2023
+2022-08-03 18:02:22,736 root            INFO     Jugador Bartlomiej Dragowski - Portero - 30/06/2023
+2022-08-03 18:02:22,738 root            INFO     Jugador Pietro Terracciano - Portero - 30/06/2023
+2022-08-03 18:02:22,741 root            INFO     Jugador Michele Cerofolini - Portero - 30/06/2023
+2022-08-03 18:02:22,744 root            INFO     Jugador Antonio Rosati - Portero - 30/06/2023
+2022-08-03 18:02:22,746 root            INFO     Jugador Nikola Milenkovic - Defensa central - 30/06/2023
+2022-08-03 18:02:22,749 root            INFO     Jugador Igor - Defensa central - 30/06/2024
+2022-08-03 18:02:22,752 root            INFO     Jugador Lucas Martinez Quarta - Defensa central - 30/06/2025
+2022-08-03 18:02:22,754 root            INFO     Jugador Matija Nastasic - Defensa central - 30/06/2023
+2022-08-03 18:02:22,757 root            INFO     Jugador Cristiano Biraghi - Lateral izquierdo - 30/06/2024
+2022-08-03 18:02:22,760 root            INFO     Jugador Luca Ranieri - Lateral izquierdo - 30/06/2024
+2022-08-03 18:02:22,762 root            INFO     Jugador Aleksa Terzic - Lateral izquierdo - 30/06/2024
+2022-08-03 18:02:22,765 root            INFO     Jugador Dodo - Lateral derecho - 30/06/2027
+2022-08-03 18:02:22,768 root            INFO     Jugador Lorenzo Venuti - Lateral derecho - 30/06/2024
+2022-08-03 18:02:22,770 root            INFO     Jugador Gabriele Ferrarini - Lateral derecho - 30/06/2023
+2022-08-03 18:02:22,774 root            INFO     Jugador Rolando Mandragora - Pivote - 30/06/2026
+2022-08-03 18:02:22,777 root            INFO     Jugador Sofyan Amrabat - Pivote - 30/06/2024
+2022-08-03 18:02:22,780 root            INFO     Jugador Gaetano Castrovilli - Mediocentro - 30/06/2024
+2022-08-03 18:02:22,783 root            INFO     Jugador Alfred Duncan - Mediocentro - 30/06/2024
+2022-08-03 18:02:22,787 root            INFO     Jugador Szymon Zurkowski - Mediocentro - 30/06/2024
+2022-08-03 18:02:22,789 root            INFO     Jugador Youssef Maleh - Mediocentro - 30/06/2025
+2022-08-03 18:02:22,792 root            INFO     Jugador Giacomo Bonaventura - Mediocentro - 30/06/2023
+2022-08-03 18:02:22,795 root            INFO     Jugador Marco Benassi - Mediocentro - 30/06/2024
+2022-08-03 18:02:22,798 root            INFO     Jugador Alessandro Bianco - Mediocentro - 30/06/2023
+2022-08-03 18:02:22,800 root            INFO     Jugador Riccardo Saponara - Mediocentro ofensivo - 30/06/2023
+2022-08-03 18:02:22,803 root            INFO     Jugador Nicolas Gonzalez - Extremo izquierdo - 30/06/2026
+2022-08-03 18:02:22,806 root            INFO     Jugador Riccardo Sottil - Extremo izquierdo - 30/06/2026
+2022-08-03 18:02:22,808 root            INFO     Jugador Jonathan Ikone - Extremo derecho - 30/06/2026
+2022-08-03 18:02:22,811 root            INFO     Jugador Luka Jovic - Delantero centro - 30/06/2024
+2022-08-03 18:02:22,814 root            INFO     Jugador Arthur Cabral - Delantero centro - 30/06/2026
+2022-08-03 18:02:22,817 root            INFO     Jugador Christian Kouame - Delantero centro - 30/06/2024
+2022-08-03 18:02:22,819 root            INFO     Jugador Aleksandr Kokorin - Delantero centro - 30/06/2024
+2022-08-03 18:02:22,822 root            INFO     Jugador Gabriele Gori - Delantero centro - 30/06/2023
+2022-08-03 18:02:22,824 root            INFO     Equipo US Sassuolo
+2022-08-03 18:02:25,168 root            INFO     Jugador Andrea Consigli - Portero - 30/06/2024
+2022-08-03 18:02:25,171 root            INFO     Jugador Alessandro Russo - Portero - 30/06/2024
+2022-08-03 18:02:25,174 root            INFO     Jugador Gianluca Pegolo - Portero - 30/06/2023
+2022-08-03 18:02:25,177 root            INFO     Jugador Gian Marco Ferrari - Defensa central - 30/06/2024
+2022-08-03 18:02:25,180 root            INFO     Jugador Martin Erlic - Defensa central - 30/06/2026
+2022-08-03 18:02:25,183 root            INFO     Jugador Kaan Ayhan - Defensa central - 30/06/2024
+2022-08-03 18:02:25,186 root            INFO     Jugador Ruan Tressoldi - Defensa central - 30/06/2026
+2022-08-03 18:02:25,188 root            INFO     Jugador Filippo Romagna - Defensa central - 30/06/2024
+2022-08-03 18:02:25,191 root            INFO     Jugador Rogerio - Lateral izquierdo - 30/06/2024
+2022-08-03 18:02:25,194 root            INFO     Jugador Georgios Kyriakopoulos - Lateral izquierdo - 30/06/2025
+2022-08-03 18:02:25,197 root            INFO     Jugador Riccardo Marchizza - Lateral izquierdo - 30/06/2025
+2022-08-03 18:02:25,200 root            INFO     Jugador Mert Muldur - Lateral derecho - 30/06/2024
+2022-08-03 18:02:25,203 root            INFO     Jugador Jeremy Toljan - Lateral derecho - 30/06/2025
+2022-08-03 18:02:25,206 root            INFO     Jugador Claud Adjapong - Lateral derecho - 30/06/2023
+2022-08-03 18:02:25,209 root            INFO     Jugador Maxime Lopez - Pivote - 30/06/2025
+2022-08-03 18:02:25,212 root            INFO     Jugador Davide Frattesi - Mediocentro - 30/06/2026
+2022-08-03 18:02:25,215 root            INFO     Jugador Matheus Henrique - Mediocentro - 30/06/2026
+2022-08-03 18:02:25,218 root            INFO     Jugador Abdou Harroui - Mediocentro - -
+2022-08-03 18:02:25,221 root            INFO     Jugador Pedro Obiang - Mediocentro - 30/06/2023
+2022-08-03 18:02:25,223 root            INFO     Jugador Marco Pinato - Mediocentro - 30/06/2023
+2022-08-03 18:02:25,226 root            INFO     Jugador Hamed Junior Traore - Mediocentro ofensivo - 30/06/2024
+2022-08-03 18:02:25,230 root            INFO     Jugador Kristian Thorstvedt - Mediocentro ofensivo - 30/06/2027
+2022-08-03 18:02:25,232 root            INFO     Jugador Emil Konradsen Ceide - Extremo izquierdo - -
+2022-08-03 18:02:25,235 root            INFO     Jugador Domenico Berardi - Extremo derecho - 30/06/2024
+2022-08-03 18:02:25,238 root            INFO     Jugador Brian Oddei - Extremo derecho - 30/06/2024
+2022-08-03 18:02:25,241 root            INFO     Jugador Giacomo Raspadori - Mediapunta - 30/06/2024
+2022-08-03 18:02:25,244 root            INFO     Jugador Agustin Alvarez - Delantero centro - 30/06/2027
+2022-08-03 18:02:25,247 root            INFO     Jugador Gregoire Defrel - Delantero centro - 30/06/2024
+2022-08-03 18:02:25,249 root            INFO     Equipo Hellas Verona
+2022-08-03 18:02:27,736 root            INFO     Jugador Lorenzo Montipo - Portero - 30/06/2025
+2022-08-03 18:02:27,739 root            INFO     Jugador Mattia Chiesa - Portero - -
+2022-08-03 18:02:27,742 root            INFO     Jugador Alessandro Berardi - Portero - 30/06/2023
+2022-08-03 18:02:27,745 root            INFO     Jugador Koray Gunter - Defensa central - 30/06/2023
+2022-08-03 18:02:27,747 root            INFO     Jugador Pawel Dawidowicz - Defensa central - 30/06/2025
+2022-08-03 18:02:27,750 root            INFO     Jugador Federico Ceccherini - Defensa central - 30/06/2024
+2022-08-03 18:02:27,753 root            INFO     Jugador Giangiacomo Magnani - Defensa central - 30/06/2025
+2022-08-03 18:02:27,755 root            INFO     Jugador Panagiotis Retsos - Defensa central - 30/06/2023
+2022-08-03 18:02:27,758 root            INFO     Jugador Bruno Amione - Defensa central - 30/06/2025
+2022-08-03 18:02:27,761 root            INFO     Jugador Mert Cetin - Defensa central - 30/06/2025
+2022-08-03 18:02:27,763 root            INFO     Jugador Diego Coppola - Defensa central - 30/06/2027
+2022-08-03 18:02:27,766 root            INFO     Jugador Dramane Konate - Defensa central - -
+2022-08-03 18:02:27,769 root            INFO     Jugador Josh Doig - Lateral izquierdo - 30/06/2026
+2022-08-03 18:02:27,771 root            INFO     Jugador Davide Faraoni - Lateral derecho - 30/06/2024
+2022-08-03 18:02:27,774 root            INFO     Jugador Adrien Tameze - Pivote - 30/06/2024
+2022-08-03 18:02:27,777 root            INFO     Jugador Martin Hongla - Pivote - -
+2022-08-03 18:02:27,780 root            INFO     Jugador Miguel Veloso - Pivote - 30/06/2023
+2022-08-03 18:02:27,782 root            INFO     Jugador Ivan Ilic - Mediocentro - 30/06/2026
+2022-08-03 18:02:27,785 root            INFO     Jugador Darko Lazovic - Interior izquierdo - 30/06/2024
+2022-08-03 18:02:27,788 root            INFO     Jugador Antonin Barak - Mediocentro ofensivo - 30/06/2024
+2022-08-03 18:02:27,790 root            INFO     Jugador Mateusz Praszelik - Mediocentro ofensivo - 31/01/2023
+2022-08-03 18:02:27,793 root            INFO     Jugador Alessandro Cortinovis - Mediocentro ofensivo - 30/06/2023
+2022-08-03 18:02:27,796 root            INFO     Jugador Giovanni Simeone - Delantero centro - 30/06/2026
+2022-08-03 18:02:27,798 root            INFO     Jugador Thomas Henry - Delantero centro - 30/06/2026
+2022-08-03 18:02:27,801 root            INFO     Jugador Roberto Piccoli - Delantero centro - 30/06/2023
+2022-08-03 18:02:27,804 root            INFO     Jugador Kevin Lasagna - Delantero centro - 30/06/2025
+2022-08-03 18:02:27,806 root            INFO     Jugador Mariusz Stepinski - Delantero centro - 30/06/2024
+2022-08-03 18:02:27,809 root            INFO     Jugador Milan Djuric - Delantero centro - 30/06/2025
+2022-08-03 18:02:27,812 root            INFO     Jugador Lubomir Tupta - Delantero centro - 30/06/2023
+2022-08-03 18:02:27,814 root            INFO     Equipo Bolonia
+2022-08-03 18:02:30,093 root            INFO     Jugador Lukasz Skorupski - Portero - 30/06/2023
+2022-08-03 18:02:30,096 root            INFO     Jugador Francesco Bardi - Portero - 30/06/2023
+2022-08-03 18:02:30,099 root            INFO     Jugador Marco Molla - Portero - -
+2022-08-03 18:02:30,102 root            INFO     Jugador Nicola Bagnolini - Portero - 30/06/2024
+2022-08-03 18:02:30,104 root            INFO     Jugador Adama Soumaoro - Defensa central - 30/06/2024
+2022-08-03 18:02:30,107 root            INFO     Jugador Kevin Bonifazi - Defensa central - 30/06/2025
+2022-08-03 18:02:30,110 root            INFO     Jugador Gary Medel - Defensa central - 30/06/2023
+2022-08-03 18:02:30,113 root            INFO     Jugador Matteo Angeli - Defensa central - -
+2022-08-03 18:02:30,115 root            INFO     Jugador Wisdom Amey - Defensa central - 30/06/2024
+2022-08-03 18:02:30,118 root            INFO     Jugador Andrea Cambiaso - Lateral izquierdo - 30/06/2023
+2022-08-03 18:02:30,121 root            INFO     Jugador Charalampos Lykogiannis - Lateral izquierdo - 30/06/2024
+2022-08-03 18:02:30,123 root            INFO     Jugador Mitchell Dijks - Lateral izquierdo - 30/06/2023
+2022-08-03 18:02:30,126 root            INFO     Jugador Denso Kasius - Lateral derecho - 30/06/2026
+2022-08-03 18:02:30,129 root            INFO     Jugador Lorenzo De Silvestri - Lateral derecho - 30/06/2023
+2022-08-03 18:02:30,131 root            INFO     Jugador Ibrahima Mbaye - Lateral derecho - 30/06/2023
+2022-08-03 18:02:30,134 root            INFO     Jugador Jerdy Schouten - Pivote - 30/06/2024
+2022-08-03 18:02:30,137 root            INFO     Jugador Kacper Urbanski - Pivote - 30/06/2025
+2022-08-03 18:02:30,139 root            INFO     Jugador Nicolas Dominguez - Mediocentro - 30/06/2024
+2022-08-03 18:02:30,142 root            INFO     Jugador Michel Aebischer - Mediocentro - 30/06/2026
+2022-08-03 18:02:30,145 root            INFO     Jugador Lewis Ferguson - Mediocentro - 30/06/2026
+2022-08-03 18:02:30,148 root            INFO     Jugador Kingsley Michael - Mediocentro - 30/06/2024
+2022-08-03 18:02:30,150 root            INFO     Jugador Roberto Soriano - Mediocentro ofensivo - 30/06/2023
+2022-08-03 18:02:30,153 root            INFO     Jugador Musa Barrow - Extremo izquierdo - 30/06/2024
+2022-08-03 18:02:30,156 root            INFO     Jugador Nicola Sansone - Extremo izquierdo - 30/06/2023
+2022-08-03 18:02:30,158 root            INFO     Jugador Musa Juwara - Extremo izquierdo - 30/06/2024
+2022-08-03 18:02:30,161 root            INFO     Jugador Riccardo Orsolini - Extremo derecho - 30/06/2024
+2022-08-03 18:02:30,164 root            INFO     Jugador Emanuel Vignato - Extremo derecho - 30/06/2024
+2022-08-03 18:02:30,167 root            INFO     Jugador Orji Okwonkwo - Extremo derecho - -
+2022-08-03 18:02:30,170 root            INFO     Jugador Marko Arnautovic - Delantero centro - 30/06/2024
+2022-08-03 18:02:30,173 root            INFO     Jugador Mattia Pagliuca - Delantero centro - -
+2022-08-03 18:02:30,175 root            INFO     Jugador Antonio Raimondo - Delantero centro - 30/06/2027
+2022-08-03 18:02:30,177 root            INFO     Equipo Torino FC
+2022-08-03 18:02:32,042 root            INFO     Jugador Vanja Milinkovic-Savic - Portero - 30/06/2024
+2022-08-03 18:02:32,045 root            INFO     Jugador Etrit Berisha - Portero - 30/06/2024
+2022-08-03 18:02:32,048 root            INFO     Jugador Luca Gemello - Portero - 30/06/2023
+2022-08-03 18:02:32,051 root            INFO     Jugador David Zima - Defensa central - 30/06/2025
+2022-08-03 18:02:32,054 root            INFO     Jugador Alessandro Buongiorno - Defensa central - 30/06/2025
+2022-08-03 18:02:32,056 root            INFO     Jugador Ricardo Rodriguez - Defensa central - 30/06/2024
+2022-08-03 18:02:32,059 root            INFO     Jugador Koffi Djidji - Defensa central - 30/06/2023
+2022-08-03 18:02:32,062 root            INFO     Jugador Armando Izzo - Defensa central - 30/06/2024
+2022-08-03 18:02:32,064 root            INFO     Jugador Stephane Singo - Lateral derecho - 30/06/2023
+2022-08-03 18:02:32,067 root            INFO     Jugador Valentino Lazaro - Lateral derecho - 30/06/2023
+2022-08-03 18:02:32,070 root            INFO     Jugador Mergim Vojvoda - Lateral derecho - 30/06/2024
+2022-08-03 18:02:32,072 root            INFO     Jugador Ola Aina - Lateral derecho - 30/06/2023
+2022-08-03 18:02:32,075 root            INFO     Jugador Samuele Ricci - Pivote - -
+2022-08-03 18:02:32,078 root            INFO     Jugador Altin Kryeziu - Pivote - 30/06/2023
+2022-08-03 18:02:32,081 root            INFO     Jugador Sasa Lukic - Mediocentro - 30/06/2024
+2022-08-03 18:02:32,083 root            INFO     Jugador Karol Linetty - Mediocentro - 30/06/2024
+2022-08-03 18:02:32,086 root            INFO     Jugador Jacopo Segre - Mediocentro - 30/06/2023
+2022-08-03 18:02:32,089 root            INFO     Jugador Michel Adopo - Mediocentro - 30/06/2023
+2022-08-03 18:02:32,091 root            INFO     Jugador Matthew Garbett - Mediocentro - 30/06/2024
+2022-08-03 18:02:32,094 root            INFO     Jugador Brian Bayeye - Interior derecho - -
+2022-08-03 18:02:32,097 root            INFO     Jugador Simone Verdi - Mediocentro ofensivo - 30/06/2023
+2022-08-03 18:02:32,100 root            INFO     Jugador Krisztofer Horvath - Mediocentro ofensivo - -
+2022-08-03 18:02:32,102 root            INFO     Jugador Nemanja Radonjic - Extremo izquierdo - 30/06/2023
+2022-08-03 18:02:32,105 root            INFO     Jugador Vincenzo Millico - Extremo izquierdo - 30/06/2023
+2022-08-03 18:02:32,108 root            INFO     Jugador Demba Seck - Extremo derecho - 30/06/2026
+2022-08-03 18:02:32,110 root            INFO     Jugador Simone Edera - Extremo derecho - 30/06/2023
+2022-08-03 18:02:32,113 root            INFO     Jugador Antonio Sanabria - Delantero centro - 30/06/2025
+2022-08-03 18:02:32,116 root            INFO     Jugador Pietro Pellegri - Delantero centro - 30/06/2025
+2022-08-03 18:02:32,119 root            INFO     Jugador Simone Zaza - Delantero centro - 30/06/2023
+2022-08-03 18:02:32,121 root            INFO     Jugador Lado Akhalaia - Delantero centro - -
+2022-08-03 18:02:32,123 root            INFO     Equipo Udinese
+2022-08-03 18:02:33,973 root            INFO     Jugador Marco Silvestri - Portero - -
+2022-08-03 18:02:33,976 root            INFO     Jugador Daniele Padelli - Portero - 30/06/2023
+2022-08-03 18:02:33,979 root            INFO     Jugador Nehuen Perez - Defensa central - 30/06/2027
+2022-08-03 18:02:33,981 root            INFO     Jugador Rodrigo Becao - Defensa central - 30/06/2024
+2022-08-03 18:02:33,984 root            INFO     Jugador Bram Nuytinck - Defensa central - 30/06/2023
+2022-08-03 18:02:33,987 root            INFO     Jugador Jaka Bijol - Defensa central - 30/06/2027
+2022-08-03 18:02:33,990 root            INFO     Jugador Filip Benkovic - Defensa central - 30/06/2025
+2022-08-03 18:02:33,992 root            INFO     Jugador Destiny Udogie - Lateral izquierdo - 30/06/2026
+2022-08-03 18:02:33,995 root            INFO     Jugador Adam Masina - Lateral izquierdo - 30/06/2025
+2022-08-03 18:02:33,998 root            INFO     Jugador Enzo Ebosse - Lateral izquierdo - 30/06/2027
+2022-08-03 18:02:34,001 root            INFO     Jugador Leonardo Buta - Lateral izquierdo - 30/06/2027
+2022-08-03 18:02:34,003 root            INFO     Jugador Brandon Soppy - Lateral derecho - 30/06/2026
+2022-08-03 18:02:34,006 root            INFO     Jugador Festy Ebosele - Lateral derecho - 30/06/2027
+2022-08-03 18:02:34,009 root            INFO     Jugador Walace - Pivote - 30/06/2024
+2022-08-03 18:02:34,012 root            INFO     Jugador Mato Jajalo - Pivote - 30/06/2023
+2022-08-03 18:02:34,015 root            INFO     Jugador Jean-Victor Makengo - Mediocentro - 30/06/2025
+2022-08-03 18:02:34,017 root            INFO     Jugador Tolgay Arslan - Mediocentro - 30/06/2023
+2022-08-03 18:02:34,020 root            INFO     Jugador Martin Palumbo - Mediocentro - 30/06/2025
+2022-08-03 18:02:34,023 root            INFO     Jugador Roberto Pereyra - Mediocentro ofensivo - 30/06/2023
+2022-08-03 18:02:34,026 root            INFO     Jugador Lazar Samardzic - Mediocentro ofensivo - 30/06/2026
+2022-08-03 18:02:34,028 root            INFO     Jugador Sandi Lovric - Mediocentro ofensivo - 30/06/2027
+2022-08-03 18:02:34,031 root            INFO     Jugador Gerard Deulofeu - Delantero centro - 30/06/2024
+2022-08-03 18:02:34,034 root            INFO     Jugador Beto - Delantero centro - 30/06/2026
+2022-08-03 18:02:34,037 root            INFO     Jugador Isaac Success - Delantero centro - 30/06/2024
+2022-08-03 18:02:34,040 root            INFO     Jugador Felipe Vizeu - Delantero centro - 30/06/2023
+2022-08-03 18:02:34,043 root            INFO     Jugador Ilija Nestorovski - Delantero centro - 30/06/2023
+2022-08-03 18:02:34,045 root            INFO     Equipo AC Monza
+2022-08-03 18:02:36,158 root            INFO     Jugador Alessio Cragno - Portero - 30/06/2023
+2022-08-03 18:02:36,161 root            INFO     Jugador Michele Di Gregorio - Portero - -
+2022-08-03 18:02:36,164 root            INFO     Jugador Alessandro Sorrentino - Portero - 30/06/2027
+2022-08-03 18:02:36,167 root            INFO     Jugador Eugenio Lamanna - Portero - -
+2022-08-03 18:02:36,170 root            INFO     Jugador Andrea Carboni - Defensa central - 30/06/2027
+2022-08-03 18:02:36,173 root            INFO     Jugador Davide Bettella - Defensa central - -
+2022-08-03 18:02:36,176 root            INFO     Jugador Luca Caldirola - Defensa central - 30/06/2023
+2022-08-03 18:02:36,179 root            INFO     Jugador Andrea Ranocchia - Defensa central - 30/06/2024
+2022-08-03 18:02:36,183 root            INFO     Jugador Valentin Antov - Defensa central - -
+2022-08-03 18:02:36,186 root            INFO     Jugador Mario Sampirisi - Defensa central - -
+2022-08-03 18:02:36,189 root            INFO     Jugador Luca Marrone - Defensa central - 30/06/2023
+2022-08-03 18:02:36,192 root            INFO     Jugador Gabriel Paletta - Defensa central - -
+2022-08-03 18:02:36,195 root            INFO     Jugador Armando Anastasio - Lateral izquierdo - 30/06/2023
+2022-08-03 18:02:36,198 root            INFO     Jugador Samuele Birindelli - Lateral derecho - 30/06/2026
+2022-08-03 18:02:36,201 root            INFO     Jugador Giulio Donati - Lateral derecho - 30/06/2023
+2022-08-03 18:02:36,204 root            INFO     Jugador Andrea Barberis - Pivote - 30/06/2023
+2022-08-03 18:02:36,207 root            INFO     Jugador Antonis Siatounis - Pivote - 30/06/2024
+2022-08-03 18:02:36,210 root            INFO     Jugador Nicola Rigoni - Pivote - 30/06/2022
+2022-08-03 18:02:36,213 root            INFO     Jugador Matteo Scozzarella - Pivote - -
+2022-08-03 18:02:36,216 root            INFO     Jugador Stefano Sensi - Mediocentro - 30/06/2023
+2022-08-03 18:02:36,219 root            INFO     Jugador Luca Mazzitelli - Mediocentro - 30/06/2025
+2022-08-03 18:02:36,222 root            INFO     Jugador Andrea Colpani - Mediocentro - 30/06/2026
+2022-08-03 18:02:36,225 root            INFO     Jugador Mattia Valoti - Mediocentro - -
+2022-08-03 18:02:36,228 root            INFO     Jugador Filippo Ranocchia - Mediocentro - 30/06/2023
+2022-08-03 18:02:36,231 root            INFO     Jugador Jose Machin - Mediocentro - 30/06/2024
+2022-08-03 18:02:36,234 root            INFO     Jugador Warren Bondo - Mediocentro - 30/06/2025
+2022-08-03 18:02:36,237 root            INFO     Jugador Pedro Pereira - Interior derecho - 30/06/2026
+2022-08-03 18:02:36,239 root            INFO     Jugador Salvatore Molina - Interior derecho - 30/06/2023
+2022-08-03 18:02:36,242 root            INFO     Jugador Carlos Augusto - Interior izquierdo - 30/06/2024
+2022-08-03 18:02:36,245 root            INFO     Jugador Matteo Pessina - Mediocentro ofensivo - 30/06/2023
+2022-08-03 18:02:36,248 root            INFO     Jugador Samuele Vignato - Mediocentro ofensivo - 30/06/2025
+2022-08-03 18:02:36,250 root            INFO     Jugador Patrick Ciurria - Extremo derecho - 30/06/2024
+2022-08-03 18:02:36,253 root            INFO     Jugador Marco D'Alessandro - Extremo derecho - 30/06/2023
+2022-08-03 18:02:36,256 root            INFO     Jugador Gianluca Caprari - Mediapunta - 30/06/2023
+2022-08-03 18:02:36,259 root            INFO     Jugador Dany Mota - Delantero centro - 30/06/2024
+2022-08-03 18:02:36,262 root            INFO     Jugador Mirko Maric - Delantero centro - 30/06/2025
+2022-08-03 18:02:36,264 root            INFO     Jugador Christian Gytkjaer - Delantero centro - 30/06/2023
+2022-08-03 18:02:36,266 root            INFO     Equipo FC Empoli
+2022-08-03 18:02:37,832 root            INFO     Jugador Guglielmo Vicario - Portero - -
+2022-08-03 18:02:37,835 root            INFO     Jugador Samuele Perisan - Portero - -
+2022-08-03 18:02:37,838 root            INFO     Jugador Jacopo Furlan - Portero - 30/06/2023
+2022-08-03 18:02:37,841 root            INFO     Jugador Sebastiano Luperto - Defensa central - 30/06/2023
+2022-08-03 18:02:37,844 root            INFO     Jugador Koni De Winter - Defensa central - 30/06/2023
+2022-08-03 18:02:37,847 root            INFO     Jugador Ardian Ismajli - Defensa central - 30/06/2025
+2022-08-03 18:02:37,850 root            INFO     Jugador Lorenzo Tonelli - Defensa central - 30/06/2023
+2022-08-03 18:02:37,853 root            INFO     Jugador Fabiano Parisi - Lateral izquierdo - 30/06/2023
+2022-08-03 18:02:37,856 root            INFO     Jugador Liberato Cacace - Lateral izquierdo - -
+2022-08-03 18:02:37,859 root            INFO     Jugador Petar Stojanovic - Lateral derecho - -
+2022-08-03 18:02:37,862 root            INFO     Jugador Tyronne Ebuehi - Lateral derecho - 30/06/2025
+2022-08-03 18:02:37,866 root            INFO     Jugador Leo Stulac - Pivote - 30/06/2023
+2022-08-03 18:02:37,869 root            INFO     Jugador Razvan Marin - Mediocentro - 30/06/2023
+2022-08-03 18:02:37,872 root            INFO     Jugador Filippo Bandinelli - Mediocentro - 30/06/2023
+2022-08-03 18:02:37,875 root            INFO     Jugador Nicolas Haas - Mediocentro - 30/06/2024
+2022-08-03 18:02:37,878 root            INFO     Jugador Liam Henderson - Mediocentro - 30/06/2025
+2022-08-03 18:02:37,881 root            INFO     Jugador Giovanni Crociata - Mediocentro - -
+2022-08-03 18:02:37,883 root            INFO     Jugador Nedim Bajrami - Mediocentro ofensivo - 30/06/2024
+2022-08-03 18:02:37,886 root            INFO     Jugador Tommaso Baldanzi - Mediocentro ofensivo - -
+2022-08-03 18:02:37,889 root            INFO     Jugador Davide Merola - Extremo derecho - 30/06/2023
+2022-08-03 18:02:37,892 root            INFO     Jugador Martin Satriano - Delantero centro - 30/06/2023
+2022-08-03 18:02:37,895 root            INFO     Jugador Mattia Destro - Delantero centro - 30/06/2023
+2022-08-03 18:02:37,898 root            INFO     Jugador Emmanuel Ekong - Delantero centro - 30/06/2027
+2022-08-03 18:02:37,900 root            INFO     Equipo UC Sampdoria
+2022-08-03 18:02:39,655 root            INFO     Jugador Emil Audero - Portero - 30/06/2026
+2022-08-03 18:02:39,658 root            INFO     Jugador Nicola Ravaglia - Portero - 30/06/2024
+2022-08-03 18:02:39,661 root            INFO     Jugador Elia Tantalocchi - Portero - -
+2022-08-03 18:02:39,664 root            INFO     Jugador Omar Colley - Defensa central - 30/06/2025
+2022-08-03 18:02:39,667 root            INFO     Jugador Jeison Murillo - Defensa central - 30/06/2023
+2022-08-03 18:02:39,670 root            INFO     Jugador Maxime Leverbe - Defensa central - 30/06/2023
+2022-08-03 18:02:39,672 root            INFO     Jugador Alex Ferrari - Defensa central - 30/06/2025
+2022-08-03 18:02:39,675 root            INFO     Jugador Tommaso Augello - Lateral izquierdo - 30/06/2025
+2022-08-03 18:02:39,678 root            INFO     Jugador Nicola Murru - Lateral izquierdo - 30/06/2024
+2022-08-03 18:02:39,681 root            INFO     Jugador Bartosz Bereszynski - Lateral derecho - 30/06/2025
+2022-08-03 18:02:39,684 root            INFO     Jugador Fabio Depaoli - Lateral derecho - 30/06/2024
+2022-08-03 18:02:39,687 root            INFO     Jugador Andrea Conti - Lateral derecho - 30/06/2025
+2022-08-03 18:02:39,690 root            INFO     Jugador Tomas Rincon - Pivote - 30/06/2023
+2022-08-03 18:02:39,692 root            INFO     Jugador Gerard Yepes - Pivote - 30/06/2025
+2022-08-03 18:02:39,695 root            INFO     Jugador Ronaldo Vieira - Mediocentro - 30/06/2023
+2022-08-03 18:02:39,698 root            INFO     Jugador Simone Trimboli - Mediocentro - 30/06/2024
+2022-08-03 18:02:39,701 root            INFO     Jugador Antonio Candreva - Interior derecho - 30/06/2024
+2022-08-03 18:02:39,704 root            INFO     Jugador Filip Djuricic - Mediocentro ofensivo - 30/06/2024
+2022-08-03 18:02:39,707 root            INFO     Jugador Abdelhamid Sabiri - Mediocentro ofensivo - 30/06/2025
+2022-08-03 18:02:39,710 root            INFO     Jugador Valerio Verre - Mediocentro ofensivo - 30/06/2025
+2022-08-03 18:02:39,713 root            INFO     Jugador Mikkel Damsgaard - Extremo izquierdo - 30/06/2024
+2022-08-03 18:02:39,716 root            INFO     Jugador Mehdi Leris - Extremo derecho - 30/06/2024
+2022-08-03 18:02:39,719 root            INFO     Jugador Manolo Gabbiadini - Delantero centro - 30/06/2026
+2022-08-03 18:02:39,722 root            INFO     Jugador Manuel De Luca - Delantero centro - 30/06/2025
+2022-08-03 18:02:39,725 root            INFO     Jugador Francesco Caputo - Delantero centro - 30/06/2024
+2022-08-03 18:02:39,728 root            INFO     Jugador Fabio Quagliarella - Delantero centro - 30/06/2023
+2022-08-03 18:02:39,731 root            INFO     Equipo Spezia
+2022-08-03 18:02:41,992 root            INFO     Jugador Ivan Provedel - Portero - 30/06/2023
+2022-08-03 18:02:41,995 root            INFO     Jugador Jeroen Zoet - Portero - 30/06/2024
+2022-08-03 18:02:41,997 root            INFO     Jugador Petar Zovko - Portero - 30/06/2024
+2022-08-03 18:02:42,000 root            INFO     Jugador Dimitrios Nikolaou - Defensa central - 30/06/2026
+2022-08-03 18:02:42,003 root            INFO     Jugador Mattia Caldara - Defensa central - 30/06/2023
+2022-08-03 18:02:42,006 root            INFO     Jugador Elio Capradossi - Defensa central - 30/06/2023
+2022-08-03 18:02:42,009 root            INFO     Jugador Petko Hristov - Defensa central - 30/06/2025
+2022-08-03 18:02:42,011 root            INFO     Jugador Nicolo Bertola - Defensa central - 30/06/2025
+2022-08-03 18:02:42,014 root            INFO     Jugador Laurens Serpe - Defensa central - 30/06/2026
+2022-08-03 18:02:42,017 root            INFO     Jugador Arkadiusz Reca - Lateral izquierdo - -
+2022-08-03 18:02:42,020 root            INFO     Jugador Kelvin Amian - Lateral derecho - 30/06/2025
+2022-08-03 18:02:42,023 root            INFO     Jugador Luca Vignali - Lateral derecho - 30/06/2023
+2022-08-03 18:02:42,026 root            INFO     Jugador Salva Ferrer - Lateral derecho - 30/06/2025
+2022-08-03 18:02:42,028 root            INFO     Jugador Emil Holm - Lateral derecho - 30/06/2026
+2022-08-03 18:02:42,031 root            INFO     Jugador Jakub Kiwior - Pivote - 30/06/2025
+2022-08-03 18:02:42,034 root            INFO     Jugador Albin Ekdal - Pivote - 30/06/2024
+2022-08-03 18:02:42,037 root            INFO     Jugador Aurelien Nguiamba - Pivote - 30/06/2024
+2022-08-03 18:02:42,040 root            INFO     Jugador Giulio Maggiore - Mediocentro - 30/06/2023
+2022-08-03 18:02:42,042 root            INFO     Jugador Simone Bastoni - Mediocentro - 30/06/2025
+2022-08-03 18:02:42,045 root            INFO     Jugador Aimar Sher - Mediocentro - 30/06/2026
+2022-08-03 18:02:42,048 root            INFO     Jugador Mehdi Bourabia - Mediocentro - 30/06/2024
+2022-08-03 18:02:42,051 root            INFO     Jugador Mikael Egill Ellertsson - Mediocentro - 30/06/2026
+2022-08-03 18:02:42,054 root            INFO     Jugador Emil Kornvig - Mediocentro - 30/06/2026
+2022-08-03 18:02:42,057 root            INFO     Jugador Jacopo Sala - Mediocentro - 30/06/2024
+2022-08-03 18:02:42,060 root            INFO     Jugador Niccolo Pietra - Mediocentro - 30/06/2025
+2022-08-03 18:02:42,063 root            INFO     Jugador Viktor Kovalenko - Mediocentro ofensivo - 30/06/2023
+2022-08-03 18:02:42,066 root            INFO     Jugador Daniel Maldini - Mediocentro ofensivo - 30/06/2023
+2022-08-03 18:02:42,069 root            INFO     Jugador Emmanuel Gyasi - Extremo izquierdo - 30/06/2025
+2022-08-03 18:02:42,072 root            INFO     Jugador Daniele Verde - Extremo derecho - 30/06/2025
+2022-08-03 18:02:42,075 root            INFO     Jugador Kevin Agudelo - Extremo derecho - -
+2022-08-03 18:02:42,078 root            INFO     Jugador Suf Podgoreanu - Extremo derecho - 30/06/2025
+2022-08-03 18:02:42,081 root            INFO     Jugador Leandro Sanca - Extremo derecho - 30/06/2024
+2022-08-03 18:02:42,084 root            INFO     Jugador Ognjen Stijepovic - Mediapunta - 30/06/2024
+2022-08-03 18:02:42,087 root            INFO     Jugador Janis Antiste - Delantero centro - 30/06/2026
+2022-08-03 18:02:42,090 root            INFO     Jugador M'Bala Nzola - Delantero centro - 30/06/2023
+2022-08-03 18:02:42,093 root            INFO     Jugador David Strelec - Delantero centro - 30/06/2026
+2022-08-03 18:02:42,096 root            INFO     Jugador Samuel Mraz - Delantero centro - 30/06/2024
+2022-08-03 18:02:42,098 root            INFO     Equipo US Salernitana 1919
+2022-08-03 18:02:43,969 root            INFO     Jugador Luigi Sepe - Portero - -
+2022-08-03 18:02:43,972 root            INFO     Jugador Vincenzo Fiorillo - Portero - 30/06/2025
+2022-08-03 18:02:43,975 root            INFO     Jugador Alessandro Micai - Portero - 30/06/2023
+2022-08-03 18:02:43,977 root            INFO     Jugador Matteo Lovato - Defensa central - 30/06/2027
+2022-08-03 18:02:43,980 root            INFO     Jugador Lorenzo Pirola - Defensa central - 30/06/2023
+2022-08-03 18:02:43,983 root            INFO     Jugador Norbert Gyomber - Defensa central - 30/06/2023
+2022-08-03 18:02:43,986 root            INFO     Jugador Federico Fazio - Defensa central - 30/06/2024
+2022-08-03 18:02:43,989 root            INFO     Jugador Valerio Mantovani - Defensa central - 30/06/2024
+2022-08-03 18:02:43,991 root            INFO     Jugador Frederic Veseli - Defensa central - 30/06/2023
+2022-08-03 18:02:43,994 root            INFO     Jugador Gioacchino Galeotafiore - Defensa central - -
+2022-08-03 18:02:43,997 root            INFO     Jugador Andrei Motoc - Defensa central - 30/06/2025
+2022-08-03 18:02:44,000 root            INFO     Jugador Domagoj Bradaric - Lateral izquierdo - 30/06/2026
+2022-08-03 18:02:44,003 root            INFO     Jugador Pawel Jaroszynski - Lateral izquierdo - 30/06/2024
+2022-08-03 18:02:44,006 root            INFO     Jugador Sanasi Sy - Lateral izquierdo - 30/06/2024
+2022-08-03 18:02:44,008 root            INFO     Jugador Junior Sambia - Lateral derecho - 30/06/2026
+2022-08-03 18:02:44,011 root            INFO     Jugador Pasquale Mazzocchi - Lateral derecho - 30/06/2025
+2022-08-03 18:02:44,014 root            INFO     Jugador Ivan Radovanovic - Pivote - 30/06/2023
+2022-08-03 18:02:44,017 root            INFO     Jugador Emil Bohinen - Mediocentro - 30/06/2026
+2022-08-03 18:02:44,020 root            INFO     Jugador Lassana Coulibaly - Mediocentro - 30/06/2026
+2022-08-03 18:02:44,023 root            INFO     Jugador Mamadou Coulibaly - Mediocentro - -
+2022-08-03 18:02:44,026 root            INFO     Jugador Grigoris Kastanos - Mediocentro - 30/06/2026
