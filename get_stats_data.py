@@ -59,10 +59,12 @@ def get_tables(url):
 
     all_tables = soup.find_all("tbody")
 
-    team_table = all_tables[9]
-    player_table = all_tables[11]
+    if(all_tables[1]) :
+        team_table = all_tables[1]
+    if(all_tables[2]) :
+        player_table = all_tables[2]
 
-    return team_table, player_table
+    return player_table,team_table 
 
 
 def get_frame( features, player_table, is_outfield_player):
