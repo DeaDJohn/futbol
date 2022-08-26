@@ -4959,3 +4959,440 @@
 2022-08-03 18:02:44,020 root            INFO     Jugador Lassana Coulibaly - Mediocentro - 30/06/2026
 2022-08-03 18:02:44,023 root            INFO     Jugador Mamadou Coulibaly - Mediocentro - -
 2022-08-03 18:02:44,026 root            INFO     Jugador Grigoris Kastanos - Mediocentro - 30/06/2026
+2022-08-23 20:36:30,534 root            INFO     Engine(mysql+pymysql://root:***@localhost:3307/futbol_bd)
+2022-08-23 20:36:30,534 root            INFO     Empezando a obtener los datos de los equipos
+2022-08-23 20:37:37,091 root            INFO     Engine(mysql+pymysql://root:***@localhost:3306/futbol_bd)
+2022-08-23 20:37:37,092 root            INFO     Empezando a obtener los datos de los equipos
+2022-08-23 20:38:31,200 root            INFO     Engine(mysql+pymysql://root:***@localhost:3306/futbol_bd)
+2022-08-23 20:38:31,200 root            INFO     Empezando a obtener los datos de los equipos
+2022-08-23 20:41:47,841 root            INFO     Engine(mysql+pymysql://root:***@localhost:3306/futbol_bd)
+2022-08-23 20:41:47,842 root            INFO     Empezando a obtener los datos de los equipos
+2022-08-23 20:45:54,060 root            INFO     Engine(mysql+pymysql://root:***@localhost:3306/futbol_bd)
+2022-08-23 20:45:54,060 root            INFO     Empezando a obtener los datos de los equipos
+2022-08-23 20:46:38,277 root            INFO     Engine(mysql+pymysql://root:***@localhost:3306/futbol_bd)
+2022-08-23 20:46:38,277 root            INFO     Empezando a obtener los datos de los equipos
+2022-08-23 20:46:40,630 root            INFO     Total equipos guardados: 98
+2022-08-23 20:47:38,577 root            INFO     Engine(mysql+pymysql://root:***@localhost:3306/futbol_bd)
+2022-08-23 20:47:38,577 root            INFO     Empezando a obtener los datos de los equipos
+2022-08-23 20:47:49,298 root            INFO     Total equipos guardados: 98
+2022-08-23 20:48:53,518 root            INFO     Engine(mysql+pymysql://root:***@localhost:3306/futbol_bd)
+2022-08-23 20:48:53,519 root            INFO     Empezando a obtener los datos de los equipos
+2022-08-23 20:49:04,116 root            INFO     Total equipos guardados: 98
+2022-08-23 21:13:53,693 root            INFO     Engine(mysql+pymysql://root:***@localhost:3306/futbol_bd)
+2022-08-23 21:13:53,693 root            INFO     Empezando a obtener los datos de los equipos
+2022-08-23 21:23:27,528 root            INFO     Engine(mysql+pymysql://root:***@localhost:3306/futbol_bd)
+2022-08-23 21:23:27,528 root            INFO     Empezando a obtener los datos de los equipos
+2022-08-23 21:23:38,576 root            INFO     Total equipos guardados: 98
+2022-08-23 21:23:38,580 root            INFO     Empezando a obtener los datos de los paises
+2022-08-23 21:23:38,582 root            INFO     Equipo FC Barcelona
+2022-08-23 21:24:57,934 root            INFO     Engine(mysql+pymysql://root:***@localhost:3306/futbol_bd)
+2022-08-23 21:24:57,934 root            INFO     Empezando a obtener los datos de los equipos
+2022-08-23 21:25:04,227 root            INFO     Total equipos guardados: 98
+2022-08-23 21:25:04,235 root            INFO     Empezando a obtener los datos de los paises
+2022-08-23 21:25:04,236 root            INFO     Equipo FC Barcelona
+2022-08-23 21:25:07,230 root            INFO     País encontrado Alemania
+2022-08-23 21:25:07,231 root            INFO     País encontrado España
+2022-08-23 21:25:07,233 root            INFO     País encontrado Francia
+2022-08-23 21:25:07,234 root            INFO     País encontrado Uruguay
+2022-08-23 21:25:07,235 root            INFO     País encontrado Dinamarca
+2022-08-23 21:25:07,237 root            INFO     País encontrado Estados Unidos
+2022-08-23 21:25:07,239 root            INFO     País encontrado Países Bajos
+2022-08-23 21:25:07,240 root            INFO     País encontrado Costa de Marfil
+2022-08-23 21:25:07,242 root            INFO     País encontrado Bosnia y Herzegovina
+2022-08-23 21:25:07,243 root            INFO     País encontrado Marruecos
+2022-08-23 21:25:07,244 root            INFO     País encontrado Brasil
+2022-08-23 21:25:07,246 root            INFO     País encontrado Polonia
+2022-08-23 21:25:07,247 root            INFO     País encontrado Gabón
+2022-08-23 21:25:07,249 root            INFO     Equipo Real Madrid CF
+2022-08-23 21:25:09,399 root            INFO     País encontrado Bélgica
+2022-08-23 21:25:09,400 root            INFO     País encontrado Ucrania
+2022-08-23 21:25:09,402 root            INFO     País encontrado Austria
+2022-08-23 21:25:09,405 root            INFO     País encontrado Croacia
+2022-08-23 21:25:09,408 root            INFO     País encontrado República Dominicana
+2022-08-23 21:25:09,409 root            INFO     Equipo Atlético de Madrid
+2022-08-23 21:25:10,930 root            INFO     País encontrado Eslovenia
+2022-08-23 21:25:10,932 root            INFO     País encontrado Montenegro
+2022-08-23 21:25:10,934 root            INFO     País encontrado Mozambique
+2022-08-23 21:25:10,935 root            INFO     País encontrado Argentina
+2022-08-23 21:25:10,937 root            INFO     País encontrado Colombia
+2022-08-23 21:25:10,938 root            INFO     País encontrado República Centroafricana
+2022-08-23 21:25:10,941 root            INFO     País encontrado Portugal
+2022-08-23 21:25:10,943 root            INFO     Equipo Real Sociedad
+2022-08-23 21:25:12,393 root            INFO     País encontrado Japón
+2022-08-23 21:25:12,394 root            INFO     País encontrado Suecia
+2022-08-23 21:25:12,396 root            INFO     Equipo Villarreal CF
+2022-08-23 21:25:15,181 root            INFO     País encontrado Argelia
+2022-08-23 21:25:15,185 root            INFO     País encontrado Nigeria
+2022-08-23 21:25:15,186 root            INFO     País encontrado Senegal
+2022-08-23 21:25:15,188 root            INFO     Equipo Sevilla FC
+2022-08-23 21:25:16,758 root            INFO     País encontrado Serbia
+2022-08-23 21:25:16,763 root            INFO     País encontrado México
+2022-08-23 21:25:16,765 root            INFO     Equipo Real Betis Balompié
+2022-08-23 21:25:24,356 root            INFO     País encontrado Chile
+2022-08-23 21:25:24,357 root            INFO     País encontrado Italia
+2022-08-23 21:25:24,362 root            INFO     Equipo Valencia CF
+2022-08-23 21:25:25,697 root            INFO     País encontrado Georgia
+2022-08-23 21:25:25,699 root            INFO     País encontrado Guinea
+2022-08-23 21:25:25,701 root            INFO     País encontrado Turquía
+2022-08-23 21:25:25,702 root            INFO     País encontrado Suiza
+2022-08-23 21:25:25,704 root            INFO     País encontrado Guadalupe
+2022-08-23 21:25:25,706 root            INFO     País encontrado Nueva Caledonia
+2022-08-23 21:25:25,708 root            INFO     Equipo Athletic Club
+2022-08-23 21:25:27,266 root            INFO     País encontrado Ghana
+2022-08-23 21:25:27,268 root            INFO     Equipo Getafe CF
+2022-08-23 21:25:29,441 root            INFO     País encontrado Togo
+2022-08-23 21:25:29,442 root            INFO     País encontrado Paraguay
+2022-08-23 21:25:29,446 root            INFO     Equipo RC Celta de Vigo
+2022-08-23 21:25:31,698 root            INFO     País encontrado Perú
+2022-08-23 21:25:31,701 root            INFO     Equipo RCD Espanyol
+2022-08-23 21:25:34,031 root            INFO     País encontrado Albania
+2022-08-23 21:25:34,034 root            INFO     Equipo CA Osasuna
+2022-08-23 21:25:35,623 root            INFO     País encontrado Ecuador
+2022-08-23 21:25:35,625 root            INFO     Equipo UD Almería
+2022-08-23 21:25:38,470 root            INFO     País encontrado Guinea Ecuatorial
+2022-08-23 21:25:38,472 root            INFO     País encontrado Guinea-Bissau
+2022-08-23 21:25:38,473 root            INFO     País encontrado Eslovaquia
+2022-08-23 21:25:38,476 root            INFO     País encontrado Inglaterra
+2022-08-23 21:25:38,478 root            INFO     Equipo Elche CF
+2022-08-23 21:25:40,736 root            INFO     Equipo Girona FC
+2022-08-23 21:25:42,843 root            INFO     País encontrado Malí
+2022-08-23 21:25:42,845 root            INFO     País encontrado Venezuela
+2022-08-23 21:25:42,848 root            INFO     Equipo Cádiz CF
+2022-08-23 21:25:44,725 root            INFO     País encontrado Australia
+2022-08-23 21:25:44,727 root            INFO     País encontrado Honduras
+2022-08-23 21:25:44,729 root            INFO     Equipo Rayo Vallecano
+2022-08-23 21:25:47,161 root            INFO     País encontrado Macedonia del Norte
+2022-08-23 21:25:47,166 root            INFO     País encontrado Cabo Verde
+2022-08-23 21:25:47,168 root            INFO     Equipo RCD Mallorca
+2022-08-23 21:25:48,999 root            INFO     País encontrado Corea del Sur
+2022-08-23 21:25:49,002 root            INFO     País encontrado Kosovo
+2022-08-23 21:25:49,003 root            INFO     Equipo Real Valladolid CF
+2022-08-23 21:25:55,898 root            INFO     País encontrado Martinica
+2022-08-23 21:25:55,901 root            INFO     País encontrado Israel
+2022-08-23 21:25:55,903 root            INFO     Equipo Manchester City
+2022-08-23 21:25:57,530 root            INFO     País encontrado Noruega
+2022-08-23 21:25:57,571 root            INFO     Equipo Liverpool FC
+2022-08-23 21:25:59,332 root            INFO     País encontrado Irlanda
+2022-08-23 21:25:59,334 root            INFO     País encontrado Camerún
+2022-08-23 21:25:59,336 root            INFO     País encontrado Escocia
+2022-08-23 21:25:59,337 root            INFO     País encontrado Grecia
+2022-08-23 21:25:59,340 root            INFO     País encontrado Egipto
+2022-08-23 21:25:59,342 root            INFO     Equipo Chelsea FC
+2022-08-23 21:26:01,989 root            INFO     País encontrado Gales
+2022-08-23 21:26:01,995 root            INFO     Equipo Manchester United
+2022-08-23 21:26:04,138 root            INFO     País encontrado Túnez
+2022-08-23 21:26:04,141 root            INFO     Equipo Tottenham Hotspur
+2022-08-23 21:26:06,259 root            INFO     Equipo Arsenal FC
+2022-08-23 21:26:08,298 root            INFO     Equipo Leicester City
+2022-08-23 21:26:12,358 root            INFO     País encontrado Irlanda del Norte
+2022-08-23 21:26:12,362 root            INFO     País encontrado Zambia
+2022-08-23 21:26:12,363 root            INFO     Equipo Aston Villa
+2022-08-23 21:26:14,224 root            INFO     País encontrado Zimbabue
+2022-08-23 21:26:14,226 root            INFO     País encontrado Jamaica
+2022-08-23 21:26:14,228 root            INFO     Equipo Everton FC
+2022-08-23 21:26:20,744 root            INFO     Equipo West Ham United
+2022-08-23 21:26:22,277 root            INFO     País encontrado República Checa
+2022-08-23 21:26:22,280 root            INFO     Equipo Wolverhampton Wanderers
+2022-08-23 21:26:23,983 root            INFO     Equipo Newcastle United
+2022-08-23 21:26:29,199 root            INFO     País encontrado Nueva Zelanda
+2022-08-23 21:26:29,200 root            INFO     Equipo Brentford FC
+2022-08-23 21:26:32,142 root            INFO     País encontrado Granada
+2022-08-23 21:26:32,143 root            INFO     País encontrado Irán
+2022-08-23 21:26:32,145 root            INFO     País encontrado RD del Congo
+2022-08-23 21:26:32,147 root            INFO     Equipo Leeds United
+2022-08-23 21:26:34,370 root            INFO     Equipo Southampton FC
+2022-08-23 21:26:37,923 root            INFO     Equipo Crystal Palace
+2022-08-23 21:26:39,758 root            INFO     Equipo Brighton & Hove Albion
+2022-08-23 21:26:42,045 root            INFO     País encontrado Rumania
+2022-08-23 21:26:42,047 root            INFO     Equipo Nottingham Forest
+2022-08-23 21:26:44,075 root            INFO     País encontrado Montserrat
+2022-08-23 21:26:44,077 root            INFO     Equipo Fulham FC
+2022-08-23 21:26:45,630 root            INFO     Equipo AFC Bournemouth
+2022-08-23 21:26:47,034 root            INFO     Equipo Inter de Milán
+2022-08-23 21:26:48,593 root            INFO     País encontrado Armenia
+2022-08-23 21:26:48,595 root            INFO     Equipo AC Milan
+2022-08-23 21:26:50,654 root            INFO     Equipo Juventus de Turín
+2022-08-23 21:26:52,628 root            INFO     Equipo SSC Nápoles
+2022-08-23 21:26:54,873 root            INFO     Equipo AS Roma
+2022-08-23 21:26:56,480 root            INFO     País encontrado Gambia
+2022-08-23 21:26:56,483 root            INFO     País encontrado Uzbekistán
+2022-08-23 21:26:56,484 root            INFO     Equipo Atalanta de Bérgamo
+2022-08-23 21:26:58,589 root            INFO     Equipo SS Lazio
+2022-08-23 21:27:01,038 root            INFO     País encontrado Lituania
+2022-08-23 21:27:01,042 root            INFO     País encontrado Surinam
+2022-08-23 21:27:01,046 root            INFO     Equipo Fiorentina
+2022-08-23 21:27:02,884 root            INFO     País encontrado Rusia
+2022-08-23 21:27:02,885 root            INFO     Equipo US Sassuolo
+2022-08-23 21:27:13,672 root            INFO     Equipo Torino FC
+2022-08-23 21:27:14,199 root            INFO     Equipo AC Monza
+2022-08-23 21:27:17,032 root            INFO     País encontrado Bulgaria
+2022-08-23 21:27:17,038 root            INFO     Equipo Bolonia
+2022-08-23 21:27:18,735 root            INFO     Equipo Udinese
+2022-08-23 21:27:20,570 root            INFO     Equipo Hellas Verona
+2022-08-23 21:27:22,737 root            INFO     Equipo US Salernitana 1919
+2022-08-23 21:27:30,191 root            INFO     País encontrado Moldavia
+2022-08-23 21:27:30,195 root            INFO     País encontrado Chipre
+2022-08-23 21:27:30,199 root            INFO     Equipo FC Empoli
+2022-08-23 21:27:31,883 root            INFO     Equipo UC Sampdoria
+2022-08-23 21:27:33,447 root            INFO     Equipo Spezia
+2022-08-23 21:27:35,369 root            INFO     País encontrado Islandia
+2022-08-23 21:27:35,373 root            INFO     País encontrado Angola
+2022-08-23 21:27:35,375 root            INFO     Equipo US Cremonese
+2022-08-23 21:27:37,646 root            INFO     Equipo US Lecce
+2022-08-23 21:27:47,809 root            INFO     País encontrado Finlandia
+2022-08-23 21:27:47,812 root            INFO     Equipo Bayern Múnich
+2022-08-23 21:27:51,121 root            INFO     País encontrado Canadá
+2022-08-23 21:27:51,125 root            INFO     Equipo Borussia Dortmund
+2022-08-23 21:27:52,707 root            INFO     Equipo RB Leipzig
+2022-08-23 21:27:55,031 root            INFO     País encontrado Hungría
+2022-08-23 21:27:55,037 root            INFO     Equipo Bayer 04 Leverkusen
+2022-08-23 21:27:56,752 root            INFO     País encontrado Burkina Faso
+2022-08-23 21:27:56,757 root            INFO     Equipo VfL Wolfsburgo
+2022-08-23 21:27:59,316 root            INFO     Equipo Eintracht Fráncfort​​
+2022-08-23 21:28:01,965 root            INFO     Equipo TSG 1899 Hoffenheim
+2022-08-23 21:28:03,823 root            INFO     Equipo Borussia Mönchengladbach
+2022-08-23 21:28:05,889 root            INFO     País encontrado Luxemburgo
+2022-08-23 21:28:05,892 root            INFO     Equipo SC Friburgo
+2022-08-23 21:28:07,776 root            INFO     Equipo VfB Stuttgart
+2022-08-23 21:28:10,135 root            INFO     Equipo Hertha Berlín
+2022-08-23 21:28:12,394 root            INFO     Equipo 1.FSV Mainz 05
+2022-08-23 21:28:14,135 root            INFO     Equipo FC Augsburgo
+2022-08-23 21:28:16,446 root            INFO     Equipo 1.FC Unión Berlín
+2022-08-23 21:28:18,628 root            INFO     Equipo FC Colonia
+2022-08-23 21:28:20,561 root            INFO     Equipo FC Schalke 04
+2022-08-23 21:28:23,458 root            INFO     Equipo SV Werder Bremen
+2022-08-23 21:28:26,122 root            INFO     Equipo VfL Bochum
+2022-08-23 21:28:28,173 root            INFO     País encontrado Costa Rica
+2022-08-23 21:28:28,176 root            INFO     País encontrado Filipinas
+2022-08-23 21:28:28,178 root            INFO     País encontrado Congo
+2022-08-23 21:28:28,179 root            INFO     Equipo París Saint-Germain FC
+2022-08-23 21:28:29,952 root            INFO     Equipo AS Mónaco
+2022-08-23 21:28:31,596 root            INFO     Equipo Olympique de Lyon
+2022-08-23 21:28:33,207 root            INFO     País encontrado Guayana Francesa
+2022-08-23 21:28:33,213 root            INFO     Equipo Olympique de Marsella
+2022-08-23 21:28:34,947 root            INFO     Equipo Stade Rennais FC
+2022-08-23 21:28:38,411 root            INFO     Equipo OGC Niza
+2022-08-23 21:28:40,597 root            INFO     Equipo LOSC Lille Métropole
+2022-08-23 21:28:41,924 root            INFO     Equipo RC Lens
+2022-08-23 21:28:43,614 root            INFO     País encontrado Comoras
+2022-08-23 21:28:43,630 root            INFO     Equipo Racing Club de Estrasburgo
+2022-08-23 21:28:46,200 root            INFO     País encontrado Haití
+2022-08-23 21:28:46,205 root            INFO     País encontrado Sudáfrica
+2022-08-23 21:28:46,207 root            INFO     Equipo Stade Reims
+2022-08-23 21:28:48,578 root            INFO     Equipo Montpellier HSC
+2022-08-23 21:28:50,190 root            INFO     Equipo FC Nantes
+2022-08-23 21:28:52,349 root            INFO     Equipo Stade Brestois 29
+2022-08-23 21:28:54,201 root            INFO     País encontrado Benín
+2022-08-23 21:28:54,203 root            INFO     Equipo FC Lorient
+2022-08-23 21:28:56,123 root            INFO     Equipo Angers SCO
+2022-08-23 21:28:58,487 root            INFO     Equipo ESTAC Troyes
+2022-08-23 21:29:01,130 root            INFO     Equipo Toulouse FC
+2022-08-23 21:29:03,494 root            INFO     Equipo AJ Auxerre
+2022-08-23 21:29:06,666 root            INFO     País encontrado Madagascar
+2022-08-23 21:29:06,670 root            INFO     Equipo Clermont Foot 63
+2022-08-23 21:29:09,166 root            INFO     Equipo AC Ajaccio
+2022-08-23 21:29:11,840 root            INFO     Total paises guardados: 104
+2022-08-23 21:29:11,848 root            INFO     Empezando a obtener los datos de los jugadores
+2022-08-23 21:29:11,849 root            INFO     Equipo FC Barcelona
+2022-08-23 21:31:14,766 root            INFO     Engine(mysql+pymysql://root:***@localhost:3306/futbol_bd)
+2022-08-23 21:31:14,777 root            INFO     Empezando a obtener los datos de los jugadores
+2022-08-23 21:31:14,779 root            INFO     Equipo FC Barcelona
+2022-08-23 21:32:19,018 root            INFO     Engine(mysql+pymysql://root:***@localhost:3306/futbol_bd)
+2022-08-23 21:32:19,029 root            INFO     Empezando a obtener los datos de los jugadores
+2022-08-23 21:32:19,031 root            INFO     Equipo FC Barcelona
+2022-08-23 21:32:23,903 root            INFO     Engine(mysql+pymysql://root:***@localhost:3306/futbol_bd)
+2022-08-23 21:32:23,929 root            INFO     Empezando a obtener los datos de los jugadores
+2022-08-23 21:32:23,935 root            INFO     Equipo FC Barcelona
+2022-08-23 21:38:48,110 root            INFO     Engine(mysql+pymysql://root:***@localhost:3306/futbol_bd)
+2022-08-23 21:38:48,111 root            INFO     Empezando a obtener los datos de los equipos
+2022-08-23 21:44:02,282 root            INFO     Engine(mysql+pymysql://root:***@localhost:3306/futbol_bd)
+2022-08-23 21:44:02,282 root            INFO     Empezando a obtener los datos de los equipos
+2022-08-23 21:44:41,184 root            INFO     Engine(mysql+pymysql://root:***@localhost:3306/futbol_bd)
+2022-08-23 21:44:41,184 root            INFO     Empezando a obtener los datos de los equipos
+2022-08-23 21:44:43,434 root            INFO     Total equipos guardados: 98
+2022-08-23 21:44:43,438 root            INFO     Empezando a obtener los datos de los paises
+2022-08-23 21:44:43,439 root            INFO     Equipo FC Barcelona
+2022-08-23 21:44:45,214 root            INFO     País encontrado Alemania
+2022-08-23 21:44:45,215 root            INFO     País encontrado España
+2022-08-23 21:44:45,216 root            INFO     País encontrado Francia
+2022-08-23 21:44:45,217 root            INFO     País encontrado Uruguay
+2022-08-23 21:44:45,219 root            INFO     País encontrado Dinamarca
+2022-08-23 21:44:45,221 root            INFO     País encontrado Estados Unidos
+2022-08-23 21:44:45,223 root            INFO     País encontrado Países Bajos
+2022-08-23 21:44:45,224 root            INFO     País encontrado Costa de Marfil
+2022-08-23 21:44:45,225 root            INFO     País encontrado Bosnia y Herzegovina
+2022-08-23 21:44:45,227 root            INFO     País encontrado Marruecos
+2022-08-23 21:44:45,228 root            INFO     País encontrado Brasil
+2022-08-23 21:44:45,230 root            INFO     País encontrado Polonia
+2022-08-23 21:44:45,231 root            INFO     País encontrado Gabón
+2022-08-23 21:44:45,232 root            INFO     Equipo Real Madrid CF
+2022-08-23 21:44:46,568 root            INFO     País encontrado Bélgica
+2022-08-23 21:44:46,569 root            INFO     País encontrado Ucrania
+2022-08-23 21:44:46,571 root            INFO     País encontrado Austria
+2022-08-23 21:44:46,574 root            INFO     País encontrado Croacia
+2022-08-23 21:44:46,576 root            INFO     País encontrado República Dominicana
+2022-08-23 21:44:46,577 root            INFO     Equipo Atlético de Madrid
+2022-08-23 21:44:47,886 root            INFO     País encontrado Eslovenia
+2022-08-23 21:44:47,889 root            INFO     País encontrado Montenegro
+2022-08-23 21:44:47,892 root            INFO     País encontrado Mozambique
+2022-08-23 21:44:47,894 root            INFO     País encontrado Argentina
+2022-08-23 21:44:47,897 root            INFO     País encontrado Colombia
+2022-08-23 21:44:47,906 root            INFO     País encontrado República Centroafricana
+2022-08-23 21:44:47,908 root            INFO     País encontrado Portugal
+2022-08-23 21:44:47,911 root            INFO     Equipo Real Sociedad
+2022-08-23 21:44:49,488 root            INFO     País encontrado Japón
+2022-08-23 21:44:49,490 root            INFO     País encontrado Suecia
+2022-08-23 21:44:49,491 root            INFO     Equipo Villarreal CF
+2022-08-23 21:44:51,270 root            INFO     País encontrado Argelia
+2022-08-23 21:44:51,274 root            INFO     País encontrado Nigeria
+2022-08-23 21:44:51,275 root            INFO     País encontrado Senegal
+2022-08-23 21:44:51,277 root            INFO     Equipo Sevilla FC
+2022-08-23 21:44:53,172 root            INFO     País encontrado Serbia
+2022-08-23 21:44:53,177 root            INFO     País encontrado México
+2022-08-23 21:44:53,179 root            INFO     Equipo Real Betis Balompié
+2022-08-23 21:44:55,335 root            INFO     País encontrado Chile
+2022-08-23 21:44:55,337 root            INFO     País encontrado Italia
+2022-08-23 21:44:55,342 root            INFO     Equipo Valencia CF
+2022-08-23 21:44:57,046 root            INFO     País encontrado Georgia
+2022-08-23 21:44:57,048 root            INFO     País encontrado Guinea
+2022-08-23 21:44:57,050 root            INFO     País encontrado Turquía
+2022-08-23 21:44:57,051 root            INFO     País encontrado Suiza
+2022-08-23 21:44:57,053 root            INFO     País encontrado Guadalupe
+2022-08-23 21:44:57,056 root            INFO     País encontrado Nueva Caledonia
+2022-08-23 21:44:57,058 root            INFO     Equipo Athletic Club
+2022-08-23 21:44:58,664 root            INFO     País encontrado Ghana
+2022-08-23 21:44:58,666 root            INFO     Equipo Getafe CF
+2022-08-23 21:45:00,927 root            INFO     País encontrado Togo
+2022-08-23 21:45:00,929 root            INFO     País encontrado Paraguay
+2022-08-23 21:45:00,933 root            INFO     Equipo RC Celta de Vigo
+2022-08-23 21:45:02,646 root            INFO     País encontrado Perú
+2022-08-23 21:45:02,650 root            INFO     Equipo RCD Espanyol
+2022-08-23 21:45:04,782 root            INFO     País encontrado Albania
+2022-08-23 21:45:04,785 root            INFO     Equipo CA Osasuna
+2022-08-23 21:45:06,397 root            INFO     País encontrado Ecuador
+2022-08-23 21:45:06,400 root            INFO     Equipo UD Almería
+2022-08-23 21:45:09,080 root            INFO     País encontrado Guinea Ecuatorial
+2022-08-23 21:45:09,082 root            INFO     País encontrado Guinea-Bissau
+2022-08-23 21:45:09,084 root            INFO     País encontrado Eslovaquia
+2022-08-23 21:45:09,086 root            INFO     País encontrado Inglaterra
+2022-08-23 21:45:09,088 root            INFO     Equipo Elche CF
+2022-08-23 21:45:10,691 root            INFO     Equipo Girona FC
+2022-08-23 21:45:12,201 root            INFO     País encontrado Malí
+2022-08-23 21:45:12,203 root            INFO     País encontrado Venezuela
+2022-08-23 21:45:12,206 root            INFO     Equipo Cádiz CF
+2022-08-23 21:45:15,036 root            INFO     País encontrado Australia
+2022-08-23 21:45:15,038 root            INFO     País encontrado Honduras
+2022-08-23 21:45:15,039 root            INFO     Equipo Rayo Vallecano
+2022-08-23 21:45:16,588 root            INFO     País encontrado Macedonia del Norte
+2022-08-23 21:45:16,592 root            INFO     País encontrado Cabo Verde
+2022-08-23 21:45:16,595 root            INFO     Equipo RCD Mallorca
+2022-08-23 21:45:18,473 root            INFO     País encontrado Corea del Sur
+2022-08-23 21:45:18,475 root            INFO     País encontrado Kosovo
+2022-08-23 21:45:18,477 root            INFO     Equipo Real Valladolid CF
+2022-08-23 21:45:20,267 root            INFO     País encontrado Martinica
+2022-08-23 21:45:20,270 root            INFO     País encontrado Israel
+2022-08-23 21:45:20,272 root            INFO     Equipo Manchester City
+2022-08-23 21:45:21,990 root            INFO     País encontrado Noruega
+2022-08-23 21:45:22,033 root            INFO     Equipo Liverpool FC
+2022-08-23 21:45:31,094 root            INFO     País encontrado Irlanda
+2022-08-23 21:45:31,096 root            INFO     País encontrado Camerún
+2022-08-23 21:45:31,098 root            INFO     País encontrado Escocia
+2022-08-23 21:45:31,099 root            INFO     País encontrado Grecia
+2022-08-23 21:45:31,103 root            INFO     País encontrado Egipto
+2022-08-23 21:45:31,105 root            INFO     Equipo Chelsea FC
+2022-08-23 21:45:31,478 root            INFO     País encontrado Gales
+2022-08-23 21:45:31,484 root            INFO     Equipo Manchester United
+2022-08-23 21:45:34,734 root            INFO     País encontrado Túnez
+2022-08-23 21:45:34,737 root            INFO     Equipo Tottenham Hotspur
+2022-08-23 21:45:37,313 root            INFO     Equipo Arsenal FC
+2022-08-23 21:45:38,929 root            INFO     Equipo Leicester City
+2022-08-23 21:45:41,253 root            INFO     País encontrado Irlanda del Norte
+2022-08-23 21:45:41,258 root            INFO     País encontrado Zambia
+2022-08-23 21:45:41,260 root            INFO     Equipo Aston Villa
+2022-08-23 21:45:43,023 root            INFO     País encontrado Zimbabue
+2022-08-23 21:45:43,025 root            INFO     País encontrado Jamaica
+2022-08-23 21:45:43,027 root            INFO     Equipo Everton FC
+2022-08-23 21:45:45,512 root            INFO     Equipo West Ham United
+2022-08-23 21:45:47,073 root            INFO     País encontrado República Checa
+2022-08-23 21:45:47,077 root            INFO     Equipo Wolverhampton Wanderers
+2022-08-23 21:45:50,508 root            INFO     Equipo Newcastle United
+2022-08-23 21:45:53,154 root            INFO     País encontrado Nueva Zelanda
+2022-08-23 21:45:53,155 root            INFO     Equipo Brentford FC
+2022-08-23 21:45:55,349 root            INFO     País encontrado Granada
+2022-08-23 21:45:55,350 root            INFO     País encontrado Irán
+2022-08-23 21:45:55,352 root            INFO     País encontrado RD del Congo
+2022-08-23 21:45:55,354 root            INFO     Equipo Leeds United
+2022-08-23 21:45:56,872 root            INFO     Equipo Southampton FC
+2022-08-23 21:45:59,037 root            INFO     Equipo Crystal Palace
+2022-08-23 21:46:00,534 root            INFO     Equipo Brighton & Hove Albion
+2022-08-23 21:46:02,576 root            INFO     País encontrado Rumania
+2022-08-23 21:46:02,577 root            INFO     Equipo Nottingham Forest
+2022-08-23 21:46:05,500 root            INFO     País encontrado Montserrat
+2022-08-23 21:46:05,501 root            INFO     Equipo Fulham FC
+2022-08-23 21:46:08,174 root            INFO     Equipo AFC Bournemouth
+2022-08-23 21:46:10,888 root            INFO     Equipo Inter de Milán
+2022-08-23 21:46:13,032 root            INFO     País encontrado Armenia
+2022-08-23 21:46:13,034 root            INFO     Equipo AC Milan
+2022-08-23 21:46:15,242 root            INFO     Equipo Juventus de Turín
+2022-08-23 21:46:17,132 root            INFO     Equipo SSC Nápoles
+2022-08-23 21:46:19,175 root            INFO     Equipo AS Roma
+2022-08-23 21:46:21,144 root            INFO     País encontrado Gambia
+2022-08-23 21:46:21,147 root            INFO     País encontrado Uzbekistán
+2022-08-23 21:46:21,149 root            INFO     Equipo Atalanta de Bérgamo
+2022-08-23 21:46:22,905 root            INFO     Equipo SS Lazio
+2022-08-23 21:46:24,707 root            INFO     País encontrado Lituania
+2022-08-23 21:46:24,710 root            INFO     País encontrado Surinam
+2022-08-23 21:46:24,715 root            INFO     Equipo Fiorentina
+2022-08-23 21:46:26,654 root            INFO     País encontrado Rusia
+2022-08-23 21:46:26,655 root            INFO     Equipo US Sassuolo
+2022-08-23 21:46:29,710 root            INFO     Equipo Torino FC
+2022-08-23 21:46:31,526 root            INFO     Equipo AC Monza
+2022-08-23 21:46:33,513 root            INFO     País encontrado Bulgaria
+2022-08-23 21:46:33,519 root            INFO     Equipo Bolonia
+2022-08-23 21:46:36,636 root            INFO     Equipo Udinese
+2022-08-23 21:46:39,107 root            INFO     Equipo Hellas Verona
+2022-08-23 21:46:41,402 root            INFO     Equipo US Salernitana 1919
+2022-08-23 21:46:45,034 root            INFO     País encontrado Moldavia
+2022-08-23 21:46:45,037 root            INFO     País encontrado Chipre
+2022-08-23 21:46:45,041 root            INFO     Equipo FC Empoli
+2022-08-23 21:46:46,962 root            INFO     Equipo UC Sampdoria
+2022-08-23 21:46:49,121 root            INFO     Equipo Spezia
+2022-08-23 21:46:51,697 root            INFO     País encontrado Islandia
+2022-08-23 21:46:51,700 root            INFO     País encontrado Angola
+2022-08-23 21:46:51,702 root            INFO     Equipo US Cremonese
+2022-08-23 21:46:55,654 root            INFO     Equipo US Lecce
+2022-08-23 21:46:58,135 root            INFO     País encontrado Finlandia
+2022-08-23 21:46:58,137 root            INFO     Equipo Bayern Múnich
+2022-08-23 21:47:00,212 root            INFO     País encontrado Canadá
+2022-08-23 21:47:00,217 root            INFO     Equipo Borussia Dortmund
+2022-08-23 21:47:02,052 root            INFO     Equipo RB Leipzig
+2022-08-23 21:47:05,003 root            INFO     País encontrado Hungría
+2022-08-23 21:47:05,009 root            INFO     Equipo Bayer 04 Leverkusen
+2022-08-23 21:47:06,896 root            INFO     País encontrado Burkina Faso
+2022-08-23 21:47:06,901 root            INFO     Equipo VfL Wolfsburgo
+2022-08-23 21:47:09,312 root            INFO     Equipo Eintracht Fráncfort​​
+2022-08-23 21:47:12,014 root            INFO     Equipo TSG 1899 Hoffenheim
+2022-08-23 21:47:15,632 root            INFO     Equipo Borussia Mönchengladbach
+2022-08-23 21:47:17,626 root            INFO     País encontrado Luxemburgo
+2022-08-23 21:47:17,628 root            INFO     Equipo SC Friburgo
+2022-08-23 21:47:20,505 root            INFO     Equipo VfB Stuttgart
+2022-08-23 21:47:26,434 root            INFO     Equipo Hertha Berlín
+2022-08-23 21:47:28,494 root            INFO     Equipo 1.FSV Mainz 05
+2022-08-23 21:47:30,870 root            INFO     Equipo FC Augsburgo
+2022-08-23 21:47:32,978 root            INFO     Equipo 1.FC Unión Berlín
+2022-08-23 21:47:34,580 root            INFO     Equipo FC Colonia
+2022-08-23 21:47:44,337 root            INFO     Equipo FC Schalke 04
+2022-08-23 21:47:47,995 root            INFO     Equipo SV Werder Bremen
+2022-08-23 21:48:02,262 root            INFO     Equipo VfL Bochum
+2022-08-23 21:48:03,948 root            INFO     País encontrado Costa Rica
+2022-08-23 21:48:03,951 root            INFO     País encontrado Filipinas
+2022-08-23 21:48:03,953 root            INFO     País encontrado Congo
+2022-08-23 21:48:03,954 root            INFO     Equipo París Saint-Germain FC
+2022-08-23 21:48:06,159 root            INFO     Equipo AS Mónaco
+2022-08-23 21:48:08,173 root            INFO     Equipo Olympique de Lyon
+2022-08-23 21:48:10,234 root            INFO     País encontrado Guayana Francesa
+2022-08-23 21:48:10,240 root            INFO     Equipo Olympique de Marsella
+2022-08-23 21:48:12,357 root            INFO     Equipo Stade Rennais FC
+2022-08-23 21:48:14,163 root            INFO     Equipo OGC Niza
+2022-08-23 21:48:16,156 root            INFO     Equipo LOSC Lille Métropole
+2022-08-23 21:48:17,888 root            INFO     Equipo RC Lens
