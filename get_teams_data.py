@@ -1,4 +1,6 @@
+from pickle import TRUE
 from this import d
+from tkinter import FALSE
 import requests
 from bs4 import BeautifulSoup
 import pandas as pd
@@ -55,7 +57,7 @@ def get_teams_from_web() :
             team_profile = "https://www.transfermarkt.es" + team.find_all("td", {"class": "hauptlink"})[0].find("a").get("href").replace('startseite','kader') + "/plus/1"
             df_teams.loc[len(df_teams)] = [team_name, team_image, team_profile]
     print(df_teams)
-    teams_saved = df_teams.to_sql("tab_teams", con=db_connection, if_exists="append", index=True, index_label="id" chunksize=1000)
+    teams_saved = df_teams.to_sql("tab_teams", con=db_connection, if_exists="append", index=False, chunksize=1000)
     logging.info("Total equipos guardados: {}".format(teams_saved))
 
 
@@ -85,7 +87,7 @@ def get_countries_from_web():
                 logging.info("País encontrado {}".format(player_country))
                 player_country_img = player_image_element.get("src").replace("verysmall", "head")
                 df_countries.loc[len(df_countries)] = [player_country, player_country_img]
-    countries_saved = df_countries.to_sql("tab_countries", con=db_connection, if_exists="replace", iindex=True, index_label="id", chunksize=1000)
+    countries_saved = df_countries.to_sql("tab_countries", con=db_connection, if_exists="append", index=False,  chunksize=1000)
     logging.info("Total paises guardados: {}".format(countries_saved))
 
 def get_players_from_web():
@@ -94,10 +96,10 @@ def get_players_from_web():
     df_teams = df_teams.reset_index()
 
     countries = pd.read_sql("SELECT * FROM tab_countries", con=db_connection)
-    #countries = countries.reset_index()
+    countries = countries.reset_index()
 
     logging.info("Empezando a obtener los datos de los jugadores")
-    player_column_names = ["name", "birth", "age", "height", "pref_foot", "position", "sing_date", "end_contract", "market_value", "img", "country", 'id_team', 'id_country']
+    player_column_names = ["name", "birth", "age", "height", "pref_foot", "position", "sing_date", "end_contract", "market_value", "image", "country", 'id_team', 'id_country']
     df_players = pd.DataFrame(columns=player_column_names)
 
 
@@ -125,21 +127,23 @@ def get_players_from_web():
             player_img = player.find("td", {"class": "posrela"}).find("table").find("tr").find("td").find("img").get("data-src")
             player_country = player.find_all("td", {"class": "zentriert"})[2].find("img").get("title")
             logging.info("Jugador {} - {} - {}".format(player_name, player_position, player_end_contract))
-            id_country = countries.loc[countries['country_name'] == player_country]['id_country'].values[0]
+            id_country = countries.loc[countries['name'] == player_country]['index'].values[0]
             
             df_players.loc[len(df_players)] = [player_name, player_birth, player_age, player_height, player_foot, player_position, player_sing_date, player_end_contract, player_market_value, player_img, player_country, id_team, id_country]
 
+            break
+        break
     for column in df_players :
         df_players.loc[( (df_players[column] == " ") | (df_players[column] == "-")), column] = np.nan
 
-        df_players['player_birth'] = df_players['player_birth'].astype('datetime64[ns]')
-        df_players['player_sing_date'] = df_players['player_sing_date'].astype('datetime64[ns]')
-        df_players['player_end_contract'] = df_players['player_end_contract'].astype('datetime64[ns]')
+        df_players['birth'] = df_players['birth'].astype('datetime64[ns]')
+        df_players['sing_date'] = df_players['sing_date'].astype('datetime64[ns]')
+        df_players['end_contract'] = df_players['end_contract'].astype('datetime64[ns]')
 
-    player_saved = df_players.to_sql("tab_players", con=db_connection, if_exists="append", index=True, index_label="id", chunksize=1000)
+    player_saved = df_players.to_sql("tab_players", con=db_connection, if_exists="append", index=False, chunksize=1000)
     logging.info("Total jugadores guardados: {}".format(player_saved))
 
 
-get_teams_from_web()
-get_countries_from_web()
-#get_players_from_web()
+#get_teams_from_web()
+#get_countries_from_web()
+get_players_from_web()
