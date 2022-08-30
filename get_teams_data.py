@@ -34,7 +34,7 @@ def remove_accents(text):
 
 
 def get_teams_from_web() :
-
+    '''Obtener los equipos de las 5 principales ligas de futbol.'''
     comps_url = [
         'https://www.transfermarkt.es/laliga/startseite/wettbewerb/ES1',
         'https://www.transfermarkt.es/premier-league/startseite/wettbewerb/GB1',
@@ -62,10 +62,8 @@ def get_teams_from_web() :
 
 
 
-
-
-
 def get_countries_from_web():
+    '''Obtener los paises recorriendo las url de los equipos obtenidos de la tabla tab_teams de la bbdd.'''
     df_teams = pd.read_sql("SELECT * FROM tab_teams", con=db_connection)
     df_teams = df_teams.reset_index()
     logging.info("Empezando a obtener los datos de los paises")
@@ -91,12 +89,12 @@ def get_countries_from_web():
     logging.info("Total paises guardados: {}".format(countries_saved))
 
 def get_players_from_web():
-
+    '''Obtener todos los jugadores de los equipos que esten almacenados en la bbdd en la tabla tab_teams.'''
     df_teams = pd.read_sql("SELECT * FROM tab_teams", con=db_connection)
     df_teams = df_teams.reset_index()
 
     countries = pd.read_sql("SELECT * FROM tab_countries", con=db_connection)
-    countries = countries.reset_index()
+    #countries = countries.reset_index()
 
     logging.info("Empezando a obtener los datos de los jugadores")
     player_column_names = ["name", "birth", "age", "height", "pref_foot", "position", "sing_date", "end_contract", "market_value", "image", "country", 'id_team', 'id_country']
@@ -106,7 +104,7 @@ def get_players_from_web():
     for index, row in df_teams.iterrows():
         logging.info("Equipo {}".format(row["team_name"]))
         url = row["team_profile"]
-        id_team = index
+        id_team = row['id_team']
         response_obj = requests.get(url, headers=headers)
         page_bs = BeautifulSoup(response_obj.content, 'html.parser')
         players = page_bs.find_all("table", {"class": "items"})[0].find_all("tr", {"class": re.compile(r"odd|even")})
@@ -127,18 +125,16 @@ def get_players_from_web():
             player_img = player.find("td", {"class": "posrela"}).find("table").find("tr").find("td").find("img").get("data-src")
             player_country = player.find_all("td", {"class": "zentriert"})[2].find("img").get("title")
             logging.info("Jugador {} - {} - {}".format(player_name, player_position, player_end_contract))
-            id_country = countries.loc[countries['name'] == player_country]['index'].values[0]
+            id_country = countries.loc[countries['name'] == player_country]['id_country'].values[0]
             
             df_players.loc[len(df_players)] = [player_name, player_birth, player_age, player_height, player_foot, player_position, player_sing_date, player_end_contract, player_market_value, player_img, player_country, id_team, id_country]
-
-            break
-        break
+            
     for column in df_players :
         df_players.loc[( (df_players[column] == " ") | (df_players[column] == "-")), column] = np.nan
 
-        df_players['birth'] = df_players['birth'].astype('datetime64[ns]')
-        df_players['sing_date'] = df_players['sing_date'].astype('datetime64[ns]')
-        df_players['end_contract'] = df_players['end_contract'].astype('datetime64[ns]')
+        df_players['birth'] = pd.to_datetime(df_players['birth'], infer_datetime_format=True, utc=True, errors='ignore')
+        df_players['sing_date'] = pd.to_datetime(df_players['sing_date'], infer_datetime_format=True, utc=True, errors='ignore')
+        df_players['end_contract'] = pd.to_datetime(df_players['end_contract'], infer_datetime_format=True, utc=True, errors='ignore')
 
     player_saved = df_players.to_sql("tab_players", con=db_connection, if_exists="append", index=False, chunksize=1000)
     logging.info("Total jugadores guardados: {}".format(player_saved))
