@@ -136,6 +136,7 @@ def get_players_from_web():
         df_players['sing_date'] = pd.to_datetime(df_players['sing_date'], infer_datetime_format=True, utc=True, errors='ignore')
         df_players['end_contract'] = pd.to_datetime(df_players['end_contract'], infer_datetime_format=True, utc=True, errors='ignore')
 
+
     player_saved = df_players.to_sql("tab_players", con=db_connection, if_exists="append", index=False, chunksize=1000)
     logging.info("Total jugadores guardados: {}".format(player_saved))
 

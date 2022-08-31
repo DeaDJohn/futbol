@@ -11,6 +11,11 @@ from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
 import time
 import logging
+from selenium import webdriver
+from selenium.webdriver.chrome.service import Service as ChromeService
+from webdriver_manager.chrome import ChromeDriverManager
+
+driver = webdriver.Chrome(service=ChromeService(ChromeDriverManager().install()))
 
 
 logging.basicConfig(
@@ -25,8 +30,9 @@ user = "root"
 pwd = "mauFJcuf5dhRMQrjj"
 mysql_db = "futbol_bd"
 
-db_connection = create_engine(f'mysql+pymysql://{user}:{pwd}@{host}:3307/{mysql_db}')
+db_connection = create_engine(f'mysql+pymysql://{user}:{pwd}@{host}:3306/{mysql_db}')
 connection = db_connection.connect
+logging.info(db_connection)
 
 def normalize_data(df):
     df = df.replace(u"á", "a").replace(u"é", "e").replace(u"í", "i").replace(u"ó", "o").replace(u"ú", "u")
@@ -38,7 +44,7 @@ def reorder_columns(df, column, pos):
     df.insert(loc=pos, column=column, value=column_val)
     return df
 
-driver = webdriver.Chrome("/usr/local/bin/chromedriver")
+#driver = webdriver.Chrome("/usr/local/bin/chromedriver")
 
 # Player (stats)
 stats = ['player', "nationality", "position", "squad", "age",  "games", "games_start", "minutes", "goals", "assists"]
@@ -74,7 +80,6 @@ def get_tables(url):
 
     soup = BeautifulSoup(page_source, 'lxml')
 
-
     all_tables = soup.find_all("tbody")
 
     if(all_tables[8]) :
@@ -90,9 +95,10 @@ def get_frame( features, player_table, is_outfield_player):
     features_wanted_player = features
     row_player = player_table.find_all("tr")
     for row in row_player:
-
-        logging.warning(row)
-        if(row.find("th", {"scope": "row"}) != None):
+        if row.find(class_='thead'):
+            continue
+        logging.info(row)
+        if(row.find("th", {"scope": "row"}) != None ):
             if( row.find("td", {"data-stat": 'position'}) != None) :
                 if((is_outfield_player == True) & (row.find("td", {"data-stat": 'position'}).text.strip() != "GK")):
                     for f in features_wanted_player:
@@ -100,14 +106,27 @@ def get_frame( features, player_table, is_outfield_player):
                         if cell:
                             a = cell.text.strip().encode()
                             text = a .decode('utf-8')
+                            if (text == ""):
+                                text = 0
                             if (text == "-"):
                                 text = 0
-                            if ((f != "player") & (f != "nationatily") & (f != "position") & (f != "squad") & (f != "age") & (f != "birth_year")):
-                                text = float(text.replace(",", ""))
+                            if( f == 'matches' and text == 'Partidos'):
+                                continue
+                            if (f == 'nationality'):
+                                # Dejar el codigo internacional
+                                text = text[-3:]
+                            if (f == 'age'):
+                                # Dejar solo la edad.
+                                text = text[0:2]
+                            if ((f != "player") & (f != 'nationality') & (f != "position") & (f != "squad") & (f != "age") & (f != "birth_year") ) :
+                                if( type(text) == str ):
+                                    text = float(text.replace(",", ""))
                             if f in pre_df_player:
                                 pre_df_player[f].append(text)
                             else:
                                 pre_df_player[f] = [text]
+                            
+                            pre_df_player['id_season'] = 1
                 elif( (is_outfield_player == False) & (row.find("td", {"data-stat": 'position'}).text.strip() != "GK")):
                     for f in features_wanted_player:
                         cell = row.find("td", {"data-stat": f})
@@ -116,7 +135,7 @@ def get_frame( features, player_table, is_outfield_player):
                             text = a .decode('utf-8')
                             if (text == "-"):
                                 text = 0
-                            if ((f != "player") & (f != "nationatily") & (f != "position") & (f != "squad") & (f != "age") & (f != "birth_year")):
+                            if ((f != "player") & (f != "nationality") & (f != "position") & (f != "squad") & (f != "age") & (f != "birth_year")):
                                 text = float(text.replace(",", ""))
                             if f in pre_df_player:
                                 pre_df_player[f].append(text)
@@ -125,7 +144,6 @@ def get_frame( features, player_table, is_outfield_player):
     df_player = pd.DataFrame.from_dict(pre_df_player)
     return df_player
             
-
 
 
 def frame_for_category(category, top, end, features, is_outfield_player):
@@ -158,5 +176,15 @@ def get_keeper_data(top, end):
     logging.info(df)
     return df
 
-df_out_premier_league = get_outfield_data('https://fbref.com/es/comps/22/', '/Estadisticas-de-Major-League-Soccer/')
+df_out_premier_league = get_outfield_data('https://fbref.com/es/comps/9/', '/Estadisticas-de-Premier-League/')
+df_out_premier_league.to_excel('mls.xlsx')
+#try:
+#    #this will fail if there is a new column
+#    player_saved = df_out_premier_league.to_sql(name='tab_stats_player', con=db_connection, if_exists = 'append', index=False)
+#except:
+#    data = pd.read_sql('SELECT * FROM tab_stats_player', db_connection)
+#    df_out_premier_league2 = pd.concat([data,df_out_premier_league])
+#    player_saved = df_out_premier_league2.to_sql(name='tab_stats_player', con=db_connection, if_exists = 'replace', index=False)
+#
+logging.info("Total jugadores guardados: {}".format(player_saved))
 print(df_out_premier_league)
