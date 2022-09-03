@@ -175,12 +175,31 @@ def get_keeper_data(top, end):
     df = df.loc[:, ~df.columns.duplicated()]
     logging.info(df)
     return df
+def get_players_of_web():
+    df_out_premier_league = get_outfield_data('https://fbref.com/es/comps/9/', '/Estadisticas-de-Premier-League/')
+    df_out_la_liga = get_outfield_data('https://fbref.com/es/comps/12/', '/Estadisticas-de-La-Liga/')
+    df_out_serie_a = get_outfield_data('https://fbref.com/es/comps/11/', '/Estadisticas-de-Serie-A/')
+    df_out_bundesliga = get_outfield_data('https://fbref.com/es/comps/11/', '/Estadisticas-de-Bundesliga/')
+    df_out_bundesliga = get_outfield_data('https://fbref.com/es/comps/11/', '/Estadisticas-de-Ligue-1/')
 
-df_out_premier_league = get_outfield_data('https://fbref.com/es/comps/9/', '/Estadisticas-de-Premier-League/')
-df_out_premier_league.to_excel('mls.xlsx')
+
+    df_ourfield = pd.concat([df_out_premier_league, df_out_la_liga, df_out_serie_a, df_out_bundesliga, df_out_bundesliga], ignore_index=True)
+    df_ourfield.drop_duplicates(subset=['player'], keep='last', inplace=True, ignore_index=True)
+
+def get_goalkeepers_of_web():
+    df_kpr_premier_league = get_keeper_data('https://fbref.com/es/comps/9/', '/Estadisticas-de-Premier-League/')
+    df_kpr_la_liga = get_keeper_data('https://fbref.com/es/comps/12/', '/Estadisticas-de-La-Liga/')
+    df_kpr_serie_a = get_keeper_data('https://fbref.com/es/comps/11/', '/Estadisticas-de-Serie-A/')
+    df_kpr_bundesliga = get_keeper_data('https://fbref.com/es/comps/11/', '/Estadisticas-de-Bundesliga/')
+    df_kpr_bundesliga = get_keeper_data('https://fbref.com/es/comps/11/', '/Estadisticas-de-Ligue-1/')
+
+
+    df_keeper = pd.concat([df_kpr_premier_league, df_kpr_la_liga, df_kpr_serie_a, df_kpr_bundesliga, df_kpr_bundesliga], ignore_index=True)
+    df_keeper.drop_duplicates(subset=['player'], keep='last', inplace=True, ignore_index=True)
+
 #try:
 #    #this will fail if there is a new column
-#    player_saved = df_out_premier_league.to_sql(name='tab_stats_player', con=db_connection, if_exists = 'append', index=False)
+player_saved = df_out_premier_league.to_sql(name='tab_stats_player', con=db_connection, if_exists = 'append', index=False)
 #except:
 #    data = pd.read_sql('SELECT * FROM tab_stats_player', db_connection)
 #    df_out_premier_league2 = pd.concat([data,df_out_premier_league])
