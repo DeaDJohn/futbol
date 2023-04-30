@@ -1,0 +1,1 @@
+2022-12-04 23:47:28,157 root            INFO     Engine(mysql+pymysql://root:***@localhost:3306/futbol_bd)
