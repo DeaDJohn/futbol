@@ -3,6 +3,7 @@ import { useParams } from 'react-router-dom';
 
 function Player() {
     const [playerData, setPlayerData] = useState([]);
+    const [playerStatsData, setPlayerStatsData] = useState([]);
     const { id } = useParams();
 
     
@@ -25,9 +26,8 @@ function Player() {
             console.log(playerData);
           const fetchTeam = async () => {
             const response = await fetch(`http://127.0.0.1:5000/team/${playerData.id_team}`);
-            const team = await response.json();
-            const data = playerData + team;
-            setPlayerData( data );
+            const data = await response.json();
+            setPlayerStatsData( data );
           };
       
           fetchTeam();
@@ -52,6 +52,14 @@ function Player() {
             <h1>{playerData.player_name}</h1>
           </div>
           <div className="w-full md:w-1/2 lg:w-3/4 px-2 py-2">
+            {
+              playerStatsData ?
+              <div>
+                {}
+              </div>
+              :
+              <div>Loading</div>
+            }
           </div>
 
       </div>
